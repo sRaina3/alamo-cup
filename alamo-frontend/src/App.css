@@ -1,14 +1,10 @@
 body {
-  background:-moz-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
-  background:-webkit-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
-  background:-o-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
-  background:-ms-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
-  background:radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+  background: rgb(39, 41, 48);
 }
 
 .header {
   text-align: center;
-  color: goldenrod;
+  color: #ddbb88;
   font-size: 24px;
 }
 
@@ -20,20 +16,33 @@ body {
 
 table {
   width: 80%;
-  background-color: white;
+  background-color: transparent;
   border-collapse: collapse;
+  color: white;
 }
 
 th, td {
   padding: 10px;
   text-align: center;
+  color: white;
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: transparent;
+  color: rgb(163, 152, 152);
   font-weight: bold;
+  font-size: 24px;
 }
 
 td {
-  border: 1px solid #ddd;
+  padding: 20px 10px;
+  border-top: 1px solid #a40dc2;
+}
+
+td:first-child {
+  border-left: none;
+}
+
+td:last-child {
+  border-right: none;
 }

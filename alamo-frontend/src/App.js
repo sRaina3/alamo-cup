@@ -63,6 +63,7 @@ const App = () => {
         <table>
           <thead>
             <tr>
+              <th>Rank</th>
               <th>Player Name</th>
               <th>AT Count</th>
               <th>Missing</th>
@@ -84,8 +85,9 @@ const App = () => {
   const displayLeaderboard = (list) => {
     return (
       <>
-        {list.map((player) => (
+        {list.map((player, index) => (
           <tr key={player.name}>
+            <td>{index + 1}</td>
             <td>{player.name}</td>
             <td>{player.ATcount}</td>
             <td>{mapATList.length - player.ATcount}</td>
