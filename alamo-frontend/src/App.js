@@ -58,7 +58,22 @@ const App = () => {
       }
     }
     playerArr.sort(sortByAt)
-    return displayLeaderboard(playerArr)
+    return (
+      <div className="leaderboard">
+        <table>
+          <thead>
+            <tr>
+              <th>Player Name</th>
+              <th>AT Count</th>
+              <th>Missing</th>
+            </tr>
+          </thead>
+          <tbody>
+            {displayLeaderboard(playerArr)}
+          </tbody>
+        </table>
+      </div>
+    )
   }
 
   const sortByAt = (a, b) => {
@@ -67,20 +82,24 @@ const App = () => {
   }
 
   const displayLeaderboard = (list) => {
-    console.log(list)
     return (
-      <div>
-        {list.map((player) => 
-          <div key={player.name}>
-            {player.name} {player.ATcount}
-          </div>
-        )}
-      </div>
+      <>
+        {list.map((player) => (
+          <tr key={player.name}>
+            <td>{player.name}</td>
+            <td>{player.ATcount}</td>
+            <td>{mapATList.length - player.ATcount}</td>
+          </tr>
+        ))}
+      </>
     )
   }
 
   return (
     <div>
+      <div className='header'>
+        <h1>AT Rankings</h1>
+      </div>
       {constructLeaderboard()}
     </div>
   )

@@ -1,0 +1,39 @@
+body {
+  background:-moz-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+  background:-webkit-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+  background:-o-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+  background:-ms-radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+  background:radial-gradient(circle at 50% 45%, rgb(40, 110, 186) 0%, rgb(15, 43, 84) 100%);
+}
+
+.header {
+  text-align: center;
+  color: goldenrod;
+  font-size: 24px;
+}
+
+.leaderboard {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+table {
+  width: 80%;
+  background-color: white;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid #ddd;
+}
