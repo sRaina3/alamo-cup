@@ -99,7 +99,7 @@ const App = () => {
 
   return (
     <div>
-      <div className='header'>
+      <div className='header-text'>
         <h1>AT Rankings</h1>
       </div>
       {constructLeaderboard()}

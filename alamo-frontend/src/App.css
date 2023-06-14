@@ -2,10 +2,12 @@ body {
   background: rgb(39, 41, 48);
 }
 
-.header {
+.header-text {
   text-align: center;
   color: #ddbb88;
   font-size: 24px;
+  margin-top: 120px;
+  font-family: "Roboto", sans-serif;
 }
 
 .leaderboard {
@@ -25,18 +27,20 @@ th, td {
   padding: 10px;
   text-align: center;
   color: white;
+  font-family: "Roboto", sans-serif;
 }
 
 th {
   background-color: transparent;
   color: rgb(163, 152, 152);
   font-weight: bold;
-  font-size: 24px;
+  font-size: 26px;
 }
 
 td {
   padding: 20px 10px;
-  border-top: 1px solid #a40dc2;
+  border-top: 1px solid #ffaa00;
+  font-size: 18px;
 }
 
 td:first-child {
