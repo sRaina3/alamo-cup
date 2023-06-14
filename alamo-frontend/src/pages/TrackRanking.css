@@ -1,0 +1,10 @@
+.header-button {
+  font-weight: bold;
+  font-size: 26px;
+  font-family: "Roboto", sans-serif;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: inherit;
+}

@@ -1,6 +1,14 @@
+import { useState} from 'react'
 import './PlayerRanking.css'
+import './TrackRanking.css'
 
 const TrackRanking = ({mapATList}) => {
+  const [sortOrder, setSortOrder] = useState(false)
+
+  const updateSortOrder = () => {
+    setSortOrder(!sortOrder)
+  }
+
   const constructLeaderboard = () => {
     mapATList.sort(sortByAt)
     return (
@@ -10,7 +18,15 @@ const TrackRanking = ({mapATList}) => {
             <tr>
               <th>Rank</th>
               <th>Map Name</th>
-              <th>AT Count</th>
+              <th>
+                <button className="header-button" onClick={updateSortOrder}>AT Count{' '}
+                  {sortOrder ? (
+                    <span className="sort-arrow">&#9650;</span>
+                  ) : (
+                    <span className="sort-arrow">&#9660;</span>
+                  )}
+                </button>
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -22,7 +38,11 @@ const TrackRanking = ({mapATList}) => {
   }
 
   const sortByAt = (a, b) => {
-    return a.ATHolders.length - b.ATHolders.length
+    if (sortOrder) {
+      return b.ATHolders.length - a.ATHolders.length
+    } else {
+      return a.ATHolders.length - b.ATHolders.length
+    }
   }
 
   const displayLeaderboard = (list) => {
