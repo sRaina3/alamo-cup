@@ -17,11 +17,21 @@ const App = () => {
         while (response.campaigns[pos]) {
           const mapDetails = response.campaigns[pos].mapsDetail
           for (let i = 0; i < mapDetails.length; i++) {
-            const newMap = {
-              UID: mapDetails[i].mapUid,
-              Name: mapDetails[i].name,
-              AT: mapDetails[i].authorScore,
-              ATHolders: []
+            let newMap;
+            if (mapDetails[i].filename.substring(0, mapDetails[i].filename.length-8).length > 60) {
+              newMap = {
+                UID: mapDetails[i].mapUid,
+                Name: mapDetails[i].name,
+                AT: mapDetails[i].authorScore,
+                ATHolders: []
+              }
+            } else {
+              newMap = {
+                UID: mapDetails[i].mapUid,
+                Name: mapDetails[i].filename.substring(0, mapDetails[i].filename.length-8),
+                AT: mapDetails[i].authorScore,
+                ATHolders: []
+              }
             }
             mapList.push(newMap)
           }

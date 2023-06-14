@@ -3,7 +3,6 @@ import './PlayerRanking.css'
 const TrackRanking = ({mapATList}) => {
   const constructLeaderboard = () => {
     mapATList.sort(sortByAt)
-    console.log(mapATList)
     return (
       <div className="leaderboard">
         <table>
