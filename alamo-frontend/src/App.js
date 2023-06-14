@@ -20,7 +20,7 @@ const App = () => {
             console.log(mapDetails[i].name)
             const newMap = {
               UID: mapDetails[i].mapUid,
-              Name: mapDetails[i].name.replace(/\$[a-zA-Z0-9]{1,3}/g, ''),
+              Name: mapDetails[i].name.replace(/\$i{1}/g, '').replace(/\$g{1}/g, '').replace(/\$[a-zA-Z0-9]{1,3}/g, ''),
               AT: mapDetails[i].authorScore,
               ATHolders: []
             }
