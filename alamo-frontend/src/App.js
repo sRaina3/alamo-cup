@@ -1,5 +1,8 @@
 import { useState, useEffect } from 'react'
 import userService from './services/UserService'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import TrackRanking from './pages/TrackRanking';
+import Navbar from './Navbar'
 
 import PlayerRanking from './pages/PlayerRanking';
 
@@ -16,6 +19,7 @@ const App = () => {
           for (let i = 0; i < mapDetails.length; i++) {
             const newMap = {
               UID: mapDetails[i].mapUid,
+              Name: mapDetails[i].name,
               AT: mapDetails[i].authorScore,
               ATHolders: []
             }
@@ -40,13 +44,16 @@ const App = () => {
       })
   }, [])
 
-  if (mapATList.length !== 0) {
-    return (
-      <div>
-        <PlayerRanking mapATList={mapATList}/>
-      </div>
-    )
-  }
+  return (
+    <Router>
+      <Navbar />
+      <Routes>
+        <Route path='/' element={<PlayerRanking mapATList={mapATList}/>}/>
+        <Route path='/Tracks' element={<TrackRanking mapATList={mapATList}/>}/>
+        <Route path='*' element={<PlayerRanking mapATList={mapATList}/>}/>
+      </Routes>
+    </Router>
+  )
 }
 
 export default App;
