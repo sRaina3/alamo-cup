@@ -1,8 +1,6 @@
 import { useState, useEffect } from 'react'
 import userService from './services/UserService'
 
-import './pages/PlayerRanking'
-import './App.css';
 import PlayerRanking from './pages/PlayerRanking';
 
 const App = () => {
