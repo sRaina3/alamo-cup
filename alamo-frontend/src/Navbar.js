@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-
+import Alamo from './assets/favicon.ico'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -7,6 +7,7 @@ const Navbar = () => {
     <div className='full-navbar'>
       <nav>
         <ul className='navbar'>
+          <li><Link to='/'> <img src={Alamo} alt="Logo"/> </Link></li>
           <li><Link to='/' className="hover-color"> Author Medals </Link></li>
           <li><Link to='/World-Records' className="hover-color"> World Records </Link></li>
           <li><Link to='/Tracks' className="hover-color"> Tracks </Link></li>
