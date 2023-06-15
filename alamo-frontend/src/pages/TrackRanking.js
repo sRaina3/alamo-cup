@@ -20,7 +20,7 @@ const TrackRanking = ({mapATList}) => {
               <th>Map Name</th>
               <th>
                 <button className="header-button" onClick={updateSortOrder}>AT Count{' '}
-                  {sortOrder ? (
+                  {!sortOrder ? (
                     <span className="sort-arrow">&#9650;</span>
                   ) : (
                     <span className="sort-arrow">&#9660;</span>

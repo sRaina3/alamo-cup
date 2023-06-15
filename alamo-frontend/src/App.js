@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react'
 import userService from './services/UserService'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import TrackRanking from './pages/TrackRanking';
+import WorldRecordRanking from './pages/WorldRecordRanking';
+import AuthorRanking from './pages/AuthorRanking';
 import Navbar from './Navbar'
 
 import PlayerRanking from './pages/PlayerRanking';
@@ -17,10 +19,10 @@ const App = () => {
         while (response.campaigns[pos]) {
           const mapDetails = response.campaigns[pos].mapsDetail
           for (let i = 0; i < mapDetails.length; i++) {
-            console.log(mapDetails[i].name)
             const newMap = {
               UID: mapDetails[i].mapUid,
-              Name: mapDetails[i].name.replace(/\$i{1}/g, '').replace(/\$g{1}/g, '').replace(/\$[a-zA-Z0-9]{1,3}/g, ''),
+              Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
+              MapperName: mapDetails[i].author,
               AT: mapDetails[i].authorScore,
               ATHolders: []
             }
@@ -40,17 +42,18 @@ const App = () => {
           }
           pos++
         }
-
         setMapATList(mapList)
       })
   }, [])
 
   return (
-    <Router>
+    <Router basename="/alamo-cup">
       <Navbar />
       <Routes>
         <Route path='/' element={<PlayerRanking mapATList={mapATList}/>}/>
+        <Route path='/World-Records' element={<WorldRecordRanking mapATList={mapATList}/>}/>
         <Route path='/Tracks' element={<TrackRanking mapATList={mapATList}/>}/>
+        <Route path='/Map-Authors' element={<AuthorRanking mapATList={mapATList}/>}/>
         <Route path='*' element={<PlayerRanking mapATList={mapATList}/>}/>
       </Routes>
     </Router>
