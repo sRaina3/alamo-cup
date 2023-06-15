@@ -12,9 +12,11 @@ var fs = require('fs');
 
 const login = async credentials => {
   try {
+    console.log('attemping login')
     const { ticket } = await loginUbi(credentials) // login to ubi, level 0
     return await loginTrackmaniaUbi(ticket) // login to trackmania, level 1
   } catch (e) {
+    console.log('login failed')
     console.log(e.toJSON())
   }
 }
@@ -177,7 +179,6 @@ const getTrackData = async loggedIn => {
           mapsDetail[i].authorName = mapAuthorNames[i].displayName
         }
         camp.mapsDetail = mapsDetail;
-        console.log(camp.mapsDetail)
         // 4. for each campaign, pass the list of maps to get the records 
         camp.groupId = campaign.campaign.leaderboardGroupUid;
         camps.push(camp);
@@ -190,8 +191,8 @@ const getTrackData = async loggedIn => {
         const mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid)
         camp.mapsRecords[mapDet.mapUid] = mapRecords;
 
-        //var waitTill = new Date(new Date().getTime() + 100);
-        //while (waitTill > new Date()) { }
+        var waitTill = new Date(new Date().getTime() + 1500);
+        while (waitTill > new Date()) { }
       }
       data.campaigns.push(camp)
     }
@@ -215,7 +216,7 @@ const getTrackData = async loggedIn => {
       if (loggedIn) {
         try {
           console.log('logged in, attempting data')
-            await getTrackData(loggedIn)
+          await getTrackData(loggedIn)
         } catch (e) {
             console.log(e)
         }
