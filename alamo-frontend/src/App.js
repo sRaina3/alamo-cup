@@ -22,7 +22,7 @@ const App = () => {
             const newMap = {
               UID: mapDetails[i].mapUid,
               Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
-              MapperName: mapDetails[i].author,
+              MapperName: mapDetails[i].authorName,
               AT: mapDetails[i].authorScore,
               ATHolders: []
             }
