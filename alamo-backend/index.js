@@ -96,7 +96,7 @@ const getMapRecordsFromTMIO = async (groupId, mapId) => {
       url: 'https://trackmania.io/api/leaderboard/' + groupId + '/' + mapId + '?offset=0&length=100',
       method: 'GET',
       headers: {
-        'User-Agent': 'Alamo Cup AT Tracker'
+        'User-Agent': 'Alamo Cup AT Tracker: saranshraina1@gmail.com'
       },
     });
 
@@ -111,6 +111,22 @@ const getMapRecordsFromTMIO = async (groupId, mapId) => {
   }
 };
 
+const getPlayerName = async (playerIdList) => {
+  try {
+    const headers = mySetHeaders(loggedIn.accessToken, 'nadeo');
+    const response = await axios.default({
+      url: myUrls.prodTrackmania + '/accounts/displayNames/?accountIdList=' + playerIdList,
+      method: 'GET',
+      headers
+    });
+
+    return response['data'];
+  } catch (error) {
+    await loginAgain()
+    return getPlayerName(playerIdList);
+  }
+};
+
 const getTrackData = async loggedIn => {
   const { accessToken, accountId, username } = loggedIn
   myAccessToken = accessToken;
@@ -121,6 +137,7 @@ const getTrackData = async loggedIn => {
     }
 
     nadeoTokens = await loginTrackmaniaNadeo(accessToken, 'NadeoLiveServices')
+    
     var AlamoId = '48466';
 
     // 1. get all Alamo campaigns in the club
@@ -150,10 +167,18 @@ const getTrackData = async loggedIn => {
         console.log("Downloading maps for mapUids: ", mapUids);
 
         // 3. for each campaign, pass the list of maps to get the map details
-        const mapsDetail = await getMaps(myAccessToken, mapUids)
+        let mapsDetail = await getMaps(myAccessToken, mapUids)
+        let playerList = mapsDetail[0].author
+        for (let i = 1; i < mapsDetail.length; i++) {
+          playerList = playerList.concat(',' + mapsDetail[i].author)
+        }
+        const mapAuthorNames = await getPlayerName(playerList)
+        for (let i = 0; i < mapAuthorNames.length; i++) {
+          mapsDetail[i].authorName = mapAuthorNames[i].displayName
+        }
         camp.mapsDetail = mapsDetail;
-
-        // 4. for each campaign, pass the list of maps to get the records (sleep 2 seconds between every request)
+        console.log(camp.mapsDetail)
+        // 4. for each campaign, pass the list of maps to get the records 
         camp.groupId = campaign.campaign.leaderboardGroupUid;
         camps.push(camp);
       }
@@ -165,8 +190,8 @@ const getTrackData = async loggedIn => {
         const mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid)
         camp.mapsRecords[mapDet.mapUid] = mapRecords;
 
-        var waitTill = new Date(new Date().getTime() + 2000);
-        while (waitTill > new Date()) { }
+        //var waitTill = new Date(new Date().getTime() + 100);
+        //while (waitTill > new Date()) { }
       }
       data.campaigns.push(camp)
     }
