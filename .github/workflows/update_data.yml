@@ -13,20 +13,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: access backend folder
-        run: cd alamo-backend
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          node-version: 16.13.x
-          cache: npm
+          node-version: 14
 
       - name: npm ci
         run: npm ci
+        working-directory: ./alamo-backend
 
       - name: Build data.json
         run: node index.js
+        working-directory: ./alamo-backend
 
       - name: Commit and push changes
         run: |
