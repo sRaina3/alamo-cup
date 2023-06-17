@@ -8,6 +8,9 @@ on:
 jobs:
   update_data:
     runs-on: ubuntu-latest
+    env:
+      TM_EMAIL: ${{ secrets.TM_EMAIL }}
+      TM_PW: ${{ secrets.TM_PW }}
 
     steps:
       - name: Checkout repository
@@ -33,3 +36,4 @@ jobs:
           git add data.json
           git commit -m "Update data.json"
           git push
+        working-directory: ./alamo-backend
