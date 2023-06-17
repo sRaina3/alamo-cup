@@ -18,6 +18,9 @@ jobs:
           node-version: 16.13.x
           cache: npm
       
+      - name: access backend folder
+        run: cd alamo-backend
+
       - name: npm ci
         run: npm ci
 
@@ -27,7 +30,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config --global user.name "sRaina3"
-          git config --global user.email "${TM_EMAIL}""
+          git config --global user.email "saranshraina1@gmail.com"
           git add data.json
           git commit -m "Update data.json"
           git push
