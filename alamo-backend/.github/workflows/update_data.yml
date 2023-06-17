@@ -1,0 +1,33 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.13.x
+          cache: npm
+      
+      - name: npm ci
+        run: npm ci
+
+      - name: Build data.json
+        run: node index.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "sRaina3"
+          git config --global user.email "${TM_EMAIL}""
+          git add data.json
+          git commit -m "Update data.json"
+          git push
