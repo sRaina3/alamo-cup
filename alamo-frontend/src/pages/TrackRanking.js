@@ -27,6 +27,7 @@ const TrackRanking = ({mapATList}) => {
                   )}
                 </button>
               </th>
+              <th>Author Time</th>
             </tr>
           </thead>
           <tbody>
@@ -53,6 +54,9 @@ const TrackRanking = ({mapATList}) => {
             <td>{index + 1}</td>
             <td>{map.Name}</td>
             <td>{map.ATHolders.length}</td>
+            <td>{map.AT.toString().substring(0,map.AT.toString().length - 3)
+                  .concat(`.${map.AT.toString().substring(map.AT.toString().length - 3, map.AT.toString().length)}`)}
+            </td>
           </tr>
         ))}
       </>

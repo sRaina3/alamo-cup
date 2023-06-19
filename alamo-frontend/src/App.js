@@ -16,6 +16,7 @@ const App = () => {
       .then(response => {
         let pos = 0
         let mapList = []
+        console.log(response.campaigns[0])
         while (response.campaigns[pos]) {
           const mapDetails = response.campaigns[pos].mapsDetail
           for (let i = 0; i < mapDetails.length; i++) {

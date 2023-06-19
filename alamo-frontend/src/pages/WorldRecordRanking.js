@@ -6,9 +6,6 @@ const WorldRecordRanking = ({mapATList}) => {
     for (let i = 0; i < mapATList.length; i++) {
       let player = playerArr.find(player => player.name === mapATList[i].ATHolders[0])
       if (player) {
-        if (player.WRcount == 2) {
-          console.log(mapATList[i])
-        }
         player.WRcount++
       } else {
         let newPlayer = {
