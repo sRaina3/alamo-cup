@@ -174,9 +174,13 @@ const getTrackData = async loggedIn => {
         for (let i = 1; i < mapsDetail.length; i++) {
           playerList = playerList.concat(',' + mapsDetail[i].author)
         }
+        const arrPL = playerList.split(',')
         const mapAuthorNames = await getPlayerName(playerList)
-        for (let i = 0; i < mapAuthorNames.length; i++) {
-          mapsDetail[i].authorName = mapAuthorNames[i].displayName
+        for (let i = 0; i < arrPL.length; i++) {
+          const dName = mapAuthorNames.find(n => n.accountId === arrPL[i])
+          if (dName) {
+            mapsDetail[i].authorName = dName.displayName
+          }
         }
         camp.mapsDetail = mapsDetail;
         // 4. for each campaign, pass the list of maps to get the records 
