@@ -59,7 +59,7 @@ const App = () => {
   }, [])
 
   return (
-    <Router basename="/alamo-cup">
+    <Router>
       <Navbar />
       <Routes>
         <Route path='/' element={<PlayerRanking mapATList={mapATList}/>}/>
