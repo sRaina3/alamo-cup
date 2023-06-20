@@ -1,0 +1,29 @@
+.about-container {
+  margin-top: 120px;
+  font-family: "Roboto", sans-serif;
+}
+
+.about-header {
+  color: #ddbb88;
+  font-size: 40px;
+  text-align: center;
+}
+
+.about-exp {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+a {
+  color: #ddbb88;
+}
+
+.centered-ref {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

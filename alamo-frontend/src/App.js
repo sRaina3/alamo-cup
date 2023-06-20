@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import TrackRanking from './pages/TrackRanking';
 import WorldRecordRanking from './pages/WorldRecordRanking';
 import AuthorRanking from './pages/AuthorRanking';
+import About from './pages/About';
 import Navbar from './Navbar'
 
 import PlayerRanking from './pages/PlayerRanking';
@@ -66,6 +67,7 @@ const App = () => {
         <Route path='/World-Records' element={<WorldRecordRanking mapATList={mapATList}/>}/>
         <Route path='/Tracks' element={<TrackRanking mapATList={mapATList}/>}/>
         <Route path='/Map-Authors' element={<AuthorRanking mapATList={mapATList}/>}/>
+        <Route path='/About' element={<About/>}/>
         <Route path='*' element={<PlayerRanking mapATList={mapATList}/>}/>
       </Routes>
     </Router>
