@@ -17,32 +17,19 @@ const App = () => {
       .then(response => {
         let pos = 0
         let mapList = []
-        console.log(response.campaigns[1])
         while (response.campaigns[pos]) {
           const mapDetails = response.campaigns[pos].mapsDetail
           for (let i = 0; i < mapDetails.length; i++) {
-            let newMap
-            if (mapDetails[i].filename === "Bubblegum drifts.Map.Gbx") {
-              newMap = {
-                UID: mapDetails[i].mapUid,
-                Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
-                MapperName: "Numberplay",
-                AT: mapDetails[i].authorScore,
-                ATHolders: []
-              }
-            } else {
-              newMap = {
-                UID: mapDetails[i].mapUid,
-                Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
-                MapperName: mapDetails[i].authorName,
-                AT: mapDetails[i].authorScore,
-                ATHolders: []
-              }
+            let newMap = {
+              UID: mapDetails[i].mapUid,
+              Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
+              MapperName: mapDetails[i].authorName,
+              AT: mapDetails[i].authorScore,
+              ATHolders: []
             }
             mapList.push(newMap)
           }
-
-
+          
           const mapRecords = response.campaigns[pos].mapsRecords
           for (const map in mapRecords) {
             const records = mapRecords[map]
