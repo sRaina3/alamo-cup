@@ -196,9 +196,10 @@ const getTrackData = async loggedIn => {
         let offset = 0;
         do {
         mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid, offset)
+        console.log(offset)
         camp.mapsRecords[mapDet.mapUid] = camp.mapsRecords[mapDet.mapUid].concat(mapRecords.tops)
         offset += mapRecords.tops.length
-        } while (offset < mapRecords.playercount)
+        } while (offset < mapRecords.playercount && offset < 10000)
 
         var waitTill = new Date(new Date().getTime() + 1500);
         while (waitTill > new Date()) { }
