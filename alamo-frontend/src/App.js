@@ -45,7 +45,7 @@ const App = () => {
 
           const mapRecords = response.campaigns[pos].mapsRecords
           for (const map in mapRecords) {
-            const records = mapRecords[map].tops
+            const records = mapRecords[map]
             const mapObj = mapList.find(elem => elem.UID === map)
             for (let i = 0; i < records.length; i++) {
               if (records[i].time <= mapObj.AT) {
