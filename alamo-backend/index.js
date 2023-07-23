@@ -92,10 +92,10 @@ const getCampaign = async (clubId, campaignId) => {
 };
 
 var retry = 0;
-const getMapRecordsFromTMIO = async (groupId, mapId) => {
+const getMapRecordsFromTMIO = async (groupId, mapId, offset) => {
   try {
     const response = await axios.default({
-      url: 'https://trackmania.io/api/leaderboard/' + groupId + '/' + mapId + '?offset=0&length=100',
+      url: 'https://trackmania.io/api/leaderboard/' + groupId + '/' + mapId + '?offset=' + offset + '&length=100',
       method: 'GET',
       headers: {
         'User-Agent': 'Alamo Cup AT Tracker: saranshraina1@gmail.com'
@@ -191,9 +191,14 @@ const getTrackData = async loggedIn => {
     for (var camp of camps) {
       for (var mapDet of camp.mapsDetail) {
         console.log("Downloading records for map", mapDet.mapUid)
-
-        const mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid)
-        camp.mapsRecords[mapDet.mapUid] = mapRecords;
+        camp.mapsRecords[mapDet.mapUid] = []
+        let mapRecords
+        let offset = 0;
+        do {
+        mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid, offset)
+        camp.mapsRecords[mapDet.mapUid] = camp.mapsRecords[mapDet.mapUid].concat(mapRecords.tops)
+        offset += mapRecords.tops.length
+        } while (offset < mapRecords.playercount)
 
         var waitTill = new Date(new Date().getTime() + 1500);
         while (waitTill > new Date()) { }
