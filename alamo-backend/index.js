@@ -1,4 +1,5 @@
 require('dotenv').config()
+
 const axios = require('axios')
 const {loginUbi, loginTrackmaniaUbi, 
        loginTrackmaniaNadeo, getMaps} = require('trackmania-api-node')
@@ -7,8 +8,6 @@ var loggedIn;
 var credentials;
 var nadeoTokens;
 var loginAttempts = 0;
-
-var fs = require('fs');
 
 const login = async credentials => {
   try {
@@ -141,7 +140,7 @@ const getTrackData = async loggedIn => {
     nadeoTokens = await loginTrackmaniaNadeo(accessToken, 'NadeoLiveServices')
     
     var AlamoId = '48466';
-
+    
     // 1. get all Alamo campaigns in the club
     const activity = await getClubActivity(AlamoId);
     data.activity = activity;
@@ -188,9 +187,11 @@ const getTrackData = async loggedIn => {
         camps.push(camp);
       }
     }
+    let count = 1;
     for (var camp of camps) {
       for (var mapDet of camp.mapsDetail) {
-        console.log("Downloading records for map", mapDet.mapUid)
+        console.log("Downloading records for map: ", count)
+        count++;
         camp.mapsRecords[mapDet.mapUid] = []
         let mapRecords
         let offset = 0;
@@ -207,10 +208,25 @@ const getTrackData = async loggedIn => {
       data.campaigns.push(camp)
     }
 
-    // 5. write the data.json file
-    fs.writeFile('data.json', JSON.stringify(data, null, 2), function (err) {
-      if (err) throw err;
-    })
+    for (const c in data.campaigns) {
+      const camp = data.campaigns[c]
+      for (let i = 0; i < camp.mapsDetail.length; i++) {
+        const mapUID = camp.mapsDetail[i].mapUid
+        const newMap = {
+          _id: mapUID,
+          name: camp.mapsDetail[i].name,
+          authorName: camp.mapsDetail[i].authorName,
+          authorScore: camp.mapsDetail[i].authorScore,
+          records: camp.mapsRecords[mapUID]
+        }
+        axios.post('http://alamo-api.us-east-1.elasticbeanstalk.com/api/mapRecords', newMap)
+          .then(response => {
+            console.log('upload complete')
+          })
+          .catch(error => console.log(error))
+
+      }
+    }
   } catch (e) {
     console.log(e)
   }
