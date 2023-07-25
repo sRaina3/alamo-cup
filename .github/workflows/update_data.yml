@@ -1,0 +1,39 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    env:
+      TM_EMAIL: ${{ secrets.TM_EMAIL }}
+      TM_PW: ${{ secrets.TM_PW }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+        working-directory: ./alamo-backend
+
+      - name: Build data.json
+        run: node index.js
+        working-directory: ./alamo-backend
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "sRaina3"
+          git config --global user.email "saranshraina1@gmail.com"
+          git add data.json
+          git commit -m "Update data.json"
+          git push
+        working-directory: ./alamo-backend

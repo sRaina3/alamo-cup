@@ -1,6 +1,5 @@
 import axios from 'axios'
-//const baseURL = 'https://raw.githubusercontent.com/sRaina3/alamo-cup/main/alamo-backend/data.json'
-const baseURL = 'http://alamo-api.us-east-1.elasticbeanstalk.com/api/mapRecords';
+const baseURL = 'https://raw.githubusercontent.com/sRaina3/alamo-cup/main/alamo-backend/data.json'
 
 const getInfo = () => {
   const request = axios.get(baseURL)

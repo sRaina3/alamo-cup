@@ -1,5 +1,4 @@
 require('dotenv').config()
-
 const axios = require('axios')
 const {loginUbi, loginTrackmaniaUbi, 
        loginTrackmaniaNadeo, getMaps} = require('trackmania-api-node')
@@ -8,6 +7,8 @@ var loggedIn;
 var credentials;
 var nadeoTokens;
 var loginAttempts = 0;
+
+var fs = require('fs');
 
 const login = async credentials => {
   try {
@@ -140,7 +141,7 @@ const getTrackData = async loggedIn => {
     nadeoTokens = await loginTrackmaniaNadeo(accessToken, 'NadeoLiveServices')
     
     var AlamoId = '48466';
-    
+
     // 1. get all Alamo campaigns in the club
     const activity = await getClubActivity(AlamoId);
     data.activity = activity;
@@ -197,36 +198,20 @@ const getTrackData = async loggedIn => {
         let offset = 0;
         do {
         mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid, offset)
-        console.log(offset)
+        let timer = new Date(new Date().getTime() + 2000)
+        while (timer > new Date()) { }
         camp.mapsRecords[mapDet.mapUid] = camp.mapsRecords[mapDet.mapUid].concat(mapRecords.tops)
         offset += mapRecords.tops.length
-        } while (offset < mapRecords.playercount && offset < 10000)
-
-        var waitTill = new Date(new Date().getTime() + 1500);
-        while (waitTill > new Date()) { }
-      }
+        } while (mapRecords.tops[offset - 1].time <= mapDet.authorScore 
+                  && offset < mapRecords.playercount && offset < 10000)
+      } 
       data.campaigns.push(camp)
     }
 
-    for (const c in data.campaigns) {
-      const camp = data.campaigns[c]
-      for (let i = 0; i < camp.mapsDetail.length; i++) {
-        const mapUID = camp.mapsDetail[i].mapUid
-        const newMap = {
-          _id: mapUID,
-          name: camp.mapsDetail[i].name,
-          authorName: camp.mapsDetail[i].authorName,
-          authorScore: camp.mapsDetail[i].authorScore,
-          records: camp.mapsRecords[mapUID]
-        }
-        axios.post('http://alamo-api.us-east-1.elasticbeanstalk.com/api/mapRecords', newMap)
-          .then(response => {
-            console.log('upload complete')
-          })
-          .catch(error => console.log(error))
-
-      }
-    }
+    // 5. write the data.json file
+    fs.writeFile('data.json', JSON.stringify(data, null, 2), function (err) {
+      if (err) throw err;
+    })
   } catch (e) {
     console.log(e)
   }
