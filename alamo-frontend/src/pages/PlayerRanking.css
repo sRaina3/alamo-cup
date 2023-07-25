@@ -50,3 +50,25 @@ td:first-child {
 td:last-child {
   border-right: none;
 }
+
+.page-buttons-container-left {
+  position: absolute;
+  top: 125px;
+  left: 120px;
+}
+
+.page-buttons-container-right {
+  position: absolute;
+  top: 125px;
+  right: 120px;
+}
+
+.page-button {
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: rgb(211, 206, 206);;
+}
