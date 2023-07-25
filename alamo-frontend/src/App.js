@@ -3,11 +3,10 @@ import userService from './services/UserService'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import TrackRanking from './pages/TrackRanking';
 import WorldRecordRanking from './pages/WorldRecordRanking';
+import PlayerRanking from './pages/PlayerRanking';
 import AuthorRanking from './pages/AuthorRanking';
 import About from './pages/About';
 import Navbar from './Navbar'
-
-import PlayerRanking from './pages/PlayerRanking';
 
 const App = () => {
   const [mapATList, setMapATList] = useState([])
@@ -17,27 +16,22 @@ const App = () => {
       .then(response => {
         let pos = 0
         let mapList = []
-        while (response.campaigns[pos]) {
-          const mapDetails = response.campaigns[pos].mapsDetail
-          for (let i = 0; i < mapDetails.length; i++) {
-            let newMap = {
-              UID: mapDetails[i].mapUid,
-              Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
-              MapperName: mapDetails[i].authorName,
-              AT: mapDetails[i].authorScore,
-              ATHolders: []
-            }
-            mapList.push(newMap)
+        while (response[pos]) {
+          const mapDetails = response[pos]
+          let newMap = {
+            UID: mapDetails.id,
+            Name: mapDetails.name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
+            MapperName: mapDetails.authorName,
+            AT: mapDetails.authorScore,
+            ATHolders: []
           }
+          mapList.push(newMap)
           
-          const mapRecords = response.campaigns[pos].mapsRecords
-          for (const map in mapRecords) {
-            const records = mapRecords[map]
-            const mapObj = mapList.find(elem => elem.UID === map)
-            for (let i = 0; i < records.length; i++) {
-              if (records[i].time <= mapObj.AT) {
-                mapObj.ATHolders.push(records[i].player.name)
-              }
+          const mapRecords = response[pos].records
+          for (const r in mapRecords) {
+            const record = mapRecords[r]
+            if (record.time <= mapList[pos].AT) {
+              mapList[pos].ATHolders.push(record.player.name)
             }
           }
           pos++
