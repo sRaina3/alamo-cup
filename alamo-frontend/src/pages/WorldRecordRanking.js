@@ -1,18 +1,11 @@
 import './PlayerRanking.css';
 
-const WorldRecordRanking = ({mapATList}) => {
+const WorldRecordRanking = ({playerList}) => {
   const constructLeaderboard = () => {
     let playerArr = []
-    for (let i = 0; i < mapATList.length; i++) {
-      let player = playerArr.find(player => player.name === mapATList[i].ATHolders[0])
-      if (player) {
-        player.WRcount++
-      } else {
-        let newPlayer = {
-          name: mapATList[i].ATHolders[0],
-          WRcount: 1
-        }
-        playerArr.push(newPlayer)
+    for (let i = 0; i < playerList.length; i++) {
+      if (playerList[i].WRcount > 0) {
+        playerArr.push(playerList[i])
       }
     }
     playerArr.sort(sortByWR)
@@ -43,9 +36,11 @@ const WorldRecordRanking = ({mapATList}) => {
       <>
         {list.map((player, index) => (
           <tr key={index}>
-            <td>{index + 1}</td>
-            <td>{player.name}</td>
-            <td>{player.WRcount}</td>
+            <td className={`rank ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : ''}`}>
+              {index + 1}
+            </td>
+            <td className='displayFont'>{player.id}</td>
+            <td className='displayFont'>{player.WRcount}</td>
           </tr>
         ))}
       </>

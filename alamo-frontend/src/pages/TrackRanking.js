@@ -2,7 +2,7 @@ import { useState} from 'react'
 import './PlayerRanking.css'
 import './TrackRanking.css'
 
-const TrackRanking = ({mapATList}) => {
+const TrackRanking = ({trackList}) => {
   const [sortOrder, setSortOrder] = useState(false)
 
   const updateSortOrder = () => {
@@ -10,7 +10,7 @@ const TrackRanking = ({mapATList}) => {
   }
 
   const constructLeaderboard = () => {
-    mapATList.sort(sortByAt)
+    trackList.sort(sortByAT)
     return (
       <div className="leaderboard">
         <table>
@@ -31,18 +31,18 @@ const TrackRanking = ({mapATList}) => {
             </tr>
           </thead>
           <tbody>
-            {displayLeaderboard(mapATList)}
+            {displayLeaderboard(trackList)}
           </tbody>
         </table>
       </div>
     )
   }
 
-  const sortByAt = (a, b) => {
+  const sortByAT = (a, b) => {
     if (sortOrder) {
-      return b.ATHolders.length - a.ATHolders.length
+      return b.ATcount - a.ATcount
     } else {
-      return a.ATHolders.length - b.ATHolders.length
+      return a.ATcount - b.ATcount
     }
   }
 
@@ -51,11 +51,11 @@ const TrackRanking = ({mapATList}) => {
       <>
         {list.map((map, index) => (
           <tr key={map.UID}>
-            <td>{index + 1}</td>
-            <td>{map.Name}</td>
-            <td>{map.ATHolders.length}</td>
-            <td>{map.AT.toString().substring(0,map.AT.toString().length - 3)
-                  .concat(`.${map.AT.toString().substring(map.AT.toString().length - 3, map.AT.toString().length)}`)}
+            <td className="rank">{index + 1}</td>
+            <td className='displayFont'>{map.id}</td>
+            <td className='displayFont'>{map.ATcount}</td>
+            <td className='displayFont'>{map.AT.toString().substring(0,map.AT.toString().length - 3)
+              .concat(`.${map.AT.toString().substring(map.AT.toString().length - 3, map.AT.toString().length)}`)}
             </td>
           </tr>
         ))}
