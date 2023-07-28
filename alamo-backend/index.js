@@ -1,4 +1,5 @@
 require('dotenv').config()
+
 const axios = require('axios')
 const {loginUbi, loginTrackmaniaUbi, 
        loginTrackmaniaNadeo, getMaps} = require('trackmania-api-node')
@@ -7,8 +8,6 @@ var loggedIn;
 var credentials;
 var nadeoTokens;
 var loginAttempts = 0;
-
-var fs = require('fs');
 
 const login = async credentials => {
   try {
@@ -39,7 +38,7 @@ const defaultHeaders = {
     'Ubi-RequestedPlatformType': 'uplay',
 };
 
-mySetHeaders = (auth, type) => type === 'basic'
+const mySetHeaders = (auth, type) => type === 'basic'
   ? Object.assign(Object.assign({}, defaultHeaders), { Authorization: 'Basic ' + auth }) : type === 'ubi'
     ? Object.assign(Object.assign({}, defaultHeaders), { Authorization: 'ubi_v1 t=' + auth }) : type === 'nadeo' && Object.assign(Object.assign({}, defaultHeaders), { Authorization: 'nadeo_v1 t=' + auth });
 
@@ -109,7 +108,7 @@ const getMapRecordsFromTMIO = async (groupId, mapId, offset) => {
     if (retry > 3) {
       process.exit()
     }
-    return getMapRecordsFromTMIO(groupId, mapId);
+    return getMapRecordsFromTMIO(groupId, mapId, offset);
   }
 };
 
@@ -141,7 +140,7 @@ const getTrackData = async loggedIn => {
     nadeoTokens = await loginTrackmaniaNadeo(accessToken, 'NadeoLiveServices')
     
     var AlamoId = '48466';
-
+    
     // 1. get all Alamo campaigns in the club
     const activity = await getClubActivity(AlamoId);
     data.activity = activity;
@@ -188,7 +187,9 @@ const getTrackData = async loggedIn => {
         camps.push(camp);
       }
     }
+    let APIcount = 0;
     let count = 1;
+    const startTime = new Date().getTime()
     for (var camp of camps) {
       for (var mapDet of camp.mapsDetail) {
         console.log("Downloading records for map: ", count)
@@ -198,20 +199,130 @@ const getTrackData = async loggedIn => {
         let offset = 0;
         do {
         mapRecords = await getMapRecordsFromTMIO(camp.groupId, mapDet.mapUid, offset)
-        let timer = new Date(new Date().getTime() + 2000)
+        APIcount++;
+        var timer = new Date(new Date().getTime() + 2000)
         while (timer > new Date()) { }
         camp.mapsRecords[mapDet.mapUid] = camp.mapsRecords[mapDet.mapUid].concat(mapRecords.tops)
         offset += mapRecords.tops.length
-        } while (mapRecords.tops[offset - 1].time <= mapDet.authorScore 
+        } while (mapRecords.tops[mapRecords.tops.length - 1].time <= mapDet.authorScore 
                   && offset < mapRecords.playercount && offset < 10000)
       } 
       data.campaigns.push(camp)
     }
+    const endTime = new Date().getTime()
+    const timeTaken = (endTime - startTime)/60000
+    console.log(APIcount/timeTaken + " TMIO Calls/min")
 
-    // 5. write the data.json file
-    fs.writeFile('data.json', JSON.stringify(data, null, 2), function (err) {
-      if (err) throw err;
-    })
+    //API CALLS DONE SO PROCESS DATA NEXT
+    
+    let mapATList = []
+    for (const c in data.campaigns) {
+      const camp = data.campaigns[c]
+      for (let i = 0; i < camp.mapsDetail.length; i++) {
+        const mapUID = camp.mapsDetail[i].mapUid
+        const newMap = {
+          _id: mapUID,
+          name: camp.mapsDetail[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
+          mapperName: camp.mapsDetail[i].authorName,
+          AT: camp.mapsDetail[i].authorScore,
+          ATHolders: []
+        }
+
+        const mapRecords = camp.mapsRecords[mapUID];
+        for (const record of mapRecords) {
+          if (record.time <= newMap.AT) {
+            newMap.ATHolders.push(record.player.name);
+          }
+        }
+        mapATList.push(newMap)
+      }
+    }
+
+    // Add AT Stats
+    let playerArr = []
+    for (let i = 0; i < mapATList.length; i++) {
+      const curMap = mapATList[i]
+      for (let j = 0; j < curMap.ATHolders.length; j++) {
+        let player = playerArr.find(player => player._id === curMap.ATHolders[j])
+        if (player) {
+          player.ATcount++
+        } else {
+          let newPlayer = {
+            _id: curMap.ATHolders[j],
+            ATcount: 1,
+            WRcount: 0,
+            Mapcount: 0
+          }
+          if (newPlayer._id) {
+            playerArr.push(newPlayer)
+          }
+        }
+      }
+    }
+
+    // Add WR Stats
+    for (let i = 0; i < mapATList.length; i++) {
+      let player = playerArr.find(player => player._id === mapATList[i].ATHolders[0])
+      if (player) {
+        player.WRcount++
+      }
+    }
+
+    // Add Mapping Stats
+    for (let i = 0; i < mapATList.length; i++) {
+      let mapper = playerArr.find(player => player._id === mapATList[i].mapperName)
+      if (mapper) {
+        mapper.Mapcount++
+      } else {
+        let newMapper = {
+          _id: mapATList[i].mapperName,
+          ATcount: 0,
+          WRcount: 0,
+          Mapcount: 1
+        }
+        if (newMapper._id) {
+          playerArr.push(newMapper)
+        }
+      }
+    }
+
+    // Add Track Stats
+    let trackArr = []
+    for (let i = 0; i < mapATList.length; i++) {
+      const curMap = mapATList[i]
+      const newTrack = {
+        _id: curMap.name,
+        AT: curMap.AT,
+        ATcount: curMap.ATHolders.length
+      }
+      if (newTrack._id) {
+        trackArr.push(newTrack)
+      }
+    }
+
+    // Send Data to Database
+    console.log('uploading player data')
+    for (let i = 0; i < playerArr.length; i += 1000) {
+      let batchArr = playerArr.slice(i,i+1000)
+      axios.post('https://ey39vc0xjb.execute-api.us-east-1.amazonaws.com/prod/api/players', batchArr)
+        .then(response => {
+          console.log(response.data)
+        })
+        .catch(error => {
+          console.log("error with player data: ", error.response.data)
+        })
+    }
+    console.log('uploading track data')
+    for (let i = 0; i < trackArr.length; i += 1000) {
+      let batchArr = trackArr.slice(i,i+1000)
+      axios.post('https://ey39vc0xjb.execute-api.us-east-1.amazonaws.com/prod/api/tracks', batchArr)
+        .then(response => {
+          console.log(response.data)
+        })
+        .catch(error => {
+          console.log("error with track data", error.response.data)
+        })
+    }
   } catch (e) {
     console.log(e)
   }
@@ -241,5 +352,3 @@ const getTrackData = async loggedIn => {
     console.log("TM_PW must be set")
   }
 })()
-
-console.log("Done")
