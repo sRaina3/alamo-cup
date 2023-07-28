@@ -1,18 +1,11 @@
 import './PlayerRanking.css';
 
-const AuthorRanking = ({mapATList}) => {
+const AuthorRanking = ({playerList}) => {
   const constructLeaderboard = () => {
     let mapperArr = []
-    for (let i = 0; i < mapATList.length; i++) {
-      let mapper = mapperArr.find(player => player.name === mapATList[i].MapperName)
-      if (mapper) {
-        mapper.TrackCount++
-      } else {
-        let newMapper = {
-          name: mapATList[i].MapperName,
-          TrackCount: 1
-        }
-        mapperArr.push(newMapper)
+    for (let i = 0; i < playerList.length; i++) {
+      if (playerList[i].Mapcount > 0) {
+        mapperArr.push(playerList[i])
       }
     }
     mapperArr.sort(sortByTrackCount)
@@ -35,7 +28,7 @@ const AuthorRanking = ({mapATList}) => {
   }
 
   const sortByTrackCount = (a, b) => {
-    return b.TrackCount - a.TrackCount
+    return b.Mapcount - a.Mapcount
   }
 
   const displayLeaderboard = (list) => {
@@ -43,9 +36,11 @@ const AuthorRanking = ({mapATList}) => {
       <>
         {list.map((mapper, index) => (
           <tr key={index}>
-            <td>{index + 1}</td>
-            <td>{mapper.name}</td>
-            <td>{mapper.TrackCount}</td>
+            <td className={`rank ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : ''}`}>
+              {index + 1}
+            </td>
+            <td className='displayFont'>{mapper.id}</td>
+            <td className='displayFont'>{mapper.Mapcount}</td>
           </tr>
         ))}
       </>

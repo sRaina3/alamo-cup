@@ -1,25 +1,17 @@
+import { useState } from 'react'
 import './PlayerRanking.css';
 
-const PlayerRanking = ({mapATList}) => {
-  
+const PlayerRanking = ({playerList, trackCount}) => {
+  const [curPage, setCurPage] = useState(1)
+
+  let playerArr = []
   const constructLeaderboard = () => {
-    let playerArr = []
-    for (let i = 0; i < mapATList.length; i++) {
-      const curMap = mapATList[i]
-      for (let j = 0; j < curMap.ATHolders.length; j++) {
-        let player = playerArr.find(player => player.name === curMap.ATHolders[j])
-        if (player) {
-          player.ATcount++
-        } else {
-          let newPlayer = {
-            name: curMap.ATHolders[j],
-            ATcount: 1
-          }
-          playerArr.push(newPlayer)
-        }
+    for (let i = 0; i < playerList.length; i++) {
+      if (playerList[i].ATcount > 0) {
+        playerArr.push(playerList[i])
       }
     }
-    playerArr.sort(sortByAt)
+    playerArr.sort(sortByAT)
     return (
       <div className="leaderboard">
         <table>
@@ -32,14 +24,14 @@ const PlayerRanking = ({mapATList}) => {
             </tr>
           </thead>
           <tbody>
-            {displayLeaderboard(playerArr)}
+            {displayLeaderboard(playerArr.slice(((curPage - 1) * 100), curPage * 100))}
           </tbody>
         </table>
       </div>
     )
   }
 
-  const sortByAt = (a, b) => {
+  const sortByAT = (a, b) => {
     return b.ATcount - a.ATcount
   }
 
@@ -47,21 +39,42 @@ const PlayerRanking = ({mapATList}) => {
     return (
       <>
         {list.map((player, index) => (
-          <tr key={player.name}>
-            <td>{index + 1}</td>
-            <td>{player.name}</td>
-            <td>{player.ATcount}</td>
-            <td>{mapATList.length - player.ATcount}</td>
+          <tr key={player.id}>
+            <td className={`rank ${curPage === 1 && index === 0 ? 'gold' : curPage === 1 
+                            && index === 1 ? 'silver' : curPage === 1 && index === 2 ? 'bronze' : ''}`}>
+              {index + 1 + ((curPage - 1) * 100)}
+            </td>
+            <td className='displayFont'>{player.id}</td>
+            <td className='displayFont'>{player.ATcount}</td>
+            <td className='displayFont'>{trackCount - player.ATcount}</td>
           </tr>
         ))}
       </>
     )
   }
 
+  const prevPage = () => {
+    if (curPage > 1) {
+      setCurPage(curPage - 1)
+    }
+  }
+
+  const nextPage = () => {
+    if (curPage * 100 < playerList.length) {
+      setCurPage(curPage + 1)
+    }
+  }
+
   return (
     <div>
       <div className='header-text'>
         <h1>AT Rankings</h1>
+      </div>
+      <div className="page-buttons-container-left">
+        <button className='page-button' onClick={prevPage}>&#9664; Prev</button>
+      </div>
+      <div className="page-buttons-container-right"> 
+        <button className='page-button' onClick={nextPage}>Next {"\u25B6"}</button>
       </div>
       {constructLeaderboard()}
     </div>
