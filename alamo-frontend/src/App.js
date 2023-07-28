@@ -3,59 +3,39 @@ import userService from './services/UserService'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import TrackRanking from './pages/TrackRanking';
 import WorldRecordRanking from './pages/WorldRecordRanking';
+import PlayerRanking from './pages/PlayerRanking';
 import AuthorRanking from './pages/AuthorRanking';
 import About from './pages/About';
 import Navbar from './Navbar'
 
-import PlayerRanking from './pages/PlayerRanking';
-
 const App = () => {
-  const [mapATList, setMapATList] = useState([])
+  const [trackList, setTrackList] = useState(JSON.parse(localStorage.getItem('trackList')) || []);
+  const [playerList, setPlayerList] = useState(JSON.parse(localStorage.getItem('playerList')) || []);
 
   useEffect(() => {
-    userService.getInfo()
+    userService.getPlayers()
       .then(response => {
-        let pos = 0
-        let mapList = []
-        while (response.campaigns[pos]) {
-          const mapDetails = response.campaigns[pos].mapsDetail
-          for (let i = 0; i < mapDetails.length; i++) {
-            let newMap = {
-              UID: mapDetails[i].mapUid,
-              Name: mapDetails[i].name.replace(/\$[0-9a-fA-F]{3}/g, '').replace(/\$[oiwntsgzOIWNTSGZ$]/g, ''),
-              MapperName: mapDetails[i].authorName,
-              AT: mapDetails[i].authorScore,
-              ATHolders: []
-            }
-            mapList.push(newMap)
-          }
-          
-          const mapRecords = response.campaigns[pos].mapsRecords
-          for (const map in mapRecords) {
-            const records = mapRecords[map]
-            const mapObj = mapList.find(elem => elem.UID === map)
-            for (let i = 0; i < records.length; i++) {
-              if (records[i].time <= mapObj.AT) {
-                mapObj.ATHolders.push(records[i].player.name)
-              }
-            }
-          }
-          pos++
-        }
-        setMapATList(mapList)
+        setPlayerList(response)
+        localStorage.setItem('playerList', JSON.stringify(response));
       })
-  }, [])
+    userService.getTracks()
+      .then(response => {
+        setTrackList(response)
+        localStorage.setItem('trackList', JSON.stringify(response));
+      })
+  }, []);
+
 
   return (
     <Router>
       <Navbar />
       <Routes>
-        <Route path='/' element={<PlayerRanking mapATList={mapATList}/>}/>
-        <Route path='/World-Records' element={<WorldRecordRanking mapATList={mapATList}/>}/>
-        <Route path='/Tracks' element={<TrackRanking mapATList={mapATList}/>}/>
-        <Route path='/Map-Authors' element={<AuthorRanking mapATList={mapATList}/>}/>
+        <Route path='/' element={<PlayerRanking playerList={playerList} trackCount={trackList.length}/>}/>
+        <Route path='/World-Records' element={<WorldRecordRanking playerList={playerList}/>}/>
+        <Route path='/Tracks' element={<TrackRanking trackList={trackList}/>}/>
+        <Route path='/Map-Authors' element={<AuthorRanking playerList={playerList}/>}/>
         <Route path='/About' element={<About/>}/>
-        <Route path='*' element={<PlayerRanking mapATList={mapATList}/>}/>
+        <Route path='*' element={<PlayerRanking playerList={playerList}/>}/>
       </Routes>
     </Router>
   )

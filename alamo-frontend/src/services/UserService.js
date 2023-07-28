@@ -1,10 +1,16 @@
 import axios from 'axios'
-const baseURL = 'https://raw.githubusercontent.com/sRaina3/alamo-cup/main/alamo-backend/data.json'
+const baseURL = 'https://ey39vc0xjb.execute-api.us-east-1.amazonaws.com/prod';
 
-const getInfo = () => {
-  const request = axios.get(baseURL)
+const getPlayers = () => {
+  const request = axios.get(baseURL + "/api/players")
   return request.then(response => response.data)
 }
-const userService = {getInfo}
+
+const getTracks = () => {
+  const request = axios.get(baseURL + '/api/tracks')
+  return request.then(response => response.data)
+}
+
+const userService = {getPlayers, getTracks}
 
 export default userService
