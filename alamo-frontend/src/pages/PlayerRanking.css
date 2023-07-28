@@ -50,3 +50,51 @@ td:first-child {
 td:last-child {
   border-right: none;
 }
+
+.page-buttons-container-left {
+  position: absolute;
+  top: 130px;
+  left: 120px;
+}
+
+.page-buttons-container-right {
+  position: absolute;
+  top: 130px;
+  right: 120px;
+}
+
+.page-button {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  color: rgb(211, 206, 206);
+  transition: color 0.3s ease 0s;
+}
+
+.page-button:hover {
+  color: rgba(19, 160, 216, 0.8);
+}
+
+.rank {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.gold {
+  color: rgb(255, 217, 0);
+}
+
+.silver {
+  color: rgb(135, 135, 135);
+}
+
+.bronze {
+  color: #cd7f32; /* Bronze color */
+}
+
+.displayFont {
+  font-size: 21px;
+}
