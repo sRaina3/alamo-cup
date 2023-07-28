@@ -28,12 +28,3 @@ jobs:
       - name: Build data.json
         run: node index.js
         working-directory: ./alamo-backend
-
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "sRaina3"
-          git config --global user.email "saranshraina1@gmail.com"
-          git add data.json
-          git commit -m "Update data.json"
-          git push
-        working-directory: ./alamo-backend
