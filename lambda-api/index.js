@@ -3,6 +3,7 @@ const cors = require('cors')
 const mongoose = require('mongoose');
 const serverless = require('serverless-http');
 const { Player, Track } = require('./models');
+const warmer = require('lambda-warmer')
 
 const app = express()
 
@@ -48,7 +49,7 @@ app.post('/api/tracks', async (request, response) => {
         const newTrack = new Track({ ...request.body[i] });
         await newTrack.save();
       } else {
-        await Track.findByIdAndUpdate(trackId, { ...request.body[i] }, { new: true });
+        await Track.findByIdAndUpdate(track._id, { ...request.body[i] }, { new: true });
       }
     }
     response.json('success');
@@ -66,13 +67,14 @@ app.use(unknownEndpoint)
 
 const url = process.env.MONGODB_URI;
 
-mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true })
-  .then(() => {
-    console.log('Connected to MongoDB');
-  })
-  .catch((error) => {
-    console.log('Error connecting to MongoDB:', error.message);
-  });
-
-// Wrap the Express app with serverless-http
-module.exports.handler = serverless(app);
+module.exports.handler = async function (event, context) {
+  if (await warmer(event)) return 'warmed'
+  try {
+    await mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true })
+    console.log('Connected to MongoDB')
+  } catch (error) {
+    console.log('Error connecting to MongoDB:', error.message)
+    throw error
+  }
+  return serverless(app)(event, context)
+}
