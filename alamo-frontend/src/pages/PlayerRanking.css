@@ -51,16 +51,10 @@ td:last-child {
   border-right: none;
 }
 
-.page-buttons-container-left {
-  position: absolute;
-  top: 130px;
-  left: 120px;
-}
-
-.page-buttons-container-right {
-  position: absolute;
-  top: 130px;
-  right: 120px;
+.page-buttons-container {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
 }
 
 .page-button {
