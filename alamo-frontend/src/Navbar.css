@@ -56,3 +56,22 @@
 .cta:hover {
   background-color: rgba(162, 85, 3, 0.8);
 }
+
+@media (max-width: 800px) {
+  .full-navbar {
+    padding: 20px 1%;
+    width: 120%;
+  }
+
+  .navbar img {
+    margin-left: -10px;
+  }
+
+  .navbar li {
+    padding: 0px 0px;
+  }
+
+  .navbar li:first-child {
+    margin-left: 40px;
+  }
+}
