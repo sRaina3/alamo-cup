@@ -12,6 +12,7 @@ const App = () => {
   const [trackList, setTrackList] = useState(JSON.parse(localStorage.getItem('trackList')) || []);
   const [playerList, setPlayerList] = useState(JSON.parse(localStorage.getItem('playerList')) || []);
 
+  // Get player and track data from server
   useEffect(() => {
     userService.getPlayers()
       .then(response => {
