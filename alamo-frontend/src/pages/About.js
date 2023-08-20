@@ -78,7 +78,7 @@ const About = () => {
       Thanks to all the streamers and people in chat for being a part of the event. Thanks FyredUp 
       for testing maps, Rabbi for collecting maps, Parker for recruitment, and 925 on admin. </p>
       
-      <p>And of course, a huge Thanks to Hydro/Milkenjoyer2298 for creating this website. Thanks to 
+      <p>And of course, a huge Thanks to Saransh Raina/Hydro for creating this website. Thanks to 
       his helpers Random, and FyredUp, and thanks to MattDTO for sharing his source code for his 
       KEKL AT Hunt website.</p>
       
