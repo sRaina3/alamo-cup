@@ -59,19 +59,25 @@
 
 @media (max-width: 800px) {
   .full-navbar {
-    padding: 20px 1%;
-    width: 120%;
+    width: 180%;
+    font-size: 12px;
   }
 
   .navbar img {
-    margin-left: -10px;
+    margin-left: 10px;
+    max-height: 90px;
+    width: auto
   }
 
   .navbar li {
-    padding: 0px 0px;
+    padding: 0px 10px;
   }
 
   .navbar li:first-child {
-    margin-left: 40px;
+    margin-left: 10px;
+  }
+
+  .hover-color {
+    padding: 0px 0px;
   }
 }
