@@ -28,7 +28,7 @@ const About = () => {
       <div className="about-header"> MAPS </div>
       <div className="about-exp">
       Alamo Cup is completely supported and reliant on the community to submit maps. Anyone is able 
-      to submit a map if the following conditions are met, 30 seconds or longer, unreleased, and 
+      to submit a map if the following conditions are met, 35 seconds or longer, unreleased, and 
       respawnable. Above all else, make your map easy to discover. If you would like to only submit 
       a route, Rabbi can decorate it for you, and submit it to the cup. 
       
