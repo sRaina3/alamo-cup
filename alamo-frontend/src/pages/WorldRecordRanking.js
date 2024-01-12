@@ -39,7 +39,7 @@ const WorldRecordRanking = ({playerList}) => {
             <td className={`rank ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : ''}`}>
               {index + 1}
             </td>
-            <td className='displayFont'>{player.id}</td>
+            <td className='displayFont'>{player._id}</td>
             <td className='displayFont'>{player.WRcount}</td>
           </tr>
         ))}

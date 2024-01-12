@@ -60,7 +60,7 @@ const PlayerRanking = ({ playerList, trackCount }) => {
                 >
                   {index + 1 + startIndex}
                 </td>
-                <td className="displayFont">{player.id}</td>
+                <td className="displayFont">{player._id}</td>
                 <td className="displayFont">{player.ATcount}</td>
                 <td className="displayFont">{trackCount - player.ATcount}</td>
               </tr>

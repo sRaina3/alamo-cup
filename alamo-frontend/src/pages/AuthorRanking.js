@@ -39,7 +39,7 @@ const AuthorRanking = ({playerList}) => {
             <td className={`rank ${index === 0 ? 'gold' : index === 1 ? 'silver' : index === 2 ? 'bronze' : ''}`}>
               {index + 1}
             </td>
-            <td className='displayFont'>{mapper.id}</td>
+            <td className='displayFont'>{mapper._id}</td>
             <td className='displayFont'>{mapper.Mapcount}</td>
           </tr>
         ))}

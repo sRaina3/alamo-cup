@@ -148,7 +148,7 @@ const getPlayerName = async (playerIdList) => {
         Authorization: `Bearer ${OAuthToken}`,
       },
     });
-    return Object.values(response.data);
+    return response.data;
   } catch (error) {
     await loginAgain()
     return getPlayerName(playerIdList);
@@ -204,9 +204,9 @@ const getTrackData = async loggedIn => {
         const arrPL = playerList.split('&accountId[]=')
         const mapAuthorNames = await getPlayerName(playerList)
         for (let i = 0; i < arrPL.length; i++) {
-          const dName = mapAuthorNames.find(n => n.accountId === arrPL[i])
+          const dName = mapAuthorNames[mapsDetail[i].author]
           if (dName) {
-            mapsDetail[i].authorName = dName.displayName
+            mapsDetail[i].authorName = dName
           }
         }
         camp.mapsDetail = mapsDetail;

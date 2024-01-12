@@ -52,7 +52,7 @@ const TrackRanking = ({trackList}) => {
         {list.map((map, index) => (
           <tr key={map.UID}>
             <td className="rank">{index + 1}</td>
-            <td className='displayFont'>{map.id}</td>
+            <td className='displayFont'>{map._id}</td>
             <td className='displayFont'>{map.ATcount}</td>
             <td className='displayFont'>{map.AT.toString().substring(0,map.AT.toString().length - 3)
               .concat(`.${map.AT.toString().substring(map.AT.toString().length - 3, map.AT.toString().length)}`)}
