@@ -25,6 +25,15 @@ jobs:
         run: npm install
         working-directory: ./alamo-backend
 
-      - name: Build data.json
+      - name: Build data files
         run: node index.js
+        working-directory: ./alamo-backend
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "sRaina3"
+          git config --global user.email "saranshraina1@gmail.com"
+          git add .
+          git commit -m "Update data files [skip ci]"
+          git push
         working-directory: ./alamo-backend
