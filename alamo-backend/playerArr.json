@@ -26,7 +26,7 @@
   {
     "_id": "Trunoob.TX",
     "ATcount": 238,
-    "WRcount": 45,
+    "WRcount": 44,
     "Mapcount": 0
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "_id": "unit-i-skops",
-    "ATcount": 6,
+    "ATcount": 16,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -650,7 +650,7 @@
   {
     "_id": "L1ngojr",
     "ATcount": 61,
-    "WRcount": 12,
+    "WRcount": 11,
     "Mapcount": 0
   },
   {
@@ -667,8 +667,8 @@
   },
   {
     "_id": "JarCrab",
-    "ATcount": 4,
-    "WRcount": 1,
+    "ATcount": 5,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -1033,7 +1033,7 @@
   },
   {
     "_id": "Loso-",
-    "ATcount": 10,
+    "ATcount": 11,
     "WRcount": 5,
     "Mapcount": 0
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "_id": "Insanity.TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "_id": "R00.",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4879,8 +4879,8 @@
   },
   {
     "_id": "ShcrTM",
-    "ATcount": 16,
-    "WRcount": 5,
+    "ATcount": 17,
+    "WRcount": 6,
     "Mapcount": 0
   },
   {
@@ -6246,7 +6246,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fiz.nc",
+    "_id": "fizalicous",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 1
@@ -26431,7 +26431,7 @@
   },
   {
     "_id": "PiasekTM",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -30432,6 +30432,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Ivarxx",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Woodeater98",
     "ATcount": 1,
     "WRcount": 0,
@@ -31225,6 +31231,12 @@
   },
   {
     "_id": "dankeysuprem",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Philooch18",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -39018,6 +39030,24 @@
     "Mapcount": 0
   },
   {
+    "_id": "Brinkenn",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Zentrian",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "julius155555",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Shcr-TM",
     "ATcount": 3,
     "WRcount": 0,
@@ -39361,12 +39391,6 @@
   },
   {
     "_id": "iamchuckles",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Brinkenn",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
