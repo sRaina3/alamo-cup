@@ -146,7 +146,7 @@
   {
     "_id": "Nick_PP.",
     "ATcount": 148,
-    "WRcount": 13,
+    "WRcount": 12,
     "Mapcount": 2
   },
   {
@@ -181,7 +181,7 @@
   },
   {
     "_id": "unit-i-skops",
-    "ATcount": 55,
+    "ATcount": 56,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -414,7 +414,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "beadalina",
+    "_id": "b..d-",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -452,7 +452,7 @@
   {
     "_id": "Kerber0s",
     "ATcount": 9,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -891,6 +891,12 @@
     "_id": "ScoringDread",
     "ATcount": 1,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "L3b3rwurst",
+    "ATcount": 2,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -4134,7 +4140,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Mattynator_",
+    "_id": "Woottynator_",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -5658,7 +5664,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Qualig.",
+    "_id": "Qualigg",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -6060,7 +6066,25 @@
     "Mapcount": 0
   },
   {
+    "_id": "gattatui",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "njoek_Oxibuff",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Limpan.",
+    "ATcount": 4,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "AITitch",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -6930,7 +6954,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Leitmotiv.",
+    "_id": "Holo099",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -7806,7 +7830,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Kayster.UK",
+    "_id": "s5tayne",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -17508,6 +17532,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Flarkin",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Cansaded",
     "ATcount": 1,
     "WRcount": 0,
@@ -20966,12 +20996,6 @@
   {
     "_id": "JordanTomJayden",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Limpan.",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -32838,12 +32862,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "L3b3rwurst",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Dadvert",
     "ATcount": 1,
     "WRcount": 0,
@@ -33127,6 +33145,12 @@
   },
   {
     "_id": "Barns118",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "GatitoTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
