@@ -1,7 +1,7 @@
 [
   {
     "_id": "Novastxr",
-    "ATcount": 252,
+    "ATcount": 253,
     "WRcount": 54,
     "Mapcount": 3
   },
@@ -39,6 +39,12 @@
     "_id": "Kakne..",
     "ATcount": 20,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "RedTiger1510",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -1328,7 +1334,7 @@
   {
     "_id": "Kallaxtrom",
     "ATcount": 6,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -2269,8 +2275,8 @@
   },
   {
     "_id": "Darji_",
-    "ATcount": 1,
-    "WRcount": 0,
+    "ATcount": 3,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -2293,8 +2299,8 @@
   },
   {
     "_id": "Suudo_W",
-    "ATcount": 5,
-    "WRcount": 1,
+    "ATcount": 6,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -2894,7 +2900,7 @@
   {
     "_id": "mombatm",
     "ATcount": 3,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -7032,7 +7038,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "houseartist",
+    "_id": "Marto.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13434,7 +13440,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "kNOOBlauch",
+    "_id": "kN00bi",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -23952,7 +23958,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Essensucher",
+    "_id": "Essen-chan",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -32874,7 +32880,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Sheepy.TM",
+    "_id": "Josua19",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -35371,6 +35377,12 @@
   },
   {
     "_id": "rosie....",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "A_Secret",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
