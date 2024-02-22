@@ -2,7 +2,7 @@
   {
     "_id": "Novastxr",
     "ATcount": 253,
-    "WRcount": 54,
+    "WRcount": 53,
     "Mapcount": 3
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "_id": "Kakne..",
-    "ATcount": 20,
-    "WRcount": 1,
+    "ATcount": 21,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -92,7 +92,7 @@
   {
     "_id": "catcurlyfries13",
     "ATcount": 201,
-    "WRcount": 4,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -194,7 +194,7 @@
   {
     "_id": "Nosshy",
     "ATcount": 2,
-    "WRcount": 0,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -340,6 +340,12 @@
     "ATcount": 19,
     "WRcount": 0,
     "Mapcount": 0
+  },
+  {
+    "_id": "P11mpChimpin",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 4
   },
   {
     "_id": "StarboyTM_",
@@ -1452,12 +1458,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "P11mpChimpin",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 4
-  },
-  {
     "_id": "isto..",
     "ATcount": 5,
     "WRcount": 0,
@@ -2557,7 +2557,7 @@
   },
   {
     "_id": "Molle_.",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8700,7 +8700,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Nitric...",
+    "_id": "Dviee.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -14202,7 +14202,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "MoongoddessLuna",
+    "_id": "GoddessNeomenia",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -33636,6 +33636,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Arvenium12",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "t3o_TM",
     "ATcount": 1,
     "WRcount": 0,
@@ -40339,6 +40345,12 @@
   },
   {
     "_id": "Chronoveil",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "S7_Siroze",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
