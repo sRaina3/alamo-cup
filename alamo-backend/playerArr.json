@@ -44,7 +44,7 @@
   {
     "_id": "Kakne..",
     "ATcount": 25,
-    "WRcount": 4,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -198,6 +198,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Potatisfisken",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "FRICKYtheonest",
     "ATcount": 2,
     "WRcount": 0,
@@ -312,6 +318,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "unit-i-skops",
+    "ATcount": 58,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "archer-2",
     "ATcount": 5,
     "WRcount": 0,
@@ -411,6 +423,12 @@
     "_id": "bdfrido",
     "ATcount": 3,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "NatsuTM",
+    "ATcount": 2,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -530,12 +548,6 @@
   {
     "_id": "DaddyPlask",
     "ATcount": 7,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "unit-i-skops",
-    "ATcount": 56,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -919,7 +931,7 @@
   },
   {
     "_id": "iocto._.",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1352,12 +1364,6 @@
   {
     "_id": "Veno.Dot",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Potatisfisken",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2202,12 +2208,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "NatsuTM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "ender.w6rst",
     "ATcount": 5,
     "WRcount": 1,
@@ -2976,7 +2976,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ASXCETM",
+    "_id": "SERKATM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -3144,7 +3144,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "rd4.Chris",
+    "_id": "rat.sl",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -5288,6 +5288,12 @@
   {
     "_id": "NOKER1",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Exattox",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -32436,12 +32442,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Exattox",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Steepmaniac",
     "ATcount": 1,
     "WRcount": 0,
@@ -40387,6 +40387,12 @@
   },
   {
     "_id": "BerkOne",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "dorping_Wolf",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
