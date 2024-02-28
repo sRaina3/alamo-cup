@@ -432,9 +432,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "SKY.V2",
+    "ATcount": 4,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "NatsuTM",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -24864,6 +24870,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "WarVrc",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "selfmadegainz2",
     "ATcount": 1,
     "WRcount": 0,
@@ -29365,6 +29377,12 @@
   },
   {
     "_id": "B00MFraghonk",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "SupeRDoZz_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -39320,12 +39338,6 @@
   {
     "_id": "SimtekTM",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "SKY.V2",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
