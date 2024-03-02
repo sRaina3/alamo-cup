@@ -1,5 +1,10 @@
 [
   {
+    "_id": "DAMSON",
+    "AT": 49645,
+    "ATcount": 14
+  },
+  {
     "_id": "These Three Things [ALAMO]",
     "AT": 40508,
     "ATcount": 33
@@ -17,12 +22,17 @@
   {
     "_id": "Over, Under",
     "AT": 47050,
-    "ATcount": 0
+    "ATcount": 1
   },
   {
     "_id": "PROJECT 001",
     "AT": 42988,
     "ATcount": 26
+  },
+  {
+    "_id": "Careening Cliffs",
+    "AT": 38668,
+    "ATcount": 1
   },
   {
     "_id": "[AC]Centerpiece",
@@ -32,12 +42,17 @@
   {
     "_id": " Radioactive Ruins",
     "AT": 44071,
-    "ATcount": 4
+    "ATcount": 5
+  },
+  {
+    "_id": "Alamo Cup 030",
+    "AT": 44602,
+    "ATcount": 15
   },
   {
     "_id": "[AC]Local Minima",
     "AT": 48656,
-    "ATcount": 1
+    "ATcount": 2
   },
   {
     "_id": "NILLA'S FORT",
@@ -55,6 +70,11 @@
     "ATcount": 4
   },
   {
+    "_id": "Forebearance",
+    "AT": 28780,
+    "ATcount": 3
+  },
+  {
     "_id": "[AC] Morning Snow",
     "AT": 39668,
     "ATcount": 1
@@ -67,7 +87,12 @@
   {
     "_id": "Orzhova",
     "AT": 41117,
-    "ATcount": 9
+    "ATcount": 10
+  },
+  {
+    "_id": "Empire's Rise",
+    "AT": 50462,
+    "ATcount": 15
   },
   {
     "_id": "Orichalcum",
@@ -217,7 +242,7 @@
   {
     "_id": "BLALAMO",
     "AT": 43777,
-    "ATcount": 33
+    "ATcount": 34
   },
   {
     "_id": "Nascar Greens",
@@ -1047,7 +1072,7 @@
   {
     "_id": "lingos bingo by lingo",
     "AT": 41560,
-    "ATcount": 25
+    "ATcount": 26
   },
   {
     "_id": "Finland is a country",
