@@ -253,7 +253,7 @@
   },
   {
     "_id": "That-AJ-Guy",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 3
   },
@@ -458,6 +458,12 @@
   {
     "_id": "vORTEX7_",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "bla_tm",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1038,6 +1044,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Yamii._.",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "BlackReal.",
     "ATcount": 1,
     "WRcount": 0,
@@ -1105,6 +1117,12 @@
   },
   {
     "_id": "Komfona",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "frost-tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -1836,7 +1854,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Twitch51",
+    "_id": "ironnagol",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -6805,12 +6823,6 @@
   },
   {
     "_id": "Talliebird",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Yamii._.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -28434,7 +28446,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Gigi_Giokelli",
+    "_id": "Old_Millennial",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -34902,12 +34914,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "frost-tm",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Jackob53",
     "ATcount": 1,
     "WRcount": 0,
@@ -37428,6 +37434,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Zaqq55",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "SergevsFonte",
     "ATcount": 2,
     "WRcount": 0,
@@ -37987,6 +37999,12 @@
   },
   {
     "_id": "timkhoe",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Phlip992",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -39775,6 +39793,12 @@
   },
   {
     "_id": "Snowfsi",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "EniXiNeXoS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
