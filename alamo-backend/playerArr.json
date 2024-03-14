@@ -1,19 +1,19 @@
 [
   {
     "_id": "Trunoob.TX",
-    "ATcount": 270,
+    "ATcount": 269,
     "WRcount": 50,
     "Mapcount": 0
   },
   {
     "_id": "catcurlyfries13",
-    "ATcount": 219,
+    "ATcount": 218,
     "WRcount": 3,
     "Mapcount": 0
   },
   {
     "_id": "unit-i-skops",
-    "ATcount": 62,
+    "ATcount": 61,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -37,7 +37,7 @@
   },
   {
     "_id": "AR_Down",
-    "ATcount": 78,
+    "ATcount": 77,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -121,7 +121,7 @@
   },
   {
     "_id": "Novastxr",
-    "ATcount": 257,
+    "ATcount": 256,
     "WRcount": 54,
     "Mapcount": 4
   },
@@ -391,7 +391,7 @@
   },
   {
     "_id": "Random.TX",
-    "ATcount": 166,
+    "ATcount": 165,
     "WRcount": 14,
     "Mapcount": 0
   },
@@ -481,7 +481,7 @@
   },
   {
     "_id": "uy.Rook1e",
-    "ATcount": 15,
+    "ATcount": 14,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -535,7 +535,7 @@
   },
   {
     "_id": "Cinn007",
-    "ATcount": 18,
+    "ATcount": 17,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -673,7 +673,7 @@
   },
   {
     "_id": "HeadMasterKill",
-    "ATcount": 103,
+    "ATcount": 102,
     "WRcount": 10,
     "Mapcount": 0
   },
@@ -721,7 +721,7 @@
   },
   {
     "_id": "Nick_PP.",
-    "ATcount": 148,
+    "ATcount": 147,
     "WRcount": 12,
     "Mapcount": 2
   },
@@ -775,7 +775,7 @@
   },
   {
     "_id": "Erizel",
-    "ATcount": 19,
+    "ATcount": 18,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -883,7 +883,7 @@
   },
   {
     "_id": "Scorchius.AZ",
-    "ATcount": 69,
+    "ATcount": 68,
     "WRcount": 1,
     "Mapcount": 1
   },
@@ -973,7 +973,7 @@
   },
   {
     "_id": "Nick_PP.Milk",
-    "ATcount": 178,
+    "ATcount": 177,
     "WRcount": 5,
     "Mapcount": 1
   },
@@ -1165,7 +1165,7 @@
   },
   {
     "_id": "Mummy_tm",
-    "ATcount": 61,
+    "ATcount": 60,
     "WRcount": 11,
     "Mapcount": 0
   },
@@ -1249,7 +1249,7 @@
   },
   {
     "_id": "Dartss",
-    "ATcount": 2,
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "_id": "Rabbi-",
-    "ATcount": 30,
+    "ATcount": 29,
     "WRcount": 1,
     "Mapcount": 63
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "_id": "funky_TM",
-    "ATcount": 71,
+    "ATcount": 70,
     "WRcount": 1,
     "Mapcount": 2
   },
@@ -2941,7 +2941,7 @@
   },
   {
     "_id": "BeNNy_TM",
-    "ATcount": 4,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3355,7 +3355,7 @@
   },
   {
     "_id": "Whycas",
-    "ATcount": 12,
+    "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -5287,8 +5287,8 @@
   },
   {
     "_id": "ShcrTM",
-    "ATcount": 18,
-    "WRcount": 6,
+    "ATcount": 17,
+    "WRcount": 5,
     "Mapcount": 0
   },
   {
@@ -5965,6 +5965,12 @@
   },
   {
     "_id": "eblexst",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "ElHondo",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -15103,7 +15109,7 @@
   },
   {
     "_id": "plaah13",
-    "ATcount": 3,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -28314,7 +28320,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "iZechten",
+    "_id": "mjkor",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -35946,7 +35952,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Jarex1472",
+    "_id": "JamJarex",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -39151,7 +39157,7 @@
   },
   {
     "_id": "Yin.TM",
-    "ATcount": 2,
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -39709,7 +39715,7 @@
   },
   {
     "_id": "Isirix",
-    "ATcount": 8,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -39937,12 +39943,6 @@
   },
   {
     "_id": "Dark_Kirby_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Manning-_-",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
