@@ -19,8 +19,8 @@
   },
   {
     "_id": "Pyojun34",
-    "ATcount": 88,
-    "WRcount": 1,
+    "ATcount": 95,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -205,7 +205,7 @@
   },
   {
     "_id": "LANGEMANN._.TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -464,7 +464,7 @@
   {
     "_id": "Random.TX",
     "ATcount": 166,
-    "WRcount": 14,
+    "WRcount": 13,
     "Mapcount": 0
   },
   {
@@ -1242,7 +1242,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Mummy_tm",
+    "_id": "OdazsFromWish",
     "ATcount": 61,
     "WRcount": 11,
     "Mapcount": 0
@@ -2833,7 +2833,7 @@
   },
   {
     "_id": "TarporTM",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15972,7 +15972,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "manyaik.TM",
+    "_id": "MajisN1SuperFan",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -17208,7 +17208,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Player4x3",
+    "_id": "YouAreInTheMud",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -18420,7 +18420,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "tamo419",
+    "_id": "GiveJesusWheel",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -24108,6 +24108,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "LGCooperations",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "MaybeWaxu",
     "ATcount": 1,
     "WRcount": 0,
@@ -28057,6 +28063,12 @@
   },
   {
     "_id": "Dams0n.",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "timiturntables",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36690,6 +36702,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Yaaaayeeeeet",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ThreeFlapjacks",
     "ATcount": 1,
     "WRcount": 0,
@@ -37867,6 +37885,12 @@
   },
   {
     "_id": "DerKeeper241",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "pickshoot",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -40495,6 +40519,12 @@
   },
   {
     "_id": "MangeMoiLeBolet",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Felefel",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
