@@ -673,7 +673,7 @@
   },
   {
     "_id": "TIMMYS..",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10677,7 +10677,7 @@
     "_id": "Nightroast",
     "ATcount": 3,
     "WRcount": 0,
-    "Mapcount": 1
+    "Mapcount": 0
   },
   {
     "_id": "iTsTactiicz",
@@ -23448,7 +23448,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "IceCap_",
+    "_id": "icecaap",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -39792,6 +39792,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "jackjamesroger",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Arachidamia_",
     "ATcount": 1,
     "WRcount": 0,
@@ -40975,6 +40981,12 @@
   },
   {
     "_id": "Tr1x_TM",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 1
+  },
+  {
+    "_id": "blamifying",
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
