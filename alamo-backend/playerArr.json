@@ -114,6 +114,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "MageTM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "RotcatXBOX",
     "ATcount": 4,
     "WRcount": 2,
@@ -192,7 +198,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "bla_tm",
+    "_id": "nx_tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -348,9 +354,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "DexteR.771",
+    "ATcount": 1,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "Josh_1963",
     "ATcount": 5,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -672,7 +684,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FRICKYtm",
+    "_id": "FRICKY-",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -961,7 +973,7 @@
   },
   {
     "_id": "Manadono",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 1
   },
@@ -3648,7 +3660,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "HHKegn",
+    "_id": "EOIC_",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -3738,7 +3750,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "zPinooo",
+    "_id": "zPino.",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -6284,6 +6296,18 @@
   {
     "_id": "GunnarTM",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "SnappyCorgi",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "BlueFlame2734",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15271,12 +15295,6 @@
   },
   {
     "_id": "NBKMisterx",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "MageTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
