@@ -7,7 +7,12 @@
   {
     "_id": "OddMix",
     "AT": 38991,
-    "ATcount": 8
+    "ATcount": 11
+  },
+  {
+    "_id": "MIXEDUP ft FwkesSam",
+    "AT": 47285,
+    "ATcount": 4
   },
   {
     "_id": "$1fGrønn F$1ft' Bhuji",
@@ -23,6 +28,11 @@
     "_id": "Funfair xdd",
     "AT": 46672,
     "ATcount": 3
+  },
+  {
+    "_id": "Crimson",
+    "AT": 39635,
+    "ATcount": 2
   },
   {
     "_id": "Chimpando",
@@ -43,6 +53,21 @@
     "_id": "aufregend",
     "AT": 38698,
     "ATcount": 3
+  },
+  {
+    "_id": "Tech of the Week by Whycas",
+    "AT": 46068,
+    "ATcount": 25
+  },
+  {
+    "_id": "Niflheim",
+    "AT": 42178,
+    "ATcount": 11
+  },
+  {
+    "_id": "SIERRA",
+    "AT": 41001,
+    "ATcount": 6
   },
   {
     "_id": "Rallamo",
@@ -672,7 +697,7 @@
   {
     "_id": "City in the Sky",
     "AT": 36936,
-    "ATcount": 49
+    "ATcount": 50
   },
   {
     "_id": "BrusselSprout",
@@ -1152,7 +1177,7 @@
   {
     "_id": "Alamo Cup 03",
     "AT": 66144,
-    "ATcount": 48
+    "ATcount": 49
   },
   {
     "_id": "bri'ish puddin by Giilo",
@@ -1162,7 +1187,7 @@
   {
     "_id": "Lingo's Lingo by Lingo",
     "AT": 43593,
-    "ATcount": 12
+    "ATcount": 13
   },
   {
     "_id": "Go Figure",
@@ -1472,6 +1497,6 @@
   {
     "_id": "Red Robin",
     "AT": 45141,
-    "ATcount": 26
+    "ATcount": 27
   }
 ]
