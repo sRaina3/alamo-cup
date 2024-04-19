@@ -62,12 +62,12 @@
   {
     "_id": "Niflheim",
     "AT": 42178,
-    "ATcount": 12
+    "ATcount": 13
   },
   {
     "_id": "SIERRA",
     "AT": 41001,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Rallamo",
@@ -822,7 +822,7 @@
   {
     "_id": "Save the Alamo",
     "AT": 42521,
-    "ATcount": 6120
+    "ATcount": 6121
   },
   {
     "_id": "Red Alert! ft Randomize",
@@ -1362,7 +1362,7 @@
   {
     "_id": "Flamin' Hot Funyuns",
     "AT": 58057,
-    "ATcount": 15
+    "ATcount": 20
   },
   {
     "_id": "Shopify Rebellion",
