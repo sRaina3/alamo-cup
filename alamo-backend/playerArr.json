@@ -231,7 +231,7 @@
     "_id": "authortime",
     "ATcount": 16,
     "WRcount": 0,
-    "Mapcount": 3
+    "Mapcount": 0
   },
   {
     "_id": "Sponge_TM",
@@ -714,7 +714,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Snakerid.",
+    "_id": "Snakerid.OCKY",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -1065,6 +1065,12 @@
     "_id": "Vekisis",
     "ATcount": 5,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "def03z",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -1610,6 +1616,12 @@
   {
     "_id": "JusticeforJdon",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Fawlix",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6354,7 +6366,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Star.Nebula",
+    "_id": "CeIestial_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -7131,6 +7143,12 @@
     "_id": "orilip1234",
     "ATcount": 2,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Tocsj",
+    "ATcount": 4,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -10914,7 +10932,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "sitLit",
+    "_id": "whyyLit",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -20766,7 +20784,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Baayeee",
+    "_id": "oBayax",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -25261,6 +25279,12 @@
   },
   {
     "_id": "TheChief_TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "TizWalshy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36318,7 +36342,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TrophySebi",
+    "_id": "Schmebsen",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -40008,12 +40032,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Tocsj",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Element_Air3",
     "ATcount": 3,
     "WRcount": 0,
@@ -40177,6 +40195,12 @@
   },
   {
     "_id": "SimtekTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "m1shy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -41356,6 +41380,12 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
+  },
+  {
+    "_id": "championmedal",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 3
   },
   {
     "_id": "ElectricTM",
