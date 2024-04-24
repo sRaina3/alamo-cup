@@ -54,6 +54,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "colymoli",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Berree.",
     "ATcount": 10,
     "WRcount": 0,
@@ -69,6 +75,12 @@
     "_id": "Pyojun34",
     "ATcount": 112,
     "WRcount": 2,
+    "Mapcount": 0
+  },
+  {
+    "_id": "nhxxxTM",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -108,6 +120,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Tatauna.TTV",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Sully_TM",
     "ATcount": 16,
     "WRcount": 0,
@@ -115,6 +133,12 @@
   },
   {
     "_id": "SonicDM.tm",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "IcyT",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -228,10 +252,10 @@
     "Mapcount": 2
   },
   {
-    "_id": "authortime",
+    "_id": "championmedal",
     "ATcount": 16,
     "WRcount": 0,
-    "Mapcount": 0
+    "Mapcount": 3
   },
   {
     "_id": "Sponge_TM",
@@ -829,12 +853,6 @@
   },
   {
     "_id": "Potatisfisken",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "colymoli",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -2940,7 +2958,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Yeims.",
+    "_id": "Siyeims27.",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -8934,7 +8952,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "PRL66",
+    "_id": "Kita_Ikuyou",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -20946,12 +20964,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "IcyT",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "bakamitaiTM",
     "ATcount": 1,
     "WRcount": 0,
@@ -29713,7 +29725,7 @@
   },
   {
     "_id": "N0VA.gg",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -39738,7 +39750,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fake.noldyy",
+    "_id": "progas_student",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -41380,12 +41392,6 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
-  },
-  {
-    "_id": "championmedal",
-    "ATcount": 0,
-    "WRcount": 0,
-    "Mapcount": 3
   },
   {
     "_id": "ElectricTM",
