@@ -2,12 +2,27 @@
   {
     "_id": "Crimped",
     "AT": 48258,
+    "ATcount": 7
+  },
+  {
+    "_id": "Melted Path (Altered Alamo)",
+    "AT": 29731,
+    "ATcount": 23
+  },
+  {
+    "_id": "Send maps to Rabbi on Discord",
+    "AT": 45333,
     "ATcount": 6
   },
   {
     "_id": "Alamo Together",
     "AT": 46128,
-    "ATcount": 8
+    "ATcount": 9
+  },
+  {
+    "_id": "Goodwood Park",
+    "AT": 51987,
+    "ATcount": 12
   },
   {
     "_id": "La Mezcla",
@@ -23,6 +38,16 @@
     "_id": "Hendydourette ft Rabbi",
     "AT": 45974,
     "ATcount": 1
+  },
+  {
+    "_id": "AZUL COIL",
+    "AT": 35235,
+    "ATcount": 14
+  },
+  {
+    "_id": "BurntCaviar",
+    "AT": 36893,
+    "ATcount": 0
   },
   {
     "_id": "Empty Calorie",
@@ -412,7 +437,7 @@
   {
     "_id": "Tua Matrem Futuo",
     "AT": 45048,
-    "ATcount": 19
+    "ATcount": 20
   },
   {
     "_id": "BLALAMO",
@@ -562,7 +587,7 @@
   {
     "_id": "Pickled Onions",
     "AT": 44924,
-    "ATcount": 732
+    "ATcount": 733
   },
   {
     "_id": "cerulean",
@@ -847,7 +872,7 @@
   {
     "_id": "Save the Alamo",
     "AT": 42521,
-    "ATcount": 6134
+    "ATcount": 6136
   },
   {
     "_id": "Red Alert! ft Randomize",
@@ -997,7 +1022,7 @@
   {
     "_id": "Sunflora",
     "AT": 40148,
-    "ATcount": 26
+    "ATcount": 27
   },
   {
     "_id": "Alamo Cup Map 004",
