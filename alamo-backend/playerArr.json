@@ -42,20 +42,20 @@
     "Mapcount": 0
   },
   {
+    "_id": "Killian_.",
+    "ATcount": 6,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "jdon.",
     "ATcount": 4,
-    "WRcount": 2,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
     "_id": "Liz.TM",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Killian_.",
-    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -877,7 +877,7 @@
   },
   {
     "_id": "spmx.",
-    "ATcount": 7,
+    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6726,6 +6726,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Gamer.PaleHands",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "SnappyCorgi",
     "ATcount": 1,
     "WRcount": 0,
@@ -11286,7 +11292,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Geo_TM",
+    "_id": "Ajna_TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -15516,7 +15522,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "salami_investor",
+    "_id": "slommy..",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -22117,7 +22123,7 @@
   },
   {
     "_id": "ArnasasLT",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -28176,6 +28182,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Kyumitsu",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Gohhra",
     "ATcount": 1,
     "WRcount": 0,
@@ -31729,6 +31741,12 @@
   },
   {
     "_id": "XaidsforsarsX",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Enphydeon",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -35677,6 +35695,12 @@
   },
   {
     "_id": "AllTheyTrophies",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "HolyDragon91",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
