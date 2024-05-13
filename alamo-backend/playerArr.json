@@ -474,6 +474,12 @@
     "Mapcount": 1
   },
   {
+    "_id": "Manadono",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 2
+  },
+  {
     "_id": "MageTM",
     "ATcount": 3,
     "WRcount": 0,
@@ -1468,12 +1474,6 @@
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
-  },
-  {
-    "_id": "Manadono",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 2
   },
   {
     "_id": "SKY.T1",
@@ -5076,7 +5076,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "showomu_",
+    "_id": "shuWOOmu_",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -15948,7 +15948,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Sanzhiro",
+    "_id": "Sanzhi.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -16992,7 +16992,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "MrDWilly",
+    "_id": "Lyebo",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -29790,6 +29790,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "rhockey28",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "coleslaw1337",
     "ATcount": 1,
     "WRcount": 0,
@@ -36565,6 +36571,12 @@
   },
   {
     "_id": "IdrissLArtiste",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "hell_on_earth__",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
