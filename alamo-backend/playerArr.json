@@ -123,7 +123,7 @@
     "_id": "championmedal",
     "ATcount": 18,
     "WRcount": 0,
-    "Mapcount": 4
+    "Mapcount": 0
   },
   {
     "_id": "BeNNy_TM",
@@ -5107,7 +5107,7 @@
   },
   {
     "_id": "Poepboer",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11850,7 +11850,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Strihke-",
+    "_id": "Strihke.TV",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -19572,7 +19572,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "uwotm8za",
+    "_id": "Saik1N",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -28908,7 +28908,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "zlf1701",
+    "_id": "BushBang17",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -33090,7 +33090,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "guest-OmxQ7V2H",
+    "_id": "ZBRUNZ",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36198,7 +36198,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "MT-_-TM",
+    "_id": "Haway_TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -42004,6 +42004,12 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 2
+  },
+  {
+    "_id": "authortime",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 4
   },
   {
     "_id": "Reiza_TM",
