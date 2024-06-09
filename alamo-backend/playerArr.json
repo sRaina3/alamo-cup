@@ -288,7 +288,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "KnightRoast",
+    "_id": "Mince.AZ",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -300,9 +300,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "Andy__RC",
+    "ATcount": 1,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "jujumasterr",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -3978,7 +3984,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "onion.boy",
+    "_id": "onion.tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -4381,7 +4387,7 @@
   },
   {
     "_id": "Bepeze.",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4482,7 +4488,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "MidInputStrats",
+    "_id": "RickyTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -10614,7 +10620,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "novawastake",
+    "_id": "nOvATM_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -22308,7 +22314,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "vLap-",
+    "_id": "BrzinaTM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -22956,7 +22962,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "SpaxGarderobe",
+    "_id": "JakowitzTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -31848,7 +31854,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Yempo_",
+    "_id": "ScrubbyRando",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -32382,7 +32388,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AaBbCcDdWATER",
+    "_id": "abcdEARTHijklmn",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -37374,6 +37380,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "VoxYoda",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Ins_Krestegg",
     "ATcount": 1,
     "WRcount": 0,
@@ -39576,6 +39588,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Alexthekid94",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "synapple",
     "ATcount": 1,
     "WRcount": 0,
@@ -40932,6 +40950,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SyS_Kawaii",
+    "ATcount": 12,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "FlappyMcGee",
     "ATcount": 1,
     "WRcount": 0,
@@ -41324,12 +41348,6 @@
   {
     "_id": "rrElPistolo",
     "ATcount": 5,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "SyS_Kawaii",
-    "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
   },
