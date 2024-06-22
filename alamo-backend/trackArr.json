@@ -1,5 +1,10 @@
 [
   {
+    "_id": "Sourdough [AC]",
+    "AT": 43828,
+    "ATcount": 2
+  },
+  {
     "_id": "Dirt by Defult",
     "AT": 44291,
     "ATcount": 3
@@ -10,9 +15,14 @@
     "ATcount": 0
   },
   {
+    "_id": "Bumpenschnitzel of the Blue Speed Slide Takes on Alamo Cup",
+    "AT": 46571,
+    "ATcount": 2
+  },
+  {
     "_id": "TerraTrio",
     "AT": 47627,
-    "ATcount": 56
+    "ATcount": 1600
   },
   {
     "_id": "[AC] Quarry Dash ft FyredUp",
@@ -57,7 +67,12 @@
   {
     "_id": "Backtrack  by Prizzly",
     "AT": 33406,
-    "ATcount": 4
+    "ATcount": 5
+  },
+  {
+    "_id": "Dappled ft BsnipezTM",
+    "AT": 46018,
+    "ATcount": 6
   },
   {
     "_id": "[ AC ] Seven Days",
@@ -67,6 +82,11 @@
   {
     "_id": "Simple Man",
     "AT": 31043,
+    "ATcount": 0
+  },
+  {
+    "_id": "YesLawd!",
+    "AT": 40946,
     "ATcount": 0
   },
   {
@@ -83,6 +103,11 @@
     "_id": "Foo7 by Whycas",
     "AT": 42425,
     "ATcount": 9
+  },
+  {
+    "_id": "twisty Mctwist face",
+    "AT": 48276,
+    "ATcount": 7
   },
   {
     "_id": "IceFlight",
@@ -162,7 +187,7 @@
   {
     "_id": "Goodwood Park",
     "AT": 51987,
-    "ATcount": 25
+    "ATcount": 26
   },
   {
     "_id": "$BSTARS ft $ NIGHTROAST",
@@ -197,7 +222,7 @@
   {
     "_id": "Fort Prominence ft PChimpin",
     "AT": 43428,
-    "ATcount": 187
+    "ATcount": 263
   },
   {
     "_id": "Hendydourette ft Rabbi",
@@ -397,7 +422,7 @@
   {
     "_id": "Careening Cliffs",
     "AT": 38668,
-    "ATcount": 393
+    "ATcount": 394
   },
   {
     "_id": "[AC]Centerpiece",
@@ -1117,7 +1142,7 @@
   {
     "_id": "Darkened Spiralpunk",
     "AT": 42893,
-    "ATcount": 33
+    "ATcount": 34
   },
   {
     "_id": "Alamo Cup 008",
@@ -1582,7 +1607,7 @@
   {
     "_id": "Blendin Blandin By Glover",
     "AT": 60000,
-    "ATcount": 79
+    "ATcount": 81
   },
   {
     "_id": "Flamin' Hot Funyuns",
