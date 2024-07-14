@@ -7,7 +7,7 @@
   },
   {
     "_id": "Sully_TM",
-    "ATcount": 20,
+    "ATcount": 21,
     "WRcount": 0,
     "Mapcount": 8
   },
@@ -31,7 +31,7 @@
   },
   {
     "_id": "eLconn21",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -1045,7 +1045,7 @@
   },
   {
     "_id": "Rabbi-",
-    "ATcount": 38,
+    "ATcount": 39,
     "WRcount": 2,
     "Mapcount": 69
   },
@@ -1927,7 +1927,7 @@
   },
   {
     "_id": "Random.TX",
-    "ATcount": 170,
+    "ATcount": 171,
     "WRcount": 13,
     "Mapcount": 0
   },
@@ -2551,7 +2551,7 @@
   },
   {
     "_id": "Robbalobb",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9900,6 +9900,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SneakyyTM",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Harpyi",
     "ATcount": 3,
     "WRcount": 0,
@@ -10478,6 +10484,12 @@
   {
     "_id": "Carlkaynnn",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "JeZse",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11466,7 +11478,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TauTauuh",
+    "_id": "TauTauTM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -19388,12 +19400,6 @@
   {
     "_id": "Twin_TM",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "SneakyyTM",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -46423,12 +46429,6 @@
   },
   {
     "_id": "JamJarex",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "JeZse",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
