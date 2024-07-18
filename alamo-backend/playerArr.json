@@ -1152,10 +1152,10 @@
     "Mapcount": 0
   },
   {
-    "_id": "iCarlyTM",
+    "_id": "prowe.ss",
     "ATcount": 7,
     "WRcount": 0,
-    "Mapcount": 0
+    "Mapcount": 1
   },
   {
     "_id": "wllard",
@@ -5809,7 +5809,7 @@
   },
   {
     "_id": "peanutsjorker",
-    "ATcount": 153,
+    "ATcount": 154,
     "WRcount": 12,
     "Mapcount": 3
   },
@@ -15349,7 +15349,7 @@
   },
   {
     "_id": "cob__",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15380,6 +15380,12 @@
   {
     "_id": "Jack_TM",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "nOvATM_",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15483,6 +15489,12 @@
     "_id": "Kumiko.YL",
     "ATcount": 9,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "R0STAK",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -17234,12 +17246,6 @@
   {
     "_id": "DiggerBick",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "nOvATM_",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -44748,7 +44754,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Ahley_Page",
+    "_id": "Dr_Dobby_Kelso",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -50388,6 +50394,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "TrainerLink_TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Kubutto",
     "ATcount": 1,
     "WRcount": 0,
@@ -51019,12 +51031,6 @@
   },
   {
     "_id": "Rexasaurus.",
-    "ATcount": 0,
-    "WRcount": 0,
-    "Mapcount": 1
-  },
-  {
-    "_id": "prowe.ss",
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
