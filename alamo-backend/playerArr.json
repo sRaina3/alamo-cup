@@ -1045,7 +1045,7 @@
   },
   {
     "_id": "Rabbi-",
-    "ATcount": 39,
+    "ATcount": 42,
     "WRcount": 2,
     "Mapcount": 69
   },
@@ -1087,7 +1087,7 @@
   },
   {
     "_id": "authortime",
-    "ATcount": 21,
+    "ATcount": 22,
     "WRcount": 0,
     "Mapcount": 4
   },
@@ -4938,6 +4938,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "xTailow",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Darth-Ro",
     "ATcount": 1,
     "WRcount": 0,
@@ -6211,7 +6217,7 @@
   },
   {
     "_id": "TemuTM",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6588,6 +6594,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Ste4lthling",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "R0rShaK",
     "ATcount": 1,
     "WRcount": 0,
@@ -6708,7 +6720,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "SpecTM",
+    "_id": "Specturr.",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -12379,7 +12391,7 @@
   },
   {
     "_id": "Nath_TM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13201,6 +13213,12 @@
   },
   {
     "_id": "Red-Starr",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Checkmark_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -17100,7 +17118,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "XXV6",
+    "_id": "HouseMD..",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
