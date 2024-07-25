@@ -829,7 +829,7 @@
   },
   {
     "_id": "ITz.Shadow.",
-    "ATcount": 7,
+    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2191,7 +2191,7 @@
   },
   {
     "_id": "pr7p3n1",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4267,7 +4267,7 @@
   },
   {
     "_id": "tsr_1",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8820,7 +8820,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "pppticlr",
+    "_id": "ppticlr",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -8875,7 +8875,7 @@
   },
   {
     "_id": "funky_TM",
-    "ATcount": 73,
+    "ATcount": 74,
     "WRcount": 1,
     "Mapcount": 2
   },
@@ -11665,6 +11665,12 @@
   },
   {
     "_id": "Shad0wR3cruit",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "FairHenley",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -15432,6 +15438,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Dawnstar..",
+    "ATcount": 2,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "nOvATM_",
     "ATcount": 3,
     "WRcount": 0,
@@ -15853,7 +15865,7 @@
   },
   {
     "_id": "TurtledTM",
-    "ATcount": 9,
+    "ATcount": 10,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -16092,7 +16104,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "shrogger",
+    "_id": "shrog.",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -16300,12 +16312,6 @@
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 3
-  },
-  {
-    "_id": "Dawnstar..",
-    "ATcount": 1,
-    "WRcount": 1,
-    "Mapcount": 0
   },
   {
     "_id": "MilkyFurry",
@@ -16932,7 +16938,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Beefy5Layer.TM",
+    "_id": "chill.tm",
     "ATcount": 20,
     "WRcount": 0,
     "Mapcount": 0
@@ -17172,7 +17178,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "iNinit",
+    "_id": "complxty_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
