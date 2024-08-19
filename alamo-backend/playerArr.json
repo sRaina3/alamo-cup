@@ -2,7 +2,7 @@
   {
     "_id": "Larstm",
     "ATcount": 27,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -168,6 +168,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "catcurlyfries13",
+    "ATcount": 354,
+    "WRcount": 10,
+    "Mapcount": 2
+  },
+  {
     "_id": "Mathyper59",
     "ATcount": 13,
     "WRcount": 1,
@@ -198,16 +204,10 @@
     "Mapcount": 0
   },
   {
-    "_id": "noxygenTM",
+    "_id": "pvthselector",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
-  },
-  {
-    "_id": "catcurlyfries13",
-    "ATcount": 349,
-    "WRcount": 9,
-    "Mapcount": 2
   },
   {
     "_id": "Oddass",
@@ -643,6 +643,12 @@
   },
   {
     "_id": "soxpanda",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "shrmoothie",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -1106,12 +1112,6 @@
   {
     "_id": "EnYgMa21",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "shrmoothie",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10177,7 +10177,7 @@
   },
   {
     "_id": "TarporTM",
-    "ATcount": 9,
+    "ATcount": 10,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -21096,7 +21096,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Nek0w0..",
+    "_id": "Zena_TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -21805,6 +21805,12 @@
   },
   {
     "_id": "Tocsj",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "wolfgang2812",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -33944,6 +33950,12 @@
   {
     "_id": "Phylote",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "qwasyx3000",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -50352,12 +50364,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "wolfgang2812",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "jimmythebass",
     "ATcount": 1,
     "WRcount": 0,
@@ -51469,12 +51475,6 @@
   },
   {
     "_id": "Marlboro93",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "qwasyx3000",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
