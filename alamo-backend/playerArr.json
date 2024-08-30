@@ -43,7 +43,7 @@
   },
   {
     "_id": "catcurlyfries13",
-    "ATcount": 358,
+    "ATcount": 359,
     "WRcount": 10,
     "Mapcount": 2
   },
@@ -80,6 +80,12 @@
   {
     "_id": "proBizcus",
     "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Cabr00se",
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3132,7 +3138,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "GayTM",
+    "_id": "BobkisserTM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -4134,7 +4140,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AAAAAAAkbabuser",
+    "_id": "Cheeselover2299",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -9458,6 +9464,12 @@
   {
     "_id": "calum-",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ikarus.",
+    "ATcount": 13,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15570,7 +15582,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AltrdVsls",
+    "_id": "Lst.Whspr",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -16489,7 +16501,7 @@
   },
   {
     "_id": "vitorlol22",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -16752,12 +16764,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Cabr00se",
-    "ATcount": 5,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Beastballas119",
     "ATcount": 7,
     "WRcount": 0,
@@ -16974,7 +16980,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "vrinho.",
+    "_id": "ankaramessi10.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -17450,12 +17456,6 @@
   {
     "_id": "Loupphok",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Ikarus.",
-    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18432,10 +18432,10 @@
     "Mapcount": 0
   },
   {
-    "_id": "FwkesSam",
+    "_id": "FwkesSam.WC",
     "ATcount": 12,
     "WRcount": 0,
-    "Mapcount": 0
+    "Mapcount": 17
   },
   {
     "_id": "razorrules",
@@ -24654,7 +24654,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "KRQC.",
+    "_id": "TWITCH.KRQC",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -42288,7 +42288,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Inaka.MP",
+    "_id": "hawk-TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -51940,12 +51940,6 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
-  },
-  {
-    "_id": "FwkesSam.WC",
-    "ATcount": 0,
-    "WRcount": 0,
-    "Mapcount": 17
   },
   {
     "_id": "ElectricTM",
