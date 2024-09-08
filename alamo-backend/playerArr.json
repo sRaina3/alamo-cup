@@ -32,7 +32,7 @@
   {
     "_id": "AR_Down",
     "ATcount": 129,
-    "WRcount": 2,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -145,7 +145,7 @@
   },
   {
     "_id": "InfTM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -218,7 +218,7 @@
   {
     "_id": "Py0jun",
     "ATcount": 140,
-    "WRcount": 5,
+    "WRcount": 4,
     "Mapcount": 0
   },
   {
@@ -252,6 +252,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Liquid.V1",
+    "ATcount": 26,
+    "WRcount": 3,
+    "Mapcount": 0
+  },
+  {
     "_id": "KajaBergmann",
     "ATcount": 2,
     "WRcount": 0,
@@ -266,6 +272,18 @@
   {
     "_id": "Kcedus.4PF",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "NiHi___",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "McFiddlecakes",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -528,9 +546,9 @@
     "Mapcount": 0
   },
   {
-    "_id": "Liquid.V1",
-    "ATcount": 25,
-    "WRcount": 3,
+    "_id": "Log.in",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -553,12 +571,6 @@
   },
   {
     "_id": "spawnova",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Log.in",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -612,7 +624,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "LosoJr",
+    "_id": "NavyTM._.",
     "ATcount": 20,
     "WRcount": 1,
     "Mapcount": 0
@@ -1532,6 +1544,12 @@
   {
     "_id": "EnYgMa21",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "DuckSlam",
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -16783,7 +16801,7 @@
   },
   {
     "_id": "Jaglano",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -16915,12 +16933,6 @@
   },
   {
     "_id": "Ace7616",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "DuckSlam",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -42588,7 +42600,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Yin.UWU",
+    "_id": "Yin_Tm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -44239,12 +44251,6 @@
   },
   {
     "_id": "Dingus_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "NiHi___",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -51246,7 +51252,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "A------------.",
+    "_id": "A-----------ORS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
