@@ -181,7 +181,7 @@
   },
   {
     "_id": "GoldGriot",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -355,7 +355,7 @@
   },
   {
     "_id": "Steel.TM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -446,6 +446,12 @@
   {
     "_id": "A--------purple",
     "ATcount": 19,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "icoco123",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -614,6 +620,12 @@
   {
     "_id": "BreezieTM",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Zeep_TM",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1146,12 +1158,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "icoco123",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Cinn007",
     "ATcount": 22,
     "WRcount": 0,
@@ -1482,7 +1488,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "BurgerBob360",
+    "_id": "Simeon_Says-TM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -1603,7 +1609,7 @@
   },
   {
     "_id": "DuckSlam",
-    "ATcount": 7,
+    "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1986,7 +1992,7 @@
     "Mapcount": 4
   },
   {
-    "_id": "BMW.M4.COMP.",
+    "_id": "Blabbit.",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -14352,7 +14358,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "CarJr.",
+    "_id": "NeosslydeR",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -16393,7 +16399,7 @@
   },
   {
     "_id": "mikotzi",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -26011,6 +26017,12 @@
   },
   {
     "_id": "ooDrMabuseoo",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Qwytx-",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -51643,6 +51655,12 @@
   },
   {
     "_id": "JbTakaKA",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Dwarfieh",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
