@@ -12,12 +12,12 @@
   {
     "_id": "PC 1",
     "AT": 37764,
-    "ATcount": 6
+    "ATcount": 8
   },
   {
     "_id": "Bob-omb",
     "AT": 47695,
-    "ATcount": 46
+    "ATcount": 48
   },
   {
     "_id": "sunnyside up",
@@ -47,7 +47,7 @@
   {
     "_id": "Isotopic Shift",
     "AT": 39745,
-    "ATcount": 21
+    "ATcount": 24
   },
   {
     "_id": "Backup #1",
@@ -262,7 +262,7 @@
   {
     "_id": "Head 'Em Off at the Pass",
     "AT": 42948,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Spokenmavenhonchel",
@@ -297,7 +297,7 @@
   {
     "_id": "TerraTrio",
     "AT": 47627,
-    "ATcount": 2637
+    "ATcount": 2640
   },
   {
     "_id": "[AC] Quarry Dash ft FyredUp",
@@ -657,12 +657,12 @@
   {
     "_id": "Alamo's Rooms",
     "AT": 39222,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "DAMSON",
     "AT": 49645,
-    "ATcount": 20
+    "ATcount": 21
   },
   {
     "_id": "These Three Things [ALAMO]",
@@ -692,12 +692,12 @@
   {
     "_id": "[AC] ",
     "AT": 41865,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Careening Cliffs",
     "AT": 38668,
-    "ATcount": 411
+    "ATcount": 412
   },
   {
     "_id": "[AC]Centerpiece",
@@ -712,7 +712,7 @@
   {
     "_id": "Alamo Cup 030",
     "AT": 44602,
-    "ATcount": 16
+    "ATcount": 17
   },
   {
     "_id": "[AC]Local Minima",
@@ -732,7 +732,7 @@
   {
     "_id": "The Dream Is Dead [ALAMO]",
     "AT": 34638,
-    "ATcount": 27
+    "ATcount": 28
   },
   {
     "_id": "Tumadreesunamochila",
@@ -747,7 +747,7 @@
   {
     "_id": "Forebearance",
     "AT": 28780,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "[AC] Morning Snow",
@@ -767,7 +767,7 @@
   {
     "_id": "Empire's Rise",
     "AT": 50462,
-    "ATcount": 19
+    "ATcount": 20
   },
   {
     "_id": "Orichalcum",
@@ -1122,7 +1122,7 @@
   {
     "_id": "Cloud Castle Raceway",
     "AT": 31564,
-    "ATcount": 35
+    "ATcount": 36
   },
   {
     "_id": "[AC] Stegosaurus",
@@ -1347,7 +1347,7 @@
   {
     "_id": "Save the Alamo",
     "AT": 42521,
-    "ATcount": 6342
+    "ATcount": 6345
   },
   {
     "_id": "Red Alert! ft Randomize",
@@ -1422,7 +1422,7 @@
   {
     "_id": "Alamo Cup 008",
     "AT": 56008,
-    "ATcount": 18
+    "ATcount": 19
   },
   {
     "_id": "21 Percent Delerium by Kali",
@@ -1767,7 +1767,7 @@
   {
     "_id": "Alamo Cup 01",
     "AT": 39943,
-    "ATcount": 32
+    "ATcount": 33
   },
   {
     "_id": "SPINNEN by Mello",
@@ -1882,7 +1882,7 @@
   {
     "_id": "Blendin Blandin By Glover",
     "AT": 60000,
-    "ATcount": 93
+    "ATcount": 94
   },
   {
     "_id": "Flamin' Hot Funyuns",
