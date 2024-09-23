@@ -169,7 +169,7 @@
   },
   {
     "_id": "unit-i-skops",
-    "ATcount": 83,
+    "ATcount": 84,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -236,6 +236,12 @@
   {
     "_id": "Spectator.TM",
     "ATcount": 7,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "wrenchead56",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -390,6 +396,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Tazz94550",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "rockskater89",
     "ATcount": 79,
     "WRcount": 2,
@@ -524,6 +536,12 @@
   {
     "_id": "Maxamus.",
     "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Doodlebobcousin",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1219,7 +1237,7 @@
   },
   {
     "_id": "iocto._.",
-    "ATcount": 10,
+    "ATcount": 11,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -3540,7 +3558,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Bestie77",
+    "_id": "bestie77",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -4512,7 +4530,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "slommy..",
+    "_id": "salami_investor",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -7974,6 +7992,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "spmx.",
+    "ATcount": 10,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Leviathan110",
     "ATcount": 2,
     "WRcount": 0,
@@ -8076,7 +8100,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Fifisko..",
+    "_id": "F1fi5k0",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -8256,7 +8280,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "JunesGecrashed",
+    "_id": "JunesdeBonk",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -10087,7 +10111,7 @@
   },
   {
     "_id": "Ti0uz",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11834,12 +11858,6 @@
   {
     "_id": "Kadabu.",
     "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Doodlebobcousin",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -17258,12 +17276,6 @@
   {
     "_id": "porthole30",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "spmx.",
-    "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -43014,12 +43026,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "wrenchead56",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "wrinklenips2",
     "ATcount": 1,
     "WRcount": 0,
@@ -51732,7 +51738,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AAAAAAwaffleguy",
+    "_id": "A-WaffleGuy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
