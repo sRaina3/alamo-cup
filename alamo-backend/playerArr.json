@@ -115,7 +115,7 @@
   },
   {
     "_id": "Tilt.TM",
-    "ATcount": 8,
+    "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -140,6 +140,12 @@
   {
     "_id": "Zumanzo",
     "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Thanatoros96",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12192,7 +12198,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "mrspeedrun3000",
+    "_id": "mrspeedrun3000.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -16543,7 +16549,7 @@
   },
   {
     "_id": "Buzy..",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -17556,7 +17562,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Zy_Xbox",
+    "_id": "Gold.Medal",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -18012,7 +18018,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "nx_tm",
+    "_id": "nx.evo",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -39204,6 +39210,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "London_v2",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "keczje",
     "ATcount": 1,
     "WRcount": 0,
@@ -50844,7 +50856,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "xfabistylerx",
+    "_id": "FabiMPS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -52308,7 +52320,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FabioRovaTM",
+    "_id": "FABIOROWO-TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
