@@ -291,7 +291,7 @@
     "_id": "Authortime",
     "ATcount": 25,
     "WRcount": 0,
-    "Mapcount": 4
+    "Mapcount": 0
   },
   {
     "_id": "BrigetBerry27",
@@ -1045,6 +1045,12 @@
   },
   {
     "_id": "gumbineTM",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Linden.CC",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -4878,12 +4884,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Linden.CC",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "horsingaroun858",
     "ATcount": 2,
     "WRcount": 0,
@@ -8592,7 +8592,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Saibaakarasu",
+    "_id": "WaterMan20XX",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -9894,7 +9894,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "timbernut",
+    "_id": "UgFeedsSlugs",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -10908,7 +10908,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Saturn__98",
+    "_id": "Saturn.98",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -12084,7 +12084,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "DestroyCarson00",
+    "_id": "HejaGronsvart",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -44364,7 +44364,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ILikeToBreathe",
+    "_id": "gohardware",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -45738,7 +45738,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Club420",
+    "_id": "imas_mali_kurac",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -51402,6 +51402,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "a_can_off_soda",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "apiaff",
     "ATcount": 1,
     "WRcount": 0,
@@ -52606,6 +52612,12 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 2
+  },
+  {
+    "_id": "authortime",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 4
   },
   {
     "_id": "Reiza_TM",
