@@ -288,10 +288,10 @@
     "Mapcount": 0
   },
   {
-    "_id": "Authortime",
+    "_id": "authortime",
     "ATcount": 25,
     "WRcount": 0,
-    "Mapcount": 0
+    "Mapcount": 4
   },
   {
     "_id": "BrigetBerry27",
@@ -2796,7 +2796,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ALWAYSWANNABEER",
+    "_id": "AWBeer.",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -29280,7 +29280,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "areXTM",
+    "_id": "Funkadelic.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -52612,12 +52612,6 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 2
-  },
-  {
-    "_id": "authortime",
-    "ATcount": 0,
-    "WRcount": 0,
-    "Mapcount": 4
   },
   {
     "_id": "Reiza_TM",
