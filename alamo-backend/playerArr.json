@@ -127,7 +127,7 @@
   },
   {
     "_id": "unit-i-skops",
-    "ATcount": 85,
+    "ATcount": 86,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -218,7 +218,7 @@
   {
     "_id": "Kallaxtrom",
     "ATcount": 41,
-    "WRcount": 2,
+    "WRcount": 1,
     "Mapcount": 5
   },
   {
@@ -540,6 +540,18 @@
     "Mapcount": 0
   },
   {
+    "_id": "Doyle_TM",
+    "ATcount": 6,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ta.Ni",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "AuwrahTM",
     "ATcount": 2,
     "WRcount": 0,
@@ -558,12 +570,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Ta.Ni",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Chamow",
     "ATcount": 2,
     "WRcount": 0,
@@ -576,6 +582,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Kalysan",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Romecyti",
     "ATcount": 2,
     "WRcount": 0,
@@ -584,12 +596,6 @@
   {
     "_id": "DoubleAttaque",
     "ATcount": 4,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Kalysan",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -842,12 +848,6 @@
   {
     "_id": "jujumasterr",
     "ATcount": 6,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Doyle_TM",
-    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7044,7 +7044,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Lynx.TM",
+    "_id": "Mobbi._.",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -8586,7 +8586,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ImInTrubl",
+    "_id": "trubl319",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -37188,6 +37188,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Fledzy",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Kiwicami",
     "ATcount": 1,
     "WRcount": 0,
@@ -46338,6 +46344,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Wintiwest_",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "JVR1571",
     "ATcount": 1,
     "WRcount": 0,
@@ -51582,6 +51594,18 @@
     "Mapcount": 0
   },
   {
+    "_id": "tuosep",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Mirbb.",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "AusbilderMike",
     "ATcount": 1,
     "WRcount": 0,
@@ -51589,6 +51613,12 @@
   },
   {
     "_id": "FatherFrenchy",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Hxnkka",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
