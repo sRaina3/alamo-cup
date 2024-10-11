@@ -26,7 +26,7 @@
   {
     "_id": "Larstm",
     "ATcount": 43,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -218,7 +218,7 @@
   {
     "_id": "Kallaxtrom",
     "ATcount": 41,
-    "WRcount": 1,
+    "WRcount": 2,
     "Mapcount": 5
   },
   {
@@ -14718,7 +14718,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Malestio",
+    "_id": "Aweebio",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -17232,6 +17232,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "dreams.TM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ya___",
     "ATcount": 2,
     "WRcount": 0,
@@ -18078,6 +18084,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "abaconsandwhich",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "FegirJr",
     "ATcount": 3,
     "WRcount": 1,
@@ -18189,6 +18201,12 @@
     "_id": "Alex_KK_",
     "ATcount": 13,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ratatouille_._",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -23766,7 +23784,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "djabsqi",
+    "_id": "djabski",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -41016,12 +41034,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "dreams.TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Twiine",
     "ATcount": 1,
     "WRcount": 0,
@@ -43975,6 +43987,12 @@
   },
   {
     "_id": "ncavd",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "guest-0yHtfgYL",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
