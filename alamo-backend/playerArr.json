@@ -1231,7 +1231,7 @@
   },
   {
     "_id": "gumbineTM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12054,6 +12054,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "kolento2048",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ShinWoo42",
     "ATcount": 2,
     "WRcount": 0,
@@ -19488,6 +19494,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Bauby6",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Susuwi",
     "ATcount": 2,
     "WRcount": 1,
@@ -19998,7 +20010,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "scroll-tm",
+    "_id": "hobbit.tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -27882,7 +27894,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Naumen__",
+    "_id": "naumen",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -34135,6 +34147,12 @@
   },
   {
     "_id": "MahoganyTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "shieldbandit",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
