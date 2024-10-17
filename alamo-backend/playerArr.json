@@ -552,7 +552,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Doyle_TM",
+    "_id": "D0yle_",
     "ATcount": 6,
     "WRcount": 1,
     "Mapcount": 0
@@ -1112,6 +1112,12 @@
   {
     "_id": "Nenca",
     "ATcount": 6,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "TeeRamp",
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1734,6 +1740,24 @@
     "Mapcount": 0
   },
   {
+    "_id": "romac20",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ysario",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "MardeK_",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Monarch.tm",
     "ATcount": 3,
     "WRcount": 0,
@@ -1932,13 +1956,13 @@
     "Mapcount": 1
   },
   {
-    "_id": "Rist_Tm",
+    "_id": "Durrrrrr12",
     "ATcount": 1,
     "WRcount": 1,
     "Mapcount": 0
   },
   {
-    "_id": "Durrrrrr12",
+    "_id": "Rist_Tm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -2250,6 +2274,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Seeschurke.",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Charlezo.OT9",
     "ATcount": 5,
     "WRcount": 0,
@@ -2522,12 +2552,6 @@
   {
     "_id": "kopro.",
     "ATcount": 5,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TeeRamp",
-    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18120,6 +18144,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Jonaphan560",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "MilkyFurry",
     "ATcount": 1,
     "WRcount": 0,
@@ -19304,6 +19334,12 @@
   {
     "_id": "MR.omkes",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "nilsson_-",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -42168,12 +42204,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "MardeK_",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Imahy",
     "ATcount": 1,
     "WRcount": 0,
@@ -45955,12 +45985,6 @@
   },
   {
     "_id": "t3o_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Seeschurke.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
