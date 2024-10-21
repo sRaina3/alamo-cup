@@ -48,6 +48,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "King.Qezerson",
+    "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Rabbi-",
     "ATcount": 45,
     "WRcount": 1,
@@ -112,12 +118,6 @@
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 1
-  },
-  {
-    "_id": "King.Qezerson",
-    "ATcount": 9,
-    "WRcount": 0,
-    "Mapcount": 0
   },
   {
     "_id": "bozbez",
@@ -654,9 +654,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "MellowJA",
+    "ATcount": 34,
+    "WRcount": 5,
+    "Mapcount": 1
+  },
+  {
     "_id": "D0yle_",
     "ATcount": 6,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -742,12 +748,6 @@
     "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 2
-  },
-  {
-    "_id": "MellowJA",
-    "ATcount": 33,
-    "WRcount": 4,
-    "Mapcount": 1
   },
   {
     "_id": "beadiocre",
@@ -4281,7 +4281,7 @@
     "_id": "ParkerBBQ",
     "ATcount": 44,
     "WRcount": 0,
-    "Mapcount": 2
+    "Mapcount": 0
   },
   {
     "_id": "Starlight-Pat",
@@ -7080,7 +7080,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "x410isStinky",
+    "_id": "Nitric...",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -7278,7 +7278,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FakeQez",
+    "_id": "Cheeselover2297",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -10405,7 +10405,7 @@
   },
   {
     "_id": "Ti0uz",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -19087,7 +19087,7 @@
   },
   {
     "_id": "GamingGamest",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -24504,7 +24504,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Kelven.",
+    "_id": "Zamera_80",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -40026,6 +40026,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "RacketMon",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Gohhra",
     "ATcount": 1,
     "WRcount": 0,
@@ -44899,6 +44905,12 @@
   },
   {
     "_id": "Kubuh",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "kRickaP",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -52876,6 +52888,12 @@
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
+  },
+  {
+    "_id": "SquampopulusTM",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 2
   },
   {
     "_id": "Kouzi_Kinz",
