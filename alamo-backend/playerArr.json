@@ -1,7 +1,7 @@
 [
   {
     "_id": "Kallaxtrom",
-    "ATcount": 46,
+    "ATcount": 50,
     "WRcount": 4,
     "Mapcount": 7
   },
@@ -13,7 +13,7 @@
   },
   {
     "_id": "Novastxr",
-    "ATcount": 333,
+    "ATcount": 337,
     "WRcount": 64,
     "Mapcount": 4
   },
@@ -1208,6 +1208,12 @@
   {
     "_id": "ColtonC",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "CALLGAGE-TTV",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6210,7 +6216,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "wrmv3",
+    "_id": "drivewayworms",
     "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
@@ -6282,7 +6288,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Balchaman",
+    "_id": "Balcha-chan",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -8844,7 +8850,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "WaterMan20XX",
+    "_id": "Le_Bacon_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13220,6 +13226,12 @@
   {
     "_id": "SinA_66",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Nicsoby",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18156,7 +18168,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "zerbrezler2000",
+    "_id": "zerbrezii-chan",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -33888,7 +33900,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "pecuniaadest",
+    "_id": "pecunia-chan",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -41935,7 +41947,7 @@
   },
   {
     "_id": "LovelaceLIVE",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -48108,12 +48120,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Nicsoby",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "ogMazt",
     "ATcount": 1,
     "WRcount": 0,
@@ -52548,7 +52554,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "kd_crew1",
+    "_id": "sousiTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
