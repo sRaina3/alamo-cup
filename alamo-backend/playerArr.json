@@ -24,7 +24,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "beawack",
+    "_id": "bead_Sillypants",
     "ATcount": 26,
     "WRcount": 0,
     "Mapcount": 0
@@ -138,7 +138,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "NavyTM._.",
+    "_id": "Navy.dwn",
     "ATcount": 24,
     "WRcount": 1,
     "Mapcount": 0
@@ -2071,7 +2071,7 @@
   },
   {
     "_id": "tree-tm",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2784,7 +2784,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Bramptone",
+    "_id": "NotBlev_tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -4021,7 +4021,7 @@
   },
   {
     "_id": "scorched_soul07",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4890,7 +4890,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "OwlsAreVeryCool",
+    "_id": "RedTiger1510",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -7813,7 +7813,7 @@
   },
   {
     "_id": "PatriceStrilli",
-    "ATcount": 13,
+    "ATcount": 14,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11924,7 +11924,7 @@
   {
     "_id": "Fleu..",
     "ATcount": 7,
-    "WRcount": 2,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -11960,6 +11960,12 @@
   {
     "_id": "Ghost-TM",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Boze420TM",
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12092,12 +12098,6 @@
   {
     "_id": "Sllom.",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Boze420TM",
-    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12302,7 +12302,7 @@
   {
     "_id": "atrick.",
     "ATcount": 4,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -40794,6 +40794,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Henkan67",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Fetberg",
     "ATcount": 1,
     "WRcount": 0,
@@ -45522,6 +45528,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "KralBrambora",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Jvpex",
     "ATcount": 1,
     "WRcount": 0,
@@ -46231,6 +46243,12 @@
   },
   {
     "_id": "JohnnyCarGod",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "JuninhoLznk",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
