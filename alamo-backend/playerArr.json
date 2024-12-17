@@ -4446,6 +4446,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "lexicon.CSR",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Dirwin_TM",
     "ATcount": 2,
     "WRcount": 0,
@@ -6060,6 +6066,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "kukhumudwa",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "HELLES_FIEGE",
     "ATcount": 4,
     "WRcount": 0,
@@ -6067,7 +6079,7 @@
   },
   {
     "_id": "Figo_HSV",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6607,7 +6619,7 @@
   },
   {
     "_id": "MohammedFS",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10147,7 +10159,7 @@
   },
   {
     "_id": "smn_tm",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15702,6 +15714,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "hofla74",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "IamG30",
     "ATcount": 2,
     "WRcount": 0,
@@ -15727,12 +15745,6 @@
   },
   {
     "_id": "Mattlightning",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "kukhumudwa",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -24420,7 +24432,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Alex-wrrr",
+    "_id": "Alex-waaa",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -25514,6 +25526,12 @@
   {
     "_id": "sachlebosse",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "duh.duh",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -27906,6 +27924,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "certifiedchump",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "B0BeTSKy",
     "ATcount": 1,
     "WRcount": 0,
@@ -30066,12 +30090,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "hofla74",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "DrakontasTM",
     "ATcount": 1,
     "WRcount": 0,
@@ -31074,7 +31092,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Litro.",
+    "_id": "Akame.Nya",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -47928,12 +47946,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "lexicon.CSR",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "maxilegende",
     "ATcount": 1,
     "WRcount": 0,
@@ -55704,7 +55716,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Dan.TM.",
+    "_id": "Valk.orion",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
