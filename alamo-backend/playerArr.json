@@ -2359,7 +2359,7 @@
   },
   {
     "_id": "Flueffel.dpk",
-    "ATcount": 7,
+    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "_id": "lomasten",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3662,6 +3662,12 @@
   {
     "_id": "stenkler77",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Kinseshi",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4459,7 +4465,7 @@
   },
   {
     "_id": "Dirwin_TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12306,6 +12312,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "sam0612TM",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "its_numpty",
     "ATcount": 1,
     "WRcount": 0,
@@ -12577,6 +12589,12 @@
   },
   {
     "_id": "Hexr0d",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "dusk969",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -16382,12 +16400,6 @@
   {
     "_id": "Kletip",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "sam0612TM",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -24345,6 +24357,12 @@
     "_id": "enco.tm",
     "ATcount": 2,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "legit.cheating",
+    "ATcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -41376,12 +41394,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Kinseshi",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "fabsiking04",
     "ATcount": 1,
     "WRcount": 0,
@@ -42613,6 +42625,12 @@
   },
   {
     "_id": "tricbby",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Jeustie_27",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -55936,6 +55954,12 @@
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 1
+  },
+  {
+    "_id": "HUAYRAGaming",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
   },
   {
     "_id": "XelaVul",
