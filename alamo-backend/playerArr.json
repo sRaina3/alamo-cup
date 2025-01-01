@@ -164,7 +164,7 @@
   {
     "_id": "L1ngotm",
     "ATcount": 71,
-    "WRcount": 13,
+    "WRcount": 12,
     "Mapcount": 0
   },
   {
@@ -307,7 +307,7 @@
   },
   {
     "_id": "RaizaTM",
-    "ATcount": 16,
+    "ATcount": 22,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "_id": "goya.tm",
-    "ATcount": 7,
+    "ATcount": 8,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -5701,7 +5701,7 @@
   },
   {
     "_id": "H3llo1tsM3",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11058,7 +11058,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FrankTheHamster",
+    "_id": "TillSeifert_TM",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -12092,13 +12092,13 @@
   {
     "_id": "atrick.",
     "ATcount": 5,
-    "WRcount": 1,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
     "_id": "Fleu..",
     "ATcount": 7,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -13554,6 +13554,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Cambo_TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Jarmentra",
     "ATcount": 13,
     "WRcount": 0,
@@ -13872,7 +13878,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "REZAAISBACK",
+    "_id": "V1NCH.",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -25146,7 +25152,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "batatowisk08",
+    "_id": "Bepeze.07",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -26448,7 +26454,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "scroll-..-",
+    "_id": "scroll-tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -54456,6 +54462,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Silh-eo",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Track-_-zzzz",
     "ATcount": 1,
     "WRcount": 0,
@@ -56781,6 +56793,12 @@
     "_id": "SnowyLoba",
     "ATcount": 1,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Dionysos.TM.",
+    "ATcount": 1,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
