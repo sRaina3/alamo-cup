@@ -374,7 +374,7 @@
   {
     "_id": "Sqlc.",
     "ATcount": 18,
-    "WRcount": 8,
+    "WRcount": 7,
     "Mapcount": 0
   },
   {
@@ -554,7 +554,7 @@
   {
     "_id": "nyigel.",
     "ATcount": 50,
-    "WRcount": 2,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -1075,8 +1075,8 @@
   },
   {
     "_id": "WiggityWackYo",
-    "ATcount": 7,
-    "WRcount": 0,
+    "ATcount": 8,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -1124,7 +1124,7 @@
   {
     "_id": "TurtledTM",
     "ATcount": 14,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -1350,7 +1350,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "EMI.TM",
+    "_id": "SalemTM",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -1375,7 +1375,7 @@
   },
   {
     "_id": "Cfil777",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2382,7 +2382,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fro.zuhn",
+    "_id": "Frostay.uwu",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -2754,7 +2754,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "kafieni..",
+    "_id": "opia..",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -5486,6 +5486,12 @@
   {
     "_id": "MagmaTm__",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "fox_tm",
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9247,7 +9253,7 @@
   },
   {
     "_id": "th0m..",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9457,7 +9463,7 @@
   },
   {
     "_id": "ThunderCatTM",
-    "ATcount": 3,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10446,7 +10452,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "lumatom",
+    "_id": "HIKIKOEKOEKSKLY",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -12108,9 +12114,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "propanoia",
+    "ATcount": 8,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "atrick.",
     "ATcount": 5,
-    "WRcount": 2,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -14730,12 +14742,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "propanoia",
-    "ATcount": 7,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Jitsky",
     "ATcount": 4,
     "WRcount": 0,
@@ -16272,7 +16278,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "s-k-i-b-i-d-i",
+    "_id": "Nitric...",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -17210,12 +17216,6 @@
   {
     "_id": "Duckman3772",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "fox_tm",
-    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -20647,8 +20647,8 @@
   },
   {
     "_id": "Woottynator_",
-    "ATcount": 4,
-    "WRcount": 0,
+    "ATcount": 5,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -21486,7 +21486,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "flwrboyy",
+    "_id": "noahflwrs",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -22693,8 +22693,8 @@
   },
   {
     "_id": "NOwOwa",
-    "ATcount": 3,
-    "WRcount": 0,
+    "ATcount": 4,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -24618,7 +24618,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "h1smadlk7mdlk5a",
+    "_id": "midbeijing",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -24932,6 +24932,12 @@
   {
     "_id": "iYosh1337",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "BOT_Birne",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -41220,6 +41226,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "smileforyourli",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "maximum__k",
     "ATcount": 1,
     "WRcount": 0,
@@ -48630,6 +48642,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SebbahTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "LemonadeXDD",
     "ATcount": 1,
     "WRcount": 0,
@@ -48877,6 +48895,12 @@
   },
   {
     "_id": "jooval666",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "LotionFarm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
