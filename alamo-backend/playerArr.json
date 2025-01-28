@@ -133,7 +133,7 @@
   },
   {
     "_id": "rfresh1",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -276,8 +276,20 @@
     "Mapcount": 0
   },
   {
+    "_id": "striken_ginger",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Ealipse",
     "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Div_Nic",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4567,7 +4579,7 @@
   },
   {
     "_id": "MasterDeen",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12444,6 +12456,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "moneymonkey222",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "mikotzi",
     "ATcount": 4,
     "WRcount": 0,
@@ -12481,12 +12499,6 @@
   },
   {
     "_id": "T1ji_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "moneymonkey222",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13496,6 +13508,12 @@
   {
     "_id": "actafabula",
     "ATcount": 10,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "meexz-",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -24228,7 +24246,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "PURA-VIDA-TM",
+    "_id": "EL.PAPA.DE.UDS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -25590,7 +25608,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "solo23.",
+    "_id": "solo.23",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -25729,12 +25747,6 @@
   },
   {
     "_id": "Twerp..",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "meexz-",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -48744,6 +48756,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Mausradjay1267",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "LemonadeXDD",
     "ATcount": 1,
     "WRcount": 0,
@@ -53581,6 +53599,12 @@
   },
   {
     "_id": "VortroxGT",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Yens.KBDT",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
