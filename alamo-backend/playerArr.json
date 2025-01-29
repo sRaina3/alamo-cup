@@ -180,6 +180,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "unit-i-skops",
+    "ATcount": 94,
+    "WRcount": 2,
+    "Mapcount": 0
+  },
+  {
     "_id": "WaferZ123",
     "ATcount": 19,
     "WRcount": 0,
@@ -276,6 +282,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Softyd",
+    "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "striken_ginger",
     "ATcount": 1,
     "WRcount": 0,
@@ -357,12 +369,6 @@
     "_id": "Jarasicrabit",
     "ATcount": 68,
     "WRcount": 1,
-    "Mapcount": 0
-  },
-  {
-    "_id": "unit-i-skops",
-    "ATcount": 91,
-    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -4194,12 +4200,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Softyd",
-    "ATcount": 8,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "scorched_soul07",
     "ATcount": 3,
     "WRcount": 0,
@@ -6139,7 +6139,7 @@
   },
   {
     "_id": "Twitch_Edisan_h",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -11268,7 +11268,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TillSeifert_TM",
+    "_id": "FrankTheHamster",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -14052,6 +14052,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "atomate29",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Holo099",
     "ATcount": 4,
     "WRcount": 0,
@@ -14521,7 +14527,7 @@
   },
   {
     "_id": "Compeiler",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -15037,12 +15043,6 @@
   },
   {
     "_id": "Clin_TM",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "atomate29",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -55998,6 +55998,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Bananaboy45678",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Snowyghostt.",
     "ATcount": 2,
     "WRcount": 0,
@@ -56539,12 +56545,6 @@
   },
   {
     "_id": "Bobbuz",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Bananaboy45678",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
