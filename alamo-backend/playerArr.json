@@ -252,6 +252,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ThunderCatTM",
+    "ATcount": 7,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Psyniac",
     "ATcount": 2,
     "WRcount": 0,
@@ -272,6 +278,12 @@
   {
     "_id": "A1senw",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "BreezieTM",
+    "ATcount": 10,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -308,6 +320,12 @@
   {
     "_id": "Ealipse",
     "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Osoguineapig",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7992,6 +8010,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Wombat.09",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "soccerar24",
     "ATcount": 3,
     "WRcount": 0,
@@ -9644,12 +9668,6 @@
   {
     "_id": "Kelp1995",
     "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "ThunderCatTM",
-    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13122,12 +13140,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "BreezieTM",
-    "ATcount": 9,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "That_Ski_Freak",
     "ATcount": 10,
     "WRcount": 2,
@@ -13243,7 +13255,7 @@
   },
   {
     "_id": "BRAKEL3SS",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -19626,6 +19638,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "FadedDTL",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "BotKalu.",
     "ATcount": 1,
     "WRcount": 0,
@@ -20654,12 +20672,6 @@
   {
     "_id": "jf_machine6",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Wombat.09",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -24834,7 +24846,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Alex-waaa",
+    "_id": "Alex-.w",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -46542,12 +46554,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "FadedDTL",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "zimti1337",
     "ATcount": 1,
     "WRcount": 0,
@@ -55338,7 +55344,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Blasterz693",
+    "_id": "Blasterz61",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
