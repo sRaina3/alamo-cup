@@ -9,7 +9,7 @@
     "_id": "Liquid.V1",
     "ATcount": 43,
     "WRcount": 5,
-    "Mapcount": 1
+    "Mapcount": 0
   },
   {
     "_id": "Wee_-",
@@ -1170,6 +1170,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ethasaurTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "neal..",
     "ATcount": 24,
     "WRcount": 2,
@@ -1585,7 +1591,7 @@
   },
   {
     "_id": "LubiAs",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3144,7 +3150,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Twenty3TM",
+    "_id": "L0qic",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -3841,7 +3847,7 @@
   },
   {
     "_id": "lomasten",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6331,7 +6337,7 @@
   },
   {
     "_id": "Hypqua",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12049,7 +12055,7 @@
   },
   {
     "_id": "caninetm",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12632,6 +12638,12 @@
   {
     "_id": "ACubes",
     "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Herosity",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13332,7 +13344,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Nork_",
+    "_id": "no.keys",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -13680,7 +13692,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "prizzly_",
+    "_id": "prizzly.",
     "ATcount": 3,
     "WRcount": 1,
     "Mapcount": 1
@@ -21673,7 +21685,7 @@
   },
   {
     "_id": "abcdEARTHijklmn",
-    "ATcount": 2,
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -24774,7 +24786,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "A------------ir",
+    "_id": "Airwam.",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -48240,6 +48252,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "WINDEFGHIJKLMNO",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "DasLamm98",
     "ATcount": 1,
     "WRcount": 0,
@@ -57655,6 +57673,12 @@
   },
   {
     "_id": "Kxyyy",
+    "ATcount": 0,
+    "WRcount": 0,
+    "Mapcount": 1
+  },
+  {
+    "_id": "Cheeselover2299",
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
