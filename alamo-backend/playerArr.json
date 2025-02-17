@@ -378,7 +378,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TurtledTM",
+    "_id": "Turtled.cuzzoTM",
     "ATcount": 15,
     "WRcount": 0,
     "Mapcount": 0
@@ -570,6 +570,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "BobMan___",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Brazz27",
     "ATcount": 5,
     "WRcount": 1,
@@ -644,7 +650,7 @@
   {
     "_id": "L1ngotm",
     "ATcount": 71,
-    "WRcount": 12,
+    "WRcount": 11,
     "Mapcount": 0
   },
   {
@@ -1819,8 +1825,8 @@
   },
   {
     "_id": "GamingGamest",
-    "ATcount": 4,
-    "WRcount": 1,
+    "ATcount": 5,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -4663,7 +4669,7 @@
   },
   {
     "_id": "TheScientist_14",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -5911,7 +5917,7 @@
   },
   {
     "_id": "Code.TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8744,6 +8750,12 @@
   {
     "_id": "Nabuchodonozord",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "drm_account",
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18372,7 +18384,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "BENlausanne",
+    "_id": "BEN_Lsne",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -23354,12 +23366,6 @@
   {
     "_id": "Prutto.",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "drm_account",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -29863,12 +29869,6 @@
   },
   {
     "_id": "szyymi__",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "BobMan___",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36751,6 +36751,12 @@
   },
   {
     "_id": "vic1ous__",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "AXYLDev",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56617,6 +56623,12 @@
   },
   {
     "_id": "magmaha",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Shad0wD3m0nS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
