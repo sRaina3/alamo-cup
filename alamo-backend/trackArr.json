@@ -1,18 +1,1168 @@
 [
   {
+    "_id": "Chores by Robbalobb",
+    "AT": 41238,
+    "ATcount": 14
+  },
+  {
+    "_id": "techalamo",
+    "AT": 39458,
+    "ATcount": 2
+  },
+  {
+    "_id": "Rollin' Stone",
+    "AT": 39942,
+    "ATcount": 3
+  },
+  {
+    "_id": "remember the grassamo",
+    "AT": 38600,
+    "ATcount": 5
+  },
+  {
+    "_id": "RED - FT LiquidTM",
+    "AT": 44186,
+    "ATcount": 6
+  },
+  {
+    "_id": "$bMorizo GRMN",
+    "AT": 45733,
+    "ATcount": 1
+  },
+  {
+    "_id": "The Tower",
+    "AT": 43955,
+    "ATcount": 2
+  },
+  {
+    "_id": "[AC] Triangle",
+    "AT": 36218,
+    "ATcount": 2
+  },
+  {
+    "_id": "Tarka Cruise",
+    "AT": 50335,
+    "ATcount": 21
+  },
+  {
+    "_id": "biscoff",
+    "AT": 36860,
+    "ATcount": 3
+  },
+  {
+    "_id": "Bullet Bill Blitz ft Stoxy999 ft Numberplay",
+    "AT": 47581,
+    "ATcount": 1
+  },
+  {
+    "_id": "Indecision",
+    "AT": 49078,
+    "ATcount": 3
+  },
+  {
+    "_id": "Unanimously Indecisive",
+    "AT": 39706,
+    "ATcount": 7
+  },
+  {
+    "_id": "Assorted Pipecleaners",
+    "AT": 34991,
+    "ATcount": 8
+  },
+  {
+    "_id": "Backup #2",
+    "AT": 39582,
+    "ATcount": 17
+  },
+  {
+    "_id": "Final Redoubt",
+    "AT": 40860,
+    "ATcount": 9
+  },
+  {
+    "_id": "Happy Hibernation",
+    "AT": 36641,
+    "ATcount": 8
+  },
+  {
+    "_id": "RABBI CHOOSE THE WRONG MAP BASE",
+    "AT": 48409,
+    "ATcount": 3
+  },
+  {
+    "_id": "Fear of a Blank Planet ft Key",
+    "AT": 38640,
+    "ATcount": 54
+  },
+  {
+    "_id": "Neon Tarka",
+    "AT": 52458,
+    "ATcount": 13
+  },
+  {
+    "_id": "mpa for almo_aaaa2 by Hendo",
+    "AT": 33382,
+    "ATcount": 0
+  },
+  {
+    "_id": "Fine Day ft Rabbi",
+    "AT": 51752,
+    "ATcount": 1
+  },
+  {
+    "_id": "Waki Waki Egsn Baki",
+    "AT": 43491,
+    "ATcount": 14
+  },
+  {
+    "_id": "Craigievar Castle ft' stoxy999",
+    "AT": 43609,
+    "ATcount": 7
+  },
+  {
+    "_id": "Tarka Sundae",
+    "AT": 49240,
+    "ATcount": 11
+  },
+  {
+    "_id": "Half Full Glass of Wine",
+    "AT": 42868,
+    "ATcount": 16
+  },
+  {
+    "_id": "Lime",
+    "AT": 37888,
+    "ATcount": 7
+  },
+  {
+    "_id": "MODS ft FyredUp",
+    "AT": 46108,
+    "ATcount": 6
+  },
+  {
+    "_id": "Pumpkin Bash",
+    "AT": 43032,
+    "ATcount": 18
+  },
+  {
+    "_id": "[AC] The Hosts Hate You ft FyredUp",
+    "AT": 40498,
+    "ATcount": 3
+  },
+  {
+    "_id": "Tech-X-Up by MyNameIsFaran",
+    "AT": 34054,
+    "ATcount": 15
+  },
+  {
+    "_id": "Mint & Moss ft Rabbi",
+    "AT": 53997,
+    "ATcount": 1
+  },
+  {
+    "_id": "ALL FOR ONE",
+    "AT": 42795,
+    "ATcount": 27
+  },
+  {
+    "_id": "Rediculous",
+    "AT": 46595,
+    "ATcount": 11
+  },
+  {
+    "_id": "Pumpkin Spice",
+    "AT": 45898,
+    "ATcount": 2
+  },
+  {
+    "_id": "Almao 06",
+    "AT": 39161,
+    "ATcount": 7
+  },
+  {
+    "_id": "MaccroBlocky",
+    "AT": 43534,
+    "ATcount": 3
+  },
+  {
+    "_id": "Manning Fireworks ft Rabbi",
+    "AT": 37495,
+    "ATcount": 29
+  },
+  {
+    "_id": "4444",
+    "AT": 31699,
+    "ATcount": 4
+  },
+  {
+    "_id": "NewAmo 1",
+    "AT": 41061,
+    "ATcount": 17
+  },
+  {
+    "_id": "Crimson extinction",
+    "AT": 36323,
+    "ATcount": 4
+  },
+  {
+    "_id": "Only Tres Loco",
+    "AT": 37162,
+    "ATcount": 13
+  },
+  {
+    "_id": "Almao 01",
+    "AT": 34604,
+    "ATcount": 11
+  },
+  {
+    "_id": "poison ft' Rabbi",
+    "AT": 38875,
+    "ATcount": 1
+  },
+  {
+    "_id": "cold start",
+    "AT": 44272,
+    "ATcount": 11
+  },
+  {
+    "_id": "As Requested?",
+    "AT": 37838,
+    "ATcount": 7
+  },
+  {
+    "_id": "Worchestershire Way",
+    "AT": 44576,
+    "ATcount": 21
+  },
+  {
+    "_id": "PC 2",
+    "AT": 41702,
+    "ATcount": 8
+  },
+  {
+    "_id": "PC 3",
+    "AT": 42411,
+    "ATcount": 1
+  },
+  {
+    "_id": "[AC] HALLOWEEEEEEN",
+    "AT": 40135,
+    "ATcount": 6
+  },
+  {
+    "_id": "Escaping Entropy",
+    "AT": 41695,
+    "ATcount": 36
+  },
+  {
+    "_id": "jelly a la mode",
+    "AT": 35444,
+    "ATcount": 22
+  },
+  {
+    "_id": "Strawberry Cheesecake",
+    "AT": 38898,
+    "ATcount": 2
+  },
+  {
+    "_id": "Karlskrona",
+    "AT": 40907,
+    "ATcount": 5
+  },
+  {
+    "_id": "Evil champlar forest",
+    "AT": 46412,
+    "ATcount": 4
+  },
+  {
+    "_id": "Foo6 by Whycas",
+    "AT": 49191,
+    "ATcount": 5
+  },
+  {
+    "_id": "[ A C ] Flattopia [ Rev 01 ]",
+    "AT": 40328,
+    "ATcount": 56
+  },
+  {
+    "_id": "Through The Cracks",
+    "AT": 37528,
+    "ATcount": 2
+  },
+  {
+    "_id": "PC 1",
+    "AT": 37764,
+    "ATcount": 9
+  },
+  {
+    "_id": "Conform",
+    "AT": 52346,
+    "ATcount": 8
+  },
+  {
+    "_id": "Violet Distortions",
+    "AT": 45528,
+    "ATcount": 1949
+  },
+  {
+    "_id": "unrestricted access",
+    "AT": 39678,
+    "ATcount": 9
+  },
+  {
+    "_id": "Komodo",
+    "AT": 49524,
+    "ATcount": 0
+  },
+  {
+    "_id": "$bHAZE 2008",
+    "AT": 37095,
+    "ATcount": 4
+  },
+  {
+    "_id": "ACSM3",
+    "AT": 40289,
+    "ATcount": 16
+  },
+  {
+    "_id": "super laser beam",
+    "AT": 32872,
+    "ATcount": 16
+  },
+  {
+    "_id": "Bob-omb",
+    "AT": 47695,
+    "ATcount": 137
+  },
+  {
+    "_id": "Trust Me I'm A Scientist",
+    "AT": 43936,
+    "ATcount": 34
+  },
+  {
+    "_id": "Unsettling Snow",
+    "AT": 38077,
+    "ATcount": 8
+  },
+  {
+    "_id": "Krapina",
+    "AT": 43858,
+    "ATcount": 5
+  },
+  {
+    "_id": "Skelleteå",
+    "AT": 39514,
+    "ATcount": 7
+  },
+  {
+    "_id": "sunnyside up",
+    "AT": 40205,
+    "ATcount": 5
+  },
+  {
+    "_id": "Cloudtop Acres",
+    "AT": 34603,
+    "ATcount": 9
+  },
+  {
+    "_id": "Poetry In Motion",
+    "AT": 51420,
+    "ATcount": 1
+  },
+  {
+    "_id": "Anodized ft Grogger",
+    "AT": 39355,
+    "ATcount": 2
+  },
+  {
+    "_id": "World of Sus",
+    "AT": 50794,
+    "ATcount": 12
+  },
+  {
+    "_id": "Snow Trek",
+    "AT": 37905,
+    "ATcount": 11
+  },
+  {
+    "_id": "Solana",
+    "AT": 40628,
+    "ATcount": 29
+  },
+  {
+    "_id": "Tarka Skies",
+    "AT": 52087,
+    "ATcount": 18
+  },
+  {
+    "_id": "Isotopic Shift",
+    "AT": 39745,
+    "ATcount": 37
+  },
+  {
+    "_id": "Backup #1",
+    "AT": 34052,
+    "ATcount": 33
+  },
+  {
+    "_id": "Mixed Fusion",
+    "AT": 44768,
+    "ATcount": 7
+  },
+  {
+    "_id": "Engage",
+    "AT": 48082,
+    "ATcount": 15
+  },
+  {
+    "_id": "Pilot",
+    "AT": 35858,
+    "ATcount": 5
+  },
+  {
+    "_id": "Trees and what not",
+    "AT": 43571,
+    "ATcount": 2
+  },
+  {
+    "_id": "Go Again Ft' Niels Dewitte",
+    "AT": 42474,
+    "ATcount": 3
+  },
+  {
+    "_id": "Solar Flare ft Numberplay",
+    "AT": 43583,
+    "ATcount": 6
+  },
+  {
+    "_id": " Jävla Gävle",
+    "AT": 38412,
+    "ATcount": 6
+  },
+  {
+    "_id": "Refractionz",
+    "AT": 41149,
+    "ATcount": 6
+  },
+  {
+    "_id": "KS Greenlands",
+    "AT": 37331,
+    "ATcount": 5
+  },
+  {
+    "_id": "ISO KAKTUS",
+    "AT": 33685,
+    "ATcount": 40
+  },
+  {
+    "_id": "VCC Showcase 5 - Alamo",
+    "AT": 49517,
+    "ATcount": 16
+  },
+  {
+    "_id": "ocdッ [CE]",
+    "AT": 41240,
+    "ATcount": 1
+  },
+  {
+    "_id": "Fluorine",
+    "AT": 29451,
+    "ATcount": 0
+  },
+  {
+    "_id": "Aquired",
+    "AT": 39202,
+    "ATcount": 17
+  },
+  {
+    "_id": "Fireslip~",
+    "AT": 48951,
+    "ATcount": 84
+  },
+  {
+    "_id": "$bILOVEWETPLASTIC",
+    "AT": 47090,
+    "ATcount": 4
+  },
+  {
+    "_id": "Xanadu",
+    "AT": 45281,
+    "ATcount": 7
+  },
+  {
+    "_id": "GreenSlide",
+    "AT": 40948,
+    "ATcount": 55
+  },
+  {
+    "_id": "LUЯP1E ft TFLAMEEE",
+    "AT": 38989,
+    "ATcount": 7
+  },
+  {
+    "_id": "happy bday alamoerica",
+    "AT": 42456,
+    "ATcount": 3
+  },
+  {
+    "_id": "Cupcake Frosting (AC)",
+    "AT": 45906,
+    "ATcount": 3
+  },
+  {
+    "_id": "NAUTICUS",
+    "AT": 38132,
+    "ATcount": 4
+  },
+  {
+    "_id": "Daeodon ft Daehryn",
+    "AT": 38785,
+    "ATcount": 30
+  },
+  {
+    "_id": "Fijnstof",
+    "AT": 36202,
+    "ATcount": 22
+  },
+  {
+    "_id": "UNODOSTRES",
+    "AT": 47198,
+    "ATcount": 15
+  },
+  {
+    "_id": "Sundry Ways",
+    "AT": 38583,
+    "ATcount": 11
+  },
+  {
+    "_id": "1amoffthejosh_fyredupspc_alxgps_sullyscenery_cheatedat_frfr",
+    "AT": 38198,
+    "ATcount": 15
+  },
+  {
+    "_id": "Halamau Key",
+    "AT": 41693,
+    "ATcount": 14
+  },
+  {
+    "_id": "360 | 365",
+    "AT": 38625,
+    "ATcount": 6
+  },
+  {
+    "_id": "Mauve & Moss ft Rabbi",
+    "AT": 48395,
+    "ATcount": 0
+  },
+  {
+    "_id": "A L A M O",
+    "AT": 58712,
+    "ATcount": 29
+  },
+  {
+    "_id": "Oasis",
+    "AT": 54030,
+    "ATcount": 25
+  },
+  {
+    "_id": "Chasing theDark",
+    "AT": 65003,
+    "ATcount": 80
+  },
+  {
+    "_id": " Shamrock and Vermilion ft Rabbi",
+    "AT": 45971,
+    "ATcount": 5
+  },
+  {
+    "_id": "Plain Cheeseburger",
+    "AT": 44718,
+    "ATcount": 11
+  },
+  {
+    "_id": "Butter'd Banana",
+    "AT": 48699,
+    "ATcount": 8
+  },
+  {
+    "_id": "Winter Mud Ft' Fyzxr6",
+    "AT": 31898,
+    "ATcount": 4
+  },
+  {
+    "_id": "Esoterica G",
+    "AT": 45502,
+    "ATcount": 3
+  },
+  {
+    "_id": "Blueberry Cheesecake (AC)",
+    "AT": 43015,
+    "ATcount": 5
+  },
+  {
+    "_id": "FOURTH  OF JULYLAMO",
+    "AT": 41776,
+    "ATcount": 4
+  },
+  {
+    "_id": "gear 3 plastic is back",
+    "AT": 36001,
+    "ATcount": 1
+  },
+  {
+    "_id": "Head 'Em Off at the Pass",
+    "AT": 42948,
+    "ATcount": 10
+  },
+  {
+    "_id": "Spokenmavenhonchel",
+    "AT": 37863,
+    "ATcount": 7
+  },
+  {
+    "_id": "BWOASIS ft' Huhlolnvm",
+    "AT": 38758,
+    "ATcount": 43
+  },
+  {
+    "_id": "Sourdough [AC]",
+    "AT": 43828,
+    "ATcount": 2
+  },
+  {
+    "_id": "Dirt by Defult",
+    "AT": 44291,
+    "ATcount": 3
+  },
+  {
+    "_id": "_aaaa_extended_this one_frfr_scenery",
+    "AT": 54684,
+    "ATcount": 0
+  },
+  {
+    "_id": "Bumpenschnitzel of the Blue Speed Slide Takes on Alamo Cup",
+    "AT": 46571,
+    "ATcount": 2
+  },
+  {
+    "_id": "TerraTrio",
+    "AT": 47627,
+    "ATcount": 2737
+  },
+  {
+    "_id": "[AC] Quarry Dash ft FyredUp",
+    "AT": 41248,
+    "ATcount": 4
+  },
+  {
+    "_id": "Ne-BOB-ula",
+    "AT": 43915,
+    "ATcount": 21
+  },
+  {
+    "_id": "Citronelle",
+    "AT": 48135,
+    "ATcount": 33
+  },
+  {
+    "_id": "[AC] American Muscle",
+    "AT": 44926,
+    "ATcount": 16
+  },
+  {
+    "_id": "Dust Bowl",
+    "AT": 54710,
+    "ATcount": 5
+  },
+  {
+    "_id": "raa raa raa bla",
+    "AT": 49375,
+    "ATcount": 5
+  },
+  {
+    "_id": "Neon Hills",
+    "AT": 53353,
+    "ATcount": 11
+  },
+  {
+    "_id": "Fajita Fields",
+    "AT": 51553,
+    "ATcount": 1
+  },
+  {
+    "_id": "Backtrack  by Prizzly",
+    "AT": 33406,
+    "ATcount": 6
+  },
+  {
+    "_id": "Dappled ft BsnipezTM",
+    "AT": 46018,
+    "ATcount": 24
+  },
+  {
+    "_id": "[ AC ] Seven Days",
+    "AT": 36006,
+    "ATcount": 27
+  },
+  {
+    "_id": "Simple Man",
+    "AT": 31043,
+    "ATcount": 0
+  },
+  {
+    "_id": "YesLawd!",
+    "AT": 40946,
+    "ATcount": 4
+  },
+  {
+    "_id": "Foo1 Ft Stoxy999 by Whycas",
+    "AT": 41238,
+    "ATcount": 12
+  },
+  {
+    "_id": "ALCHEMY",
+    "AT": 40672,
+    "ATcount": 10
+  },
+  {
+    "_id": "Foo7 by Whycas",
+    "AT": 42425,
+    "ATcount": 10
+  },
+  {
+    "_id": "twisty Mctwist face",
+    "AT": 48276,
+    "ATcount": 8
+  },
+  {
+    "_id": "IceFlight",
+    "AT": 39720,
+    "ATcount": 11
+  },
+  {
+    "_id": "Cookies & Cream (AC)",
+    "AT": 45275,
+    "ATcount": 1
+  },
+  {
+    "_id": "Mini RPG Night In Alamo",
+    "AT": 42731,
+    "ATcount": 28
+  },
+  {
+    "_id": "Alamo Together vol 2",
+    "AT": 39481,
+    "ATcount": 8
+  },
+  {
+    "_id": "Free Breeze",
+    "AT": 37682,
+    "ATcount": 7
+  },
+  {
+    "_id": "Tangerine Sprint",
+    "AT": 47345,
+    "ATcount": 18
+  },
+  {
+    "_id": "Crimped",
+    "AT": 48258,
+    "ATcount": 8
+  },
+  {
+    "_id": "Melted Path (Altered Alamo)",
+    "AT": 29731,
+    "ATcount": 26
+  },
+  {
+    "_id": "Send maps to Rabbi on Discord",
+    "AT": 45333,
+    "ATcount": 8
+  },
+  {
+    "_id": "Motion",
+    "AT": 38241,
+    "ATcount": 0
+  },
+  {
+    "_id": "Indigo Interlude",
+    "AT": 48768,
+    "ATcount": 7
+  },
+  {
+    "_id": "velenu",
+    "AT": 36322,
+    "ATcount": 11
+  },
+  {
+    "_id": "Alamo Together",
+    "AT": 46128,
+    "ATcount": 10
+  },
+  {
+    "_id": "Foo8 Ft Stoxy999",
+    "AT": 44058,
+    "ATcount": 2
+  },
+  {
+    "_id": "ALT TERRAIN",
+    "AT": 42348,
+    "ATcount": 27
+  },
+  {
+    "_id": "Goodwood Park",
+    "AT": 51987,
+    "ATcount": 28
+  },
+  {
+    "_id": "$BSTARS ft $ NIGHTROAST",
+    "AT": 42251,
+    "ATcount": 14
+  },
+  {
+    "_id": "[AC]Shaken by FwkesSam",
+    "AT": 44010,
+    "ATcount": 24
+  },
+  {
+    "_id": "La Mezcla",
+    "AT": 37802,
+    "ATcount": 22
+  },
+  {
+    "_id": " Fleur de Lys",
+    "AT": 42308,
+    "ATcount": 2
+  },
+  {
+    "_id": "Emulsion",
+    "AT": 42878,
+    "ATcount": 7
+  },
+  {
+    "_id": "Converse",
+    "AT": 46036,
+    "ATcount": 15
+  },
+  {
+    "_id": "Fort Prominence ft PChimpin",
+    "AT": 43428,
+    "ATcount": 282
+  },
+  {
+    "_id": "Hendydourette ft Rabbi",
+    "AT": 45974,
+    "ATcount": 1
+  },
+  {
+    "_id": "AZUL COIL",
+    "AT": 35235,
+    "ATcount": 16
+  },
+  {
+    "_id": "Scuttlebuggin'",
+    "AT": 45783,
+    "ATcount": 11
+  },
+  {
+    "_id": "[ AC ] Dirty Tarps",
+    "AT": 37554,
+    "ATcount": 35
+  },
+  {
+    "_id": "BurntCaviar by Fiz",
+    "AT": 39271,
+    "ATcount": 7
+  },
+  {
+    "_id": "Empty Calorie",
+    "AT": 49012,
+    "ATcount": 20
+  },
+  {
+    "_id": "OddMix",
+    "AT": 38991,
+    "ATcount": 15
+  },
+  {
+    "_id": "MIXEDUP ft FwkesSam",
+    "AT": 47285,
+    "ATcount": 6
+  },
+  {
+    "_id": "$1fGrønn F$1ft' Bhuji",
+    "AT": 40255,
+    "ATcount": 9
+  },
+  {
+    "_id": "Sunflower sprint ft Kaii",
+    "AT": 41515,
+    "ATcount": 23
+  },
+  {
+    "_id": "Funfair xdd",
+    "AT": 46672,
+    "ATcount": 4
+  },
+  {
+    "_id": "Crimson",
+    "AT": 39635,
+    "ATcount": 2
+  },
+  {
+    "_id": "Chimpando",
+    "AT": 48431,
+    "ATcount": 7
+  },
+  {
+    "_id": "Impromptu Dino ft' Rabbi",
+    "AT": 46808,
+    "ATcount": 14
+  },
+  {
+    "_id": "The Invasion",
+    "AT": 41010,
+    "ATcount": 8
+  },
+  {
+    "_id": "aufregend",
+    "AT": 38698,
+    "ATcount": 4
+  },
+  {
+    "_id": "Tech of the Week by Whycas",
+    "AT": 46068,
+    "ATcount": 32
+  },
+  {
+    "_id": "Niflheim",
+    "AT": 42178,
+    "ATcount": 15
+  },
+  {
+    "_id": "SIERRA",
+    "AT": 41001,
+    "ATcount": 8
+  },
+  {
+    "_id": "Rallamo",
+    "AT": 34870,
+    "ATcount": 8
+  },
+  {
+    "_id": "Broken Kingdom",
+    "AT": 33537,
+    "ATcount": 6
+  },
+  {
+    "_id": "10 Drinks Later",
+    "AT": 27890,
+    "ATcount": 10
+  },
+  {
+    "_id": "Time is Gold ft Huhlolnvm",
+    "AT": 55207,
+    "ATcount": 8
+  },
+  {
+    "_id": "WoodlawnPark",
+    "AT": 42500,
+    "ATcount": 9
+  },
+  {
+    "_id": "alamo cup map made w giilo at 4am and then rabbi did scenery",
+    "AT": 44362,
+    "ATcount": 1
+  },
+  {
+    "_id": "EX NIHILO",
+    "AT": 43904,
+    "ATcount": 3
+  },
+  {
+    "_id": "$0SUNSET Palms X2",
+    "AT": 50097,
+    "ATcount": 34
+  },
+  {
+    "_id": "LuganToogan",
+    "AT": 35418,
+    "ATcount": 3
+  },
+  {
+    "_id": "[AC]Pumping",
+    "AT": 42502,
+    "ATcount": 14
+  },
+  {
+    "_id": "Fast Castle",
+    "AT": 39907,
+    "ATcount": 10
+  },
+  {
+    "_id": "Apiary",
+    "AT": 36475,
+    "ATcount": 4
+  },
+  {
+    "_id": "Alamo's Rooms",
+    "AT": 39222,
+    "ATcount": 11
+  },
+  {
+    "_id": "DAMSON",
+    "AT": 49645,
+    "ATcount": 25
+  },
+  {
+    "_id": "These Three Things [ALAMO]",
+    "AT": 40508,
+    "ATcount": 48
+  },
+  {
+    "_id": "Pecos Bill",
+    "AT": 45742,
+    "ATcount": 26
+  },
+  {
+    "_id": "Bluefin Meadow",
+    "AT": 43893,
+    "ATcount": 20
+  },
+  {
+    "_id": "Over, Under",
+    "AT": 47050,
+    "ATcount": 1
+  },
+  {
+    "_id": "PROJECT 001",
+    "AT": 42988,
+    "ATcount": 35
+  },
+  {
+    "_id": "[AC] ",
+    "AT": 41865,
+    "ATcount": 11
+  },
+  {
+    "_id": "Careening Cliffs",
+    "AT": 38668,
+    "ATcount": 421
+  },
+  {
+    "_id": "[AC]Centerpiece",
+    "AT": 43324,
+    "ATcount": 7
+  },
+  {
+    "_id": " Radioactive Ruins",
+    "AT": 44071,
+    "ATcount": 6
+  },
+  {
+    "_id": "Alamo Cup 030",
+    "AT": 44602,
+    "ATcount": 17
+  },
+  {
+    "_id": "[AC]Local Minima",
+    "AT": 48656,
+    "ATcount": 4
+  },
+  {
+    "_id": "Tranq",
+    "AT": 29732,
+    "ATcount": 34
+  },
+  {
+    "_id": "NILLA'S FORT",
+    "AT": 42398,
+    "ATcount": 31
+  },
+  {
+    "_id": "The Dream Is Dead [ALAMO]",
+    "AT": 34638,
+    "ATcount": 30
+  },
+  {
+    "_id": "Tumadreesunamochila",
+    "AT": 46854,
+    "ATcount": 11
+  },
+  {
+    "_id": "COHERENT",
+    "AT": 30051,
+    "ATcount": 6
+  },
+  {
+    "_id": "Forebearance",
+    "AT": 28780,
+    "ATcount": 6
+  },
+  {
+    "_id": "[AC] Morning Snow",
+    "AT": 39668,
+    "ATcount": 1
+  },
+  {
+    "_id": "AC - Skyvannah",
+    "AT": 34401,
+    "ATcount": 24
+  },
+  {
+    "_id": "Orzhova",
+    "AT": 41117,
+    "ATcount": 16
+  },
+  {
+    "_id": "Empire's Rise",
+    "AT": 50462,
+    "ATcount": 22
+  },
+  {
+    "_id": "Orichalcum",
+    "AT": 50304,
+    "ATcount": 13
+  },
+  {
     "_id": "Berries & Cream ft Fvrriswheel",
     "AT": 31882,
-    "ATcount": 8
+    "ATcount": 10
+  },
+  {
+    "_id": "Lint Roller",
+    "AT": 45977,
+    "ATcount": 5
+  },
+  {
+    "_id": "[AC] Did It Again",
+    "AT": 37999,
+    "ATcount": 12
+  },
+  {
+    "_id": "Snake Rider ^_^",
+    "AT": 53403,
+    "ATcount": 10
   },
   {
     "_id": "[AC] Rushed",
     "AT": 30062,
-    "ATcount": 19
+    "ATcount": 25
+  },
+  {
+    "_id": "Prelude To Agony [ALAMO]",
+    "AT": 41154,
+    "ATcount": 26
+  },
+  {
+    "_id": "4am init bruv_use this one pls",
+    "AT": 41738,
+    "ATcount": 0
   },
   {
     "_id": "Savet Sprint",
     "AT": 54208,
-    "ATcount": 7
+    "ATcount": 9
   },
   {
     "_id": "$F9[Immure]",
@@ -22,57 +1172,107 @@
   {
     "_id": "[AC] Coarse Angles",
     "AT": 47564,
-    "ATcount": 20
+    "ATcount": 26
+  },
+  {
+    "_id": "DREAMYLULL",
+    "AT": 48201,
+    "ATcount": 9
+  },
+  {
+    "_id": "PETE'S PASTURE",
+    "AT": 42094,
+    "ATcount": 12
+  },
+  {
+    "_id": "ArtiChoke",
+    "AT": 50668,
+    "ATcount": 10
+  },
+  {
+    "_id": "Bomb-Pop",
+    "AT": 44758,
+    "ATcount": 5
+  },
+  {
+    "_id": "[NCTM][AC]Gritty",
+    "AT": 42356,
+    "ATcount": 4
   },
   {
     "_id": "ALAMO - Silcoon",
     "AT": 44008,
-    "ATcount": 4
+    "ATcount": 5
+  },
+  {
+    "_id": "Gigi di'Balamo",
+    "AT": 38176,
+    "ATcount": 31
   },
   {
     "_id": "4am mape2",
     "AT": 48580,
-    "ATcount": 0
+    "ATcount": 1
   },
   {
     "_id": "Kilter",
     "AT": 40944,
-    "ATcount": 29
+    "ATcount": 45
   },
   {
     "_id": "Secundo Semita",
     "AT": 41873,
+    "ATcount": 6
+  },
+  {
+    "_id": "Illusion of Choice",
+    "AT": 41514,
+    "ATcount": 7
+  },
+  {
+    "_id": "We Have Grassy Road at Home",
+    "AT": 44329,
     "ATcount": 5
   },
   {
     "_id": "Falling Embers By Trunkley",
     "AT": 48348,
-    "ATcount": 28
+    "ATcount": 44
+  },
+  {
+    "_id": "WHITE SHADOW",
+    "AT": 45146,
+    "ATcount": 29
+  },
+  {
+    "_id": "The Fall Will Probably Kill You",
+    "AT": 35658,
+    "ATcount": 4
   },
   {
     "_id": "LeafGreen Gardens",
     "AT": 39045,
-    "ATcount": 20
+    "ATcount": 42
   },
   {
     "_id": "Huracán Aren",
     "AT": 53848,
-    "ATcount": 6
+    "ATcount": 9
   },
   {
     "_id": "Tua Matrem Futuo",
     "AT": 45048,
-    "ATcount": 15
+    "ATcount": 21
   },
   {
     "_id": "BLALAMO",
     "AT": 43777,
-    "ATcount": 32
+    "ATcount": 43
   },
   {
     "_id": "Nascar Greens",
     "AT": 37635,
-    "ATcount": 21
+    "ATcount": 25
   },
   {
     "_id": "Gekkouka",
@@ -82,37 +1282,37 @@
   {
     "_id": "Blue Waffles",
     "AT": 48886,
-    "ATcount": 13
+    "ATcount": 17
   },
   {
     "_id": "Roolipeli",
     "AT": 29145,
-    "ATcount": 6
+    "ATcount": 8
   },
   {
     "_id": "Mixed Up",
     "AT": 43174,
-    "ATcount": 24
+    "ATcount": 35
   },
   {
     "_id": "LINEOUT FT OHIO_JG (alamo cup)",
     "AT": 49255,
-    "ATcount": 7
+    "ATcount": 8
   },
   {
     "_id": "Texan Fall",
     "AT": 35968,
-    "ATcount": 25
+    "ATcount": 31
   },
   {
     "_id": "Elysium-",
     "AT": 36927,
-    "ATcount": 7
+    "ATcount": 9
   },
   {
     "_id": "SAFFRON",
     "AT": 47054,
-    "ATcount": 19
+    "ATcount": 21
   },
   {
     "_id": "4am mape",
@@ -122,7 +1322,7 @@
   {
     "_id": "Sorry Not Sorry",
     "AT": 49851,
-    "ATcount": 1
+    "ATcount": 12
   },
   {
     "_id": "Abyss Defiant",
@@ -137,42 +1337,42 @@
   {
     "_id": "Alamo Cup 030",
     "AT": 42471,
-    "ATcount": 10
+    "ATcount": 12
   },
   {
     "_id": "Dusty Skyline",
     "AT": 41631,
-    "ATcount": 30
+    "ATcount": 38
   },
   {
     "_id": "Capital",
     "AT": 42371,
-    "ATcount": 17
+    "ATcount": 20
   },
   {
     "_id": "HOT Coals",
     "AT": 41595,
-    "ATcount": 16
+    "ATcount": 26
   },
   {
     "_id": "Frozen Path",
     "AT": 33358,
-    "ATcount": 8
+    "ATcount": 10
   },
   {
     "_id": "OuterMind",
     "AT": 43574,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Festivia",
     "AT": 39088,
-    "ATcount": 18
+    "ATcount": 24
   },
   {
     "_id": "Still Alive",
     "AT": 36871,
-    "ATcount": 2
+    "ATcount": 3
   },
   {
     "_id": "Gold Digger",
@@ -182,17 +1382,17 @@
   {
     "_id": "[AC] Sunshine",
     "AT": 35328,
-    "ATcount": 8
+    "ATcount": 11
   },
   {
     "_id": "Sergosa",
     "AT": 35780,
-    "ATcount": 24
+    "ATcount": 32
   },
   {
     "_id": "Offset",
     "AT": 44241,
-    "ATcount": 23
+    "ATcount": 30
   },
   {
     "_id": "The Grudge",
@@ -212,37 +1412,37 @@
   {
     "_id": "Pickled Onions",
     "AT": 44924,
-    "ATcount": 724
+    "ATcount": 752
   },
   {
     "_id": "cerulean",
     "AT": 46423,
-    "ATcount": 110
+    "ATcount": 150
   },
   {
     "_id": "Memorial",
     "AT": 31118,
-    "ATcount": 3
+    "ATcount": 4
   },
   {
     "_id": "Negative G | ft Loon",
     "AT": 40200,
-    "ATcount": 7
+    "ATcount": 8
   },
   {
     "_id": "Fountain of Youth",
     "AT": 40294,
-    "ATcount": 17
+    "ATcount": 20
   },
   {
     "_id": "Chlorophyll",
     "AT": 44016,
-    "ATcount": 8
+    "ATcount": 10
   },
   {
     "_id": "Omala",
     "AT": 44301,
-    "ATcount": 25
+    "ATcount": 27
   },
   {
     "_id": "Monter",
@@ -257,47 +1457,47 @@
   {
     "_id": "Meadow Speedway",
     "AT": 34803,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "VIRIDESCENT",
     "AT": 44302,
-    "ATcount": 20
+    "ATcount": 27
   },
   {
     "_id": "jump and rise",
     "AT": 40892,
-    "ATcount": 13
+    "ATcount": 22
   },
   {
     "_id": "Cloud Castle Raceway",
     "AT": 31564,
-    "ATcount": 33
+    "ATcount": 40
   },
   {
     "_id": "[AC] Stegosaurus",
     "AT": 35288,
-    "ATcount": 18
+    "ATcount": 19
   },
   {
     "_id": "A Dry Whiskey by xCoolio",
     "AT": 42508,
-    "ATcount": 16
+    "ATcount": 19
   },
   {
     "_id": "[AC] Ground Contact",
     "AT": 35898,
-    "ATcount": 17
+    "ATcount": 20
   },
   {
     "_id": "Alamo - Deep Fried Speed Fun",
     "AT": 41885,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Hour of Power",
     "AT": 60000,
-    "ATcount": 61
+    "ATcount": 98
   },
   {
     "_id": "Follow Me On Tumblr",
@@ -307,37 +1507,37 @@
   {
     "_id": "[AC] Recall",
     "AT": 40818,
-    "ATcount": 3
+    "ATcount": 4
   },
   {
     "_id": "Alamo - Bilimo Gup",
     "AT": 30971,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "Pickle Fish Jelly",
     "AT": 39247,
-    "ATcount": 25
+    "ATcount": 29
   },
   {
     "_id": "Salamander",
     "AT": 40465,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "[AC] Rise",
     "AT": 33523,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "North Blitz",
     "AT": 49702,
-    "ATcount": 8
+    "ATcount": 14
   },
   {
     "_id": "MARINE",
     "AT": 43086,
-    "ATcount": 27
+    "ATcount": 29
   },
   {
     "_id": "Iris",
@@ -347,7 +1547,7 @@
   {
     "_id": "Sky Fall",
     "AT": 32512,
-    "ATcount": 5
+    "ATcount": 7
   },
   {
     "_id": "[AC] ThreeWide",
@@ -357,22 +1557,22 @@
   {
     "_id": "1st Of May",
     "AT": 30174,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "SpeedSad",
     "AT": 49471,
-    "ATcount": 25
+    "ATcount": 30
   },
   {
     "_id": "Alamo - Virescent",
     "AT": 41481,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "City in the Sky",
     "AT": 36936,
-    "ATcount": 47
+    "ATcount": 54
   },
   {
     "_id": "BrusselSprout",
@@ -382,12 +1582,12 @@
   {
     "_id": "mitchie and i have lead poisoning!!!",
     "AT": 43384,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "windfall",
     "AT": 38938,
-    "ATcount": 8
+    "ATcount": 9
   },
   {
     "_id": "[AC] Charade",
@@ -397,22 +1597,22 @@
   {
     "_id": "EzMC #3",
     "AT": 54827,
-    "ATcount": 9
+    "ATcount": 12
   },
   {
     "_id": "Water Cycle",
     "AT": 43088,
-    "ATcount": 23
+    "ATcount": 28
   },
   {
     "_id": "funny double respawn",
     "AT": 51236,
-    "ATcount": 33
+    "ATcount": 35
   },
   {
     "_id": "Ruby Raceway",
     "AT": 40335,
-    "ATcount": 14
+    "ATcount": 16
   },
   {
     "_id": " SLOW BALL  FT OHIO_JG",
@@ -422,27 +1622,27 @@
   {
     "_id": "everyone should have a map called Unnamed",
     "AT": 46475,
-    "ATcount": 20
+    "ATcount": 22
   },
   {
     "_id": "Alamo Cup 027",
     "AT": 38909,
-    "ATcount": 36
+    "ATcount": 38
   },
   {
     "_id": "[AC] Arco",
     "AT": 44939,
-    "ATcount": 7
+    "ATcount": 8
   },
   {
     "_id": "Blue Moon",
     "AT": 49285,
-    "ATcount": 3
+    "ATcount": 4
   },
   {
     "_id": "FixedNature",
     "AT": 37738,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "[AC] Random's Idea",
@@ -452,32 +1652,32 @@
   {
     "_id": "Oops I dropped my transitions",
     "AT": 29069,
-    "ATcount": 12
+    "ATcount": 16
   },
   {
     "_id": "Outspeed v2",
     "AT": 46778,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Alamo Cup 022",
     "AT": 42777,
-    "ATcount": 28
+    "ATcount": 30
   },
   {
     "_id": "Gold Rush ft FwkesSam",
     "AT": 47367,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "Bobker",
     "AT": 36271,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Lush Fields",
     "AT": 43098,
-    "ATcount": 35
+    "ATcount": 45
   },
   {
     "_id": "[AC] Bugso",
@@ -487,7 +1687,7 @@
   {
     "_id": "Sculpture Park ft Rabbi",
     "AT": 53398,
-    "ATcount": 15
+    "ATcount": 17
   },
   {
     "_id": "ALAMO - Sahara",
@@ -497,7 +1697,7 @@
   {
     "_id": "Save the Alamo",
     "AT": 42521,
-    "ATcount": 5968
+    "ATcount": 6515
   },
   {
     "_id": "Red Alert! ft Randomize",
@@ -507,42 +1707,42 @@
   {
     "_id": "MAGENTA",
     "AT": 46674,
-    "ATcount": 21
+    "ATcount": 27
   },
   {
     "_id": "POWER",
     "AT": 35813,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "TAO Practice 2",
     "AT": 38201,
-    "ATcount": 7
+    "ATcount": 8
   },
   {
     "_id": "Plurality",
     "AT": 36877,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "Dreamery",
     "AT": 43405,
-    "ATcount": 31
+    "ATcount": 43
   },
   {
     "_id": "GLEAM FT VSD",
     "AT": 42688,
-    "ATcount": 27
+    "ATcount": 28
   },
   {
     "_id": "Novel Ingress",
     "AT": 45452,
-    "ATcount": 42
+    "ATcount": 50
   },
   {
     "_id": "Indoor Speedfun (No Wind)",
     "AT": 47853,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Load Balancer",
@@ -552,12 +1752,12 @@
   {
     "_id": "Bubblegum drifts",
     "AT": 37692,
-    "ATcount": 33
+    "ATcount": 43
   },
   {
     "_id": "Alamo Cup 007",
     "AT": 45374,
-    "ATcount": 18
+    "ATcount": 23
   },
   {
     "_id": "Reversicle",
@@ -567,72 +1767,72 @@
   {
     "_id": "Darkened Spiralpunk",
     "AT": 42893,
-    "ATcount": 31
+    "ATcount": 38
   },
   {
     "_id": "Alamo Cup 008",
     "AT": 56008,
-    "ATcount": 16
+    "ATcount": 19
   },
   {
     "_id": "21 Percent Delerium by Kali",
     "AT": 38478,
-    "ATcount": 17
+    "ATcount": 21
   },
   {
     "_id": "Delphinium",
     "AT": 50908,
-    "ATcount": 41
+    "ATcount": 49
   },
   {
     "_id": "Holy Ground by JGamer2614",
     "AT": 41668,
-    "ATcount": 24
+    "ATcount": 31
   },
   {
     "_id": "Technically Dirty by Rabbi and Giilo ft Numberplay",
     "AT": 54814,
-    "ATcount": 24
+    "ATcount": 29
   },
   {
     "_id": "ALAMO - Yukon Gold",
     "AT": 47698,
-    "ATcount": 13
+    "ATcount": 14
   },
   {
     "_id": "Alamo Cup Map 005",
     "AT": 44676,
-    "ATcount": 17
+    "ATcount": 23
   },
   {
     "_id": "Why Bother ft Kali",
     "AT": 62438,
-    "ATcount": 19
+    "ATcount": 24
   },
   {
     "_id": "Curvaceous Sunset",
     "AT": 41798,
-    "ATcount": 37
+    "ATcount": 51
   },
   {
     "_id": "Knockdown Dragout",
     "AT": 33784,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Dawn Embrace",
     "AT": 47043,
-    "ATcount": 11
+    "ATcount": 12
   },
   {
     "_id": "Iambic Pentameter",
     "AT": 38822,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Boogie Wonderland by Kali",
     "AT": 41608,
-    "ATcount": 11
+    "ATcount": 12
   },
   {
     "_id": "Alamo Cup 009",
@@ -647,12 +1847,12 @@
   {
     "_id": "Sunflora",
     "AT": 40148,
-    "ATcount": 24
+    "ATcount": 27
   },
   {
     "_id": "Alamo Cup Map 004",
     "AT": 50064,
-    "ATcount": 21
+    "ATcount": 25
   },
   {
     "_id": "Sepia Symphony",
@@ -662,7 +1862,7 @@
   {
     "_id": "Gender and a Metal Bat",
     "AT": 42928,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Eruption [CE]",
@@ -672,42 +1872,42 @@
   {
     "_id": "Thonk by Mitch (from fortnite)",
     "AT": 45891,
-    "ATcount": 36
+    "ATcount": 47
   },
   {
     "_id": "Orangeade",
     "AT": 42318,
-    "ATcount": 8
+    "ATcount": 9
   },
   {
     "_id": "Hellfire",
     "AT": 41948,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Celery by Giilo",
     "AT": 43662,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "Run Dun by Mellow",
     "AT": 42588,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "nadeo style tech by Whycas",
     "AT": 44563,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Laverre by Brave",
     "AT": 42461,
-    "ATcount": 9
+    "ATcount": 11
   },
   {
     "_id": "Drifting Shores",
     "AT": 43829,
-    "ATcount": 15
+    "ATcount": 17
   },
   {
     "_id": "TAO Practice",
@@ -717,92 +1917,92 @@
   {
     "_id": "Beans on Toast by Giilo",
     "AT": 36412,
-    "ATcount": 25
+    "ATcount": 50
   },
   {
     "_id": "Fawg",
     "AT": 39823,
-    "ATcount": 7
+    "ATcount": 17
   },
   {
     "_id": "Grass Empire 2 by Mello",
     "AT": 60131,
-    "ATcount": 15
+    "ATcount": 16
   },
   {
     "_id": "Bombles",
     "AT": 47372,
-    "ATcount": 32
+    "ATcount": 38
   },
   {
     "_id": "Sploosh",
     "AT": 34665,
-    "ATcount": 11
+    "ATcount": 13
   },
   {
     "_id": "I miss CPS 2",
     "AT": 52631,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Jimmy Cricket by Giilo",
     "AT": 48062,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Mexican Fender by Kali",
     "AT": 41797,
-    "ATcount": 23
+    "ATcount": 40
   },
   {
     "_id": "Neon Butterfly",
     "AT": 50278,
-    "ATcount": 61
+    "ATcount": 79
   },
   {
     "_id": "Bloo",
     "AT": 36894,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "Amongus on Friday? by Mellow",
     "AT": 45112,
-    "ATcount": 12
+    "ATcount": 16
   },
   {
     "_id": "Pie Apple",
     "AT": 44881,
-    "ATcount": 13
+    "ATcount": 21
   },
   {
     "_id": "Let's Groove by Kali",
     "AT": 42631,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "My First Track Of The Day!!!!! by Kali",
     "AT": 41288,
-    "ATcount": 32
+    "ATcount": 34
   },
   {
     "_id": "Dude Ranch by Hidden Valley",
     "AT": 48954,
-    "ATcount": 44
+    "ATcount": 60
   },
   {
     "_id": "How Susge is Made ",
     "AT": 52538,
-    "ATcount": 21
+    "ATcount": 25
   },
   {
     "_id": "Ampling Spheres",
     "AT": 44528,
-    "ATcount": 7
+    "ATcount": 9
   },
   {
     "_id": "Aftermath",
     "AT": 40503,
-    "ATcount": 14
+    "ATcount": 15
   },
   {
     "_id": "Imagine Dragons",
@@ -812,17 +2012,17 @@
   {
     "_id": "Gliding",
     "AT": 42284,
-    "ATcount": 9
+    "ATcount": 11
   },
   {
     "_id": "Magenta drive - by l1ngo",
     "AT": 43061,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "NeoAlamo - Subaru Highway",
     "AT": 44822,
-    "ATcount": 8
+    "ATcount": 10
   },
   {
     "_id": "Trenches",
@@ -837,7 +2037,7 @@
   {
     "_id": "EzMC #2",
     "AT": 51372,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "The Hills were here first I swear",
@@ -847,27 +2047,27 @@
   {
     "_id": "Ringshot",
     "AT": 42000,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Alamo Cup 03",
     "AT": 66144,
-    "ATcount": 42
+    "ATcount": 73
   },
   {
     "_id": "bri'ish puddin by Giilo",
     "AT": 28555,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "Lingo's Lingo by Lingo",
     "AT": 43593,
-    "ATcount": 11
+    "ATcount": 14
   },
   {
     "_id": "Go Figure",
     "AT": 42165,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "i miss CPS",
@@ -877,12 +2077,12 @@
   {
     "_id": "Soap Shower",
     "AT": 49338,
-    "ATcount": 22
+    "ATcount": 28
   },
   {
     "_id": "Serene Dreams",
     "AT": 38146,
-    "ATcount": 9
+    "ATcount": 17
   },
   {
     "_id": "Bowie",
@@ -892,37 +2092,37 @@
   {
     "_id": "Tunnel of Trees",
     "AT": 44281,
-    "ATcount": 9
+    "ATcount": 12
   },
   {
     "_id": "lingos bingo by lingo",
     "AT": 41560,
-    "ATcount": 23
+    "ATcount": 36
   },
   {
     "_id": "Finland is a country",
     "AT": 48558,
-    "ATcount": 7
+    "ATcount": 8
   },
   {
     "_id": "Alamo Cup 02",
     "AT": 46768,
-    "ATcount": 18
+    "ATcount": 20
   },
   {
     "_id": "9-5 on PlasTech FT'Vkar",
     "AT": 34955,
-    "ATcount": 11
+    "ATcount": 13
   },
   {
     "_id": "Alamo Cup 01",
     "AT": 39943,
-    "ATcount": 20
+    "ATcount": 34
   },
   {
     "_id": "SPINNEN by Mello",
     "AT": 46126,
-    "ATcount": 19
+    "ATcount": 25
   },
   {
     "_id": "Feels Like Summer ft Giilo",
@@ -932,52 +2132,52 @@
   {
     "_id": "Snorgleborp",
     "AT": 63616,
-    "ATcount": 40
+    "ATcount": 47
   },
   {
     "_id": "Work Laptop",
     "AT": 52931,
-    "ATcount": 13
+    "ATcount": 15
   },
   {
     "_id": "Sprite Cranberry",
     "AT": 38304,
-    "ATcount": 9
+    "ATcount": 11
   },
   {
     "_id": "Robert's Ranch",
     "AT": 59831,
-    "ATcount": 15
+    "ATcount": 35
   },
   {
     "_id": "Arena Blanca",
     "AT": 58502,
-    "ATcount": 12
+    "ATcount": 18
   },
   {
     "_id": "I Want A Dog",
     "AT": 34668,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "Conduit",
     "AT": 41038,
-    "ATcount": 21
+    "ATcount": 25
   },
   {
     "_id": "Why Bother by Kali",
     "AT": 52621,
-    "ATcount": 11
+    "ATcount": 12
   },
   {
     "_id": "Pole Tech",
     "AT": 49868,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Greenery",
     "AT": 49820,
-    "ATcount": 13
+    "ATcount": 22
   },
   {
     "_id": "ALAMO - LET HIM COOK",
@@ -987,12 +2187,12 @@
   {
     "_id": "Cherryade",
     "AT": 38522,
-    "ATcount": 12
+    "ATcount": 14
   },
   {
     "_id": "NEOAlamo - HoloCity",
     "AT": 43694,
-    "ATcount": 5
+    "ATcount": 6
   },
   {
     "_id": "2 Blocks",
@@ -1002,52 +2202,52 @@
   {
     "_id": "Balamo",
     "AT": 37934,
-    "ATcount": 8
+    "ATcount": 9
   },
   {
     "_id": "Remember the Croc FT' DoogieMD",
     "AT": 62071,
-    "ATcount": 20
+    "ATcount": 23
   },
   {
     "_id": "day plastic tmgl",
     "AT": 30000,
-    "ATcount": 28
+    "ATcount": 30
   },
   {
     "_id": "Cloudrest",
     "AT": 35078,
-    "ATcount": 4
+    "ATcount": 6
   },
   {
     "_id": "Bobtunnel",
     "AT": 51752,
-    "ATcount": 14
+    "ATcount": 19
   },
   {
     "_id": "Lemonade",
     "AT": 38787,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Blendin Blandin By Glover",
     "AT": 60000,
-    "ATcount": 65
+    "ATcount": 102
   },
   {
     "_id": "Flamin' Hot Funyuns",
     "AT": 58057,
-    "ATcount": 15
+    "ATcount": 21
   },
   {
     "_id": "Shopify Rebellion",
     "AT": 39792,
-    "ATcount": 11
+    "ATcount": 14
   },
   {
     "_id": "Syndro",
     "AT": 38408,
-    "ATcount": 5
+    "ATcount": 9
   },
   {
     "_id": "Slow and Boring",
@@ -1062,32 +2262,32 @@
   {
     "_id": "Siren",
     "AT": 40022,
-    "ATcount": 12
+    "ATcount": 14
   },
   {
     "_id": "SpedTek",
     "AT": 40192,
-    "ATcount": 43
+    "ATcount": 59
   },
   {
     "_id": "Fallin'",
     "AT": 42918,
-    "ATcount": 12
+    "ATcount": 13
   },
   {
     "_id": "Indoor Tech (No Wind)",
     "AT": 45962,
-    "ATcount": 17
+    "ATcount": 22
   },
   {
     "_id": "Tilted Towers",
     "AT": 50841,
-    "ATcount": 11
+    "ATcount": 12
   },
   {
     "_id": "Island In The Sun (TMTX Cover)",
     "AT": 41687,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Buddy Holly",
@@ -1102,27 +2302,27 @@
   {
     "_id": "Aloo Gobi",
     "AT": 38539,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Mopac Expressway Ft Rabbi",
     "AT": 41348,
-    "ATcount": 6
+    "ATcount": 7
   },
   {
     "_id": "nadeo loves effect blocks",
     "AT": 25696,
-    "ATcount": 34
+    "ATcount": 48
   },
   {
     "_id": "Jelly Belly",
     "AT": 33854,
-    "ATcount": 20
+    "ATcount": 24
   },
   {
     "_id": "EEqualsMCSquared",
     "AT": 41176,
-    "ATcount": 15
+    "ATcount": 18
   },
   {
     "_id": "Longtime Sunshine ft Rabbi",
@@ -1132,37 +2332,37 @@
   {
     "_id": "Duality ft Rabbi",
     "AT": 38939,
-    "ATcount": 9
+    "ATcount": 10
   },
   {
     "_id": "Arbepi",
     "AT": 43783,
-    "ATcount": 10
+    "ATcount": 11
   },
   {
     "_id": "Anti-Parker Map",
     "AT": 47383,
-    "ATcount": 16
+    "ATcount": 18
   },
   {
     "_id": "Colorful  Ice",
     "AT": 40052,
-    "ATcount": 28
+    "ATcount": 31
   },
   {
     "_id": "feeling cute might delete later",
     "AT": 37098,
-    "ATcount": 16
+    "ATcount": 20
   },
   {
     "_id": "smhmyhead",
     "AT": 40267,
-    "ATcount": 14
+    "ATcount": 18
   },
   {
     "_id": "It probably works",
     "AT": 43923,
-    "ATcount": 34
+    "ATcount": 47
   },
   {
     "_id": "EzMC",
@@ -1172,6 +2372,6 @@
   {
     "_id": "Red Robin",
     "AT": 45141,
-    "ATcount": 24
+    "ATcount": 32
   }
 ]
