@@ -132,9 +132,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "schwuppdiwupp.",
+    "ATcount": 6,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "Cambo_TM",
     "ATcount": 4,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -494,6 +500,12 @@
   {
     "_id": "RedMule1510",
     "ATcount": 6,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "WheelAbuserTM",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1106,7 +1118,7 @@
   {
     "_id": "Mince.AZ",
     "ATcount": 7,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -2683,7 +2695,7 @@
   },
   {
     "_id": "shyniixx",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2892,7 +2904,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "geilsetheR360",
+    "_id": "InfTM",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -5696,12 +5708,6 @@
   {
     "_id": "Bronzewing_",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "schwuppdiwupp.",
-    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12991,7 +12997,7 @@
   },
   {
     "_id": "Ch_138_TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13152,6 +13158,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Reaper-TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "zush1x",
     "ATcount": 1,
     "WRcount": 0,
@@ -13165,12 +13177,6 @@
   },
   {
     "_id": "abdutm",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Reaper-TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13549,8 +13555,8 @@
   },
   {
     "_id": "iocto._.",
-    "ATcount": 12,
-    "WRcount": 1,
+    "ATcount": 13,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -16104,7 +16110,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "iSt0rm.",
+    "_id": "iStOrm.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -25002,7 +25008,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Gold.Medal",
+    "_id": "Zhryk",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -26443,7 +26449,7 @@
   },
   {
     "_id": "FeedTM",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -26803,6 +26809,12 @@
   },
   {
     "_id": "Veno.Dot",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Glast.BS",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
