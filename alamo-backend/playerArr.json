@@ -5965,7 +5965,7 @@
   },
   {
     "_id": "algherest",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13614,6 +13614,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "sophie.ice",
+    "ATcount": 7,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "hmy__",
     "ATcount": 3,
     "WRcount": 0,
@@ -15487,6 +15493,12 @@
   },
   {
     "_id": "Fernao.",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "CatBagasm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -26736,12 +26748,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "sophie.ice",
-    "ATcount": 6,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Queen_Clown",
     "ATcount": 1,
     "WRcount": 0,
@@ -34135,12 +34141,6 @@
   },
   {
     "_id": "Dylxesia",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "CatBagasm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
