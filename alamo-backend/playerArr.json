@@ -138,7 +138,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Cambo_TM",
+    "_id": "Cambo._",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -2708,7 +2708,7 @@
   {
     "_id": "shyniixx",
     "ATcount": 3,
-    "WRcount": 0,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -11593,7 +11593,7 @@
   },
   {
     "_id": "NOKER1",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13184,7 +13184,7 @@
   {
     "_id": "AcepteTM",
     "ATcount": 1,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -15307,9 +15307,9 @@
   },
   {
     "_id": "SquampopulusTM",
-    "ATcount": 44,
+    "ATcount": 1,
     "WRcount": 0,
-    "Mapcount": 2
+    "Mapcount": 0
   },
   {
     "_id": "Starlight-Pat",
@@ -20785,7 +20785,7 @@
   },
   {
     "_id": "nzjg",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -26686,6 +26686,12 @@
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
+  },
+  {
+    "_id": "ParkerBBQ",
+    "ATcount": 43,
+    "WRcount": 0,
+    "Mapcount": 2
   },
   {
     "_id": "Creamytrees",
@@ -48732,6 +48738,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Jacuq_jcq",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Ph1pp",
     "ATcount": 1,
     "WRcount": 0,
@@ -54823,6 +54835,12 @@
   },
   {
     "_id": "Zaqq55",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "ChappaTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
