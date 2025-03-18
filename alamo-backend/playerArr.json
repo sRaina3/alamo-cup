@@ -157,7 +157,7 @@
   },
   {
     "_id": "miles.TM",
-    "ATcount": 7,
+    "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -954,7 +954,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "mr.mean23o.",
+    "_id": "notRiolu.",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -1783,7 +1783,7 @@
   },
   {
     "_id": "ROtrex..",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12859,7 +12859,7 @@
   },
   {
     "_id": "rayssuu",
-    "ATcount": 3,
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13410,6 +13410,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "AusomIQ",
+    "ATcount": 8,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "gumbine.",
     "ATcount": 7,
     "WRcount": 0,
@@ -13569,12 +13575,6 @@
     "_id": "ZolloKaptain",
     "ATcount": 4,
     "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "AusomIQ",
-    "ATcount": 7,
-    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -25284,6 +25284,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "sillyBOB.",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "nhxxxTM",
     "ATcount": 1,
     "WRcount": 0,
@@ -29425,7 +29431,7 @@
   },
   {
     "_id": "Com99.",
-    "ATcount": 2,
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -44616,6 +44622,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "C_kwak",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ivinstah",
     "ATcount": 1,
     "WRcount": 0,
@@ -46350,7 +46362,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TheeBaus",
+    "_id": "FrivolousFrito",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -55980,7 +55992,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "BlitzKapitan",
+    "_id": "IDarkMinotaur",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -57612,6 +57624,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SCRIM.99",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ShaDenis_",
     "ATcount": 3,
     "WRcount": 1,
@@ -58266,7 +58284,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "OllyInnitTM",
+    "_id": "RioluTM.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
