@@ -66,9 +66,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "Massa.4PF",
+    "ATcount": 2,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "Kallaxtrom",
     "ATcount": 74,
-    "WRcount": 5,
+    "WRcount": 4,
     "Mapcount": 12
   },
   {
@@ -193,7 +199,7 @@
   },
   {
     "_id": "z7on",
-    "ATcount": 15,
+    "ATcount": 16,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -1680,7 +1686,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "InitialBN",
+    "_id": "Scoobaaaaaaaart",
     "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
@@ -3144,7 +3150,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Laina_.",
+    "_id": "Trident_.",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -3577,7 +3583,7 @@
   },
   {
     "_id": "wrain_.",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10194,7 +10200,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "baiano.-.",
+    "_id": "baianoxonadin",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -10615,6 +10621,12 @@
   },
   {
     "_id": "ALBu.",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "F0rs3n",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13009,7 +13021,7 @@
   },
   {
     "_id": "cry2me",
-    "ATcount": 8,
+    "ATcount": 9,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -14406,7 +14418,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "P1NK_Lemonade",
+    "_id": "LemonADHD",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -50382,6 +50394,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Rock-er21-TFG",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Janinho70012",
     "ATcount": 1,
     "WRcount": 0,
@@ -56646,6 +56664,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "basccaa",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Rusher-Ranger",
     "ATcount": 1,
     "WRcount": 0,
@@ -58363,12 +58387,6 @@
   },
   {
     "_id": "Neqzo.",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Massa.4PF",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
