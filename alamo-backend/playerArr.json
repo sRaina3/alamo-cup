@@ -516,6 +516,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Buente_",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Maxamus.",
     "ATcount": 7,
     "WRcount": 0,
@@ -6097,7 +6103,7 @@
   },
   {
     "_id": "Moustache.8",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7717,7 +7723,7 @@
   },
   {
     "_id": "NeosslydeR",
-    "ATcount": 3,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -14832,12 +14838,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Buente_",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Yuzu.tm",
     "ATcount": 3,
     "WRcount": 1,
@@ -17460,6 +17460,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "whatever-TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "shev_tm",
     "ATcount": 1,
     "WRcount": 0,
@@ -19969,6 +19975,12 @@
   },
   {
     "_id": "LazymonTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "elwzoy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -25518,6 +25530,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ChooDawn",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Josssssshhhhhh",
     "ATcount": 2,
     "WRcount": 0,
@@ -26736,7 +26754,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "P.Chimpin",
+    "_id": "ChmpnziniBanini",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 8
@@ -28579,6 +28597,12 @@
   },
   {
     "_id": "McMurloc",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "NEO-BRM.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -47622,7 +47646,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Spiiryls",
+    "_id": "DrainSpirals",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -55260,6 +55284,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Slogren",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Whitts",
     "ATcount": 1,
     "WRcount": 0,
@@ -55669,6 +55699,12 @@
   },
   {
     "_id": "prohjort",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Trimmsler",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
