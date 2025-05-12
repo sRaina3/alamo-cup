@@ -61,7 +61,7 @@
   },
   {
     "_id": "Dirtyhardold44",
-    "ATcount": 9,
+    "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -121,8 +121,8 @@
   },
   {
     "_id": "Deeko..",
-    "ATcount": 13,
-    "WRcount": 0,
+    "ATcount": 14,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -920,7 +920,7 @@
   {
     "_id": "peanutsjorker",
     "ATcount": 169,
-    "WRcount": 10,
+    "WRcount": 9,
     "Mapcount": 3
   },
   {
@@ -1298,7 +1298,7 @@
   {
     "_id": "Novastxr",
     "ATcount": 344,
-    "WRcount": 57,
+    "WRcount": 56,
     "Mapcount": 4
   },
   {
@@ -6853,7 +6853,7 @@
   },
   {
     "_id": "Razii.",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9451,8 +9451,8 @@
   },
   {
     "_id": "SulfateuseAFiak",
-    "ATcount": 8,
-    "WRcount": 0,
+    "ATcount": 9,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -12770,6 +12770,12 @@
   {
     "_id": "Swanie.-",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Tarag0n",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -21384,12 +21390,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Tarag0n",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Yeehadookin",
     "ATcount": 1,
     "WRcount": 0,
@@ -27679,7 +27679,7 @@
   },
   {
     "_id": "TrackmaniaSigma",
-    "ATcount": 10,
+    "ATcount": 16,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -29346,7 +29346,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "qualig.",
+    "_id": "qualig",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
