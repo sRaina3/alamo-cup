@@ -224,7 +224,7 @@
   {
     "_id": "Rabbi-",
     "ATcount": 52,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 82
   },
   {
@@ -1837,7 +1837,7 @@
   },
   {
     "_id": "Spec.TM",
-    "ATcount": 7,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10831,7 +10831,7 @@
   },
   {
     "_id": "PhosphorTM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -14298,6 +14298,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Presets.",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Fordabrand",
     "ATcount": 3,
     "WRcount": 0,
@@ -14306,12 +14312,6 @@
   {
     "_id": "J0bba34",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Presets.",
-    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -16285,7 +16285,7 @@
   },
   {
     "_id": "shayos189",
-    "ATcount": 3,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18822,6 +18822,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Spec.ice",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ChubbyChap",
     "ATcount": 2,
     "WRcount": 0,
@@ -20743,6 +20749,12 @@
   },
   {
     "_id": "Huba.Bibi",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Monster_Ma5h",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -23442,7 +23454,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Sillyspecter",
+    "_id": "sinic..",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -23556,7 +23568,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Zeero.RD",
+    "_id": "The.Zeero",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -24637,7 +24649,7 @@
   },
   {
     "_id": "steg17",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -26145,6 +26157,12 @@
     "_id": "StrixTM",
     "ATcount": 12,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "TrackmaniaSigma",
+    "ATcount": 22,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -27674,12 +27692,6 @@
   {
     "_id": "STORM.GLumo",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TrackmaniaSigma",
-    "ATcount": 16,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -30805,6 +30817,12 @@
   },
   {
     "_id": "DBrickWall",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "washedtmplayer",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -46032,12 +46050,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Monster_Ma5h",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Fazyy24",
     "ATcount": 1,
     "WRcount": 0,
@@ -51073,6 +51085,12 @@
   },
   {
     "_id": "kRickaP",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "itzRezzy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -58945,6 +58963,12 @@
   },
   {
     "_id": "Re-DisBoss",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "elviiiraaa",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
