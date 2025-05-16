@@ -156,6 +156,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "JakeRay",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "r4diaxo",
     "ATcount": 6,
     "WRcount": 0,
@@ -212,6 +218,12 @@
   {
     "_id": "Pug_TM",
     "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Stally",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -876,7 +888,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Tanto.22",
+    "_id": "ender.22wmr",
     "ATcount": 19,
     "WRcount": 6,
     "Mapcount": 0
@@ -1057,7 +1069,7 @@
   },
   {
     "_id": "Feculent2KaKa",
-    "ATcount": 24,
+    "ATcount": 25,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1243,7 +1255,7 @@
   },
   {
     "_id": "Softyd",
-    "ATcount": 9,
+    "ATcount": 10,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13092,7 +13104,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "deXyy999",
+    "_id": "dexyytm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -25686,6 +25698,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "NCLegionnaire",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Legu18",
     "ATcount": 1,
     "WRcount": 1,
@@ -29202,7 +29220,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "KrystianekTM",
+    "_id": "PopkornTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -32442,7 +32460,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TWITCH.KRQC",
+    "_id": "TTV.TONTON_DEMO",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36049,6 +36067,12 @@
   },
   {
     "_id": "FG418",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "trevwilson",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -50844,7 +50868,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Forkie_TM",
+    "_id": "Lanky_Giraffe_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -58129,12 +58153,6 @@
   },
   {
     "_id": "Brave.-",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "JakeRay",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
