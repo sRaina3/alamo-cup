@@ -948,6 +948,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "lomasten",
+    "ATcount": 8,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Xiuhtecuhtli.",
     "ATcount": 11,
     "WRcount": 0,
@@ -1069,7 +1075,7 @@
   },
   {
     "_id": "Feculent2KaKa",
-    "ATcount": 25,
+    "ATcount": 26,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4472,12 +4478,6 @@
   {
     "_id": "flashtube",
     "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "lomasten",
-    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13164,7 +13164,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "cry2me",
+    "_id": "littleangel84x_",
     "ATcount": 9,
     "WRcount": 1,
     "Mapcount": 0
@@ -14869,7 +14869,7 @@
   },
   {
     "_id": "TaakTM",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -23694,6 +23694,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Rechtas.TM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "kot7kz",
     "ATcount": 2,
     "WRcount": 0,
@@ -29808,6 +29814,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "JanOlav24",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Leonor020",
     "ATcount": 1,
     "WRcount": 0,
@@ -32773,12 +32785,6 @@
   },
   {
     "_id": "GhostDog_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Rechtas.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -41790,6 +41796,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Blobby3000",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "DonJosepe",
     "ATcount": 1,
     "WRcount": 0,
@@ -48018,6 +48030,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "MelonPlats",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "LovelaceLIVE",
     "ATcount": 2,
     "WRcount": 0,
@@ -49651,6 +49669,12 @@
   },
   {
     "_id": "Sensei_Ali",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Bugnizzle",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -55333,6 +55357,12 @@
   },
   {
     "_id": "Gurgugnau",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Lloyb",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
