@@ -1075,7 +1075,7 @@
   },
   {
     "_id": "Feculent2KaKa",
-    "ATcount": 26,
+    "ATcount": 28,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3948,7 +3948,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "NorsuTM",
+    "_id": "Norsu.",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -6633,6 +6633,12 @@
     "_id": "TarporTM",
     "ATcount": 15,
     "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Roifler.",
+    "ATcount": 6,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -15234,7 +15240,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "BARRREIRO",
+    "_id": "Barrreiro",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -18120,7 +18126,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Falckiee2nd",
+    "_id": "Falcken.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -22050,12 +22056,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Roifler.",
-    "ATcount": 5,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "darkfirenl",
     "ATcount": 1,
     "WRcount": 0,
@@ -22459,7 +22459,7 @@
   },
   {
     "_id": "Tylerz_",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -29916,6 +29916,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "BillyBad_eend",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "phantear",
     "ATcount": 1,
     "WRcount": 0,
@@ -30096,7 +30102,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Com.d",
+    "_id": "jesko21",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -51540,6 +51546,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "YodaNyugeto",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "GTAhelboy",
     "ATcount": 1,
     "WRcount": 0,
@@ -59292,7 +59304,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FertilizingZeri",
+    "_id": "FentZeri",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
