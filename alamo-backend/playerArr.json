@@ -55,8 +55,8 @@
   },
   {
     "_id": "Kallaxtrom",
-    "ATcount": 78,
-    "WRcount": 6,
+    "ATcount": 80,
+    "WRcount": 7,
     "Mapcount": 12
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "_id": "Oddass",
-    "ATcount": 34,
+    "ATcount": 35,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -883,7 +883,7 @@
   },
   {
     "_id": "ItsGromit",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1484,7 +1484,7 @@
   {
     "_id": "Novastxr",
     "ATcount": 344,
-    "WRcount": 55,
+    "WRcount": 54,
     "Mapcount": 4
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "_id": "NLBS_",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8300,6 +8300,12 @@
   {
     "_id": "DEadWra",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "niklas1791",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -14557,7 +14563,7 @@
   },
   {
     "_id": "Edscon",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -17522,12 +17528,6 @@
   {
     "_id": "AlbertoCabessa",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "niklas1791",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -21535,6 +21535,12 @@
   },
   {
     "_id": "BenpozTM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Dancebabyxo",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -43104,12 +43110,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Dancebabyxo",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Mattegg50",
     "ATcount": 1,
     "WRcount": 0,
@@ -48079,6 +48079,12 @@
   },
   {
     "_id": "DrainSpirals",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Guchii17",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -54540,7 +54546,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "arctictribeca",
+    "_id": "Existenz77",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -57025,6 +57031,12 @@
   },
   {
     "_id": "NewbNutz",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "kingcoco82",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
