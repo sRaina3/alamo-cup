@@ -30,10 +30,10 @@
     "Mapcount": 4
   },
   {
-    "_id": "Cheeselover2299",
+    "_id": "Kaoruko.KW",
     "ATcount": 46,
     "WRcount": 5,
-    "Mapcount": 0
+    "Mapcount": 1
   },
   {
     "_id": "unit-i-skops",
@@ -5587,7 +5587,7 @@
   },
   {
     "_id": "DramerTM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6901,7 +6901,7 @@
   },
   {
     "_id": "Terry_RWP_",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9595,7 +9595,7 @@
   },
   {
     "_id": "nx_tm",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -23682,7 +23682,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "sinic..",
+    "_id": "sinic_FF",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -24877,7 +24877,7 @@
   },
   {
     "_id": "steg17",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -30300,7 +30300,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "jesko21",
+    "_id": "d.muc",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -38220,7 +38220,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Valee_-98",
+    "_id": "SullyTM.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -49278,6 +49278,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "hotspeedalex",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "HumourOG",
     "ATcount": 1,
     "WRcount": 0,
@@ -52693,6 +52699,12 @@
   },
   {
     "_id": "vegaloquees",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "vinniexo",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -58380,6 +58392,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SliderMonkey",
+    "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "takitobu",
     "ATcount": 1,
     "WRcount": 0,
@@ -59172,12 +59190,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "SliderMonkey",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Dionysos.TM.",
     "ATcount": 2,
     "WRcount": 1,
@@ -59749,12 +59761,6 @@
   },
   {
     "_id": "yrolg",
-    "ATcount": 0,
-    "WRcount": 0,
-    "Mapcount": 1
-  },
-  {
-    "_id": "Kaoruko.KW",
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 1
