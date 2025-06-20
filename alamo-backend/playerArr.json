@@ -426,7 +426,7 @@
     "Mapcount": 82
   },
   {
-    "_id": "GranadysMom",
+    "_id": "Wee_-",
     "ATcount": 44,
     "WRcount": 5,
     "Mapcount": 0
@@ -3764,7 +3764,7 @@
   {
     "_id": "Gonathon.G",
     "ATcount": 362,
-    "WRcount": 51,
+    "WRcount": 50,
     "Mapcount": 0
   },
   {
@@ -4009,8 +4009,8 @@
   },
   {
     "_id": "Jack_TM",
-    "ATcount": 2,
-    "WRcount": 0,
+    "ATcount": 3,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -9798,7 +9798,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "LazyHunterTM",
+    "_id": "deadactor",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -11532,7 +11532,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "patobear",
+    "_id": "tupperTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -13290,7 +13290,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "littleangel84x_",
+    "_id": "lovemachine731",
     "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
@@ -20040,6 +20040,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Jagger002",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Lethmer",
     "ATcount": 1,
     "WRcount": 0,
@@ -23814,7 +23820,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "The.Zeero",
+    "_id": "ThirtyZero.94",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -24836,6 +24842,12 @@
   {
     "_id": "Quirkofit",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Type_II_Fun",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -47694,6 +47706,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Geiler_Hengst69",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "SinisterMJ",
     "ATcount": 1,
     "WRcount": 0,
@@ -50520,12 +50538,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Jagger002",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "pokejulius",
     "ATcount": 1,
     "WRcount": 0,
@@ -51618,6 +51630,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "glitchguy",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Tandur2",
     "ATcount": 1,
     "WRcount": 0,
@@ -51739,12 +51757,6 @@
   },
   {
     "_id": "MrMarlo",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Type_II_Fun",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -59599,6 +59611,12 @@
   },
   {
     "_id": "ToastyFord",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Pr0ximate_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
