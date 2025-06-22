@@ -234,7 +234,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "jelenopicebobr",
+    "_id": "socramdavidTM",
     "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
@@ -583,8 +583,8 @@
   },
   {
     "_id": "That_Ski_Freak",
-    "ATcount": 11,
-    "WRcount": 2,
+    "ATcount": 12,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -632,7 +632,13 @@
   {
     "_id": "TimeBreaker1",
     "ATcount": 3,
-    "WRcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Rist_Tm",
+    "ATcount": 2,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -3331,7 +3337,7 @@
   },
   {
     "_id": "Flueffel.dpk",
-    "ATcount": 10,
+    "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4225,8 +4231,8 @@
   },
   {
     "_id": "jujumasterr",
-    "ATcount": 8,
-    "WRcount": 1,
+    "ATcount": 9,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -8124,8 +8130,8 @@
     "Mapcount": 0
   },
   {
-    "_id": "thrtl",
-    "ATcount": 1,
+    "_id": "trubl319",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -13292,7 +13298,7 @@
   {
     "_id": "Fleu..",
     "ATcount": 7,
-    "WRcount": 4,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -14533,7 +14539,7 @@
   },
   {
     "_id": "iocto._.",
-    "ATcount": 14,
+    "ATcount": 15,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -14599,7 +14605,7 @@
   },
   {
     "_id": "misizw",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -14869,12 +14875,6 @@
   },
   {
     "_id": "Durrrrrr12",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Rist_Tm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -19033,12 +19033,6 @@
   },
   {
     "_id": "GMG-sleeper98",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "trubl319",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -27618,7 +27612,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Azion.",
+    "_id": "Caera.Denoir",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -27637,7 +27631,7 @@
   },
   {
     "_id": "Creamytrees",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -55897,6 +55891,12 @@
   },
   {
     "_id": "NabilFekirTM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "King_Dil",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
