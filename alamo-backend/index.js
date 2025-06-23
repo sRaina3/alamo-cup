@@ -175,7 +175,7 @@ const getTrackData = async loggedIn => {
     var camps = [];
     // list campaigns
     for (var item of activity.activityList) {
-      if (item.activityType == "campaign" && item.name.includes("Alamo Cup Maps")) {
+      if (item.activityType == "campaign" && item.name.toLowerCase().includes("alamo cup maps")) {
         console.log("Downloading data for campaign: ", item.campaignId);
         // 2. for each Alamo campaign, list all the maps
         const AlamoCampaignId = item.campaignId;
