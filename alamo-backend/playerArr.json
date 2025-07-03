@@ -1326,9 +1326,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "TarporTM",
+    "ATcount": 19,
+    "WRcount": 4,
+    "Mapcount": 0
+  },
+  {
     "_id": "Massa.4PF",
     "ATcount": 3,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -2301,12 +2307,6 @@
     "_id": "cherry2_0",
     "ATcount": 5,
     "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TarporTM",
-    "ATcount": 18,
-    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -6516,7 +6516,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "slomi._.",
+    "_id": "salami_investor",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -12336,7 +12336,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "JunesBonkerman",
+    "_id": "JunesBonksteen",
     "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
@@ -20202,7 +20202,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "snowcar",
+    "_id": "BringBackTona.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -32844,7 +32844,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FlamesPhoenixOW",
+    "_id": "LarissaTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -42732,7 +42732,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "George1717",
+    "_id": "tsegolo",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -48990,7 +48990,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fztik",
+    "_id": "fztik..",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56977,6 +56977,12 @@
   },
   {
     "_id": "koodaaja",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "gnyman90",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -66138,6 +66144,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "SF-lnko",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Boni..",
     "ATcount": 2,
     "WRcount": 0,
@@ -67844,12 +67856,6 @@
   {
     "_id": "GamingThistle",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "SF-lnko",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -77430,7 +77436,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Detyx-",
+    "_id": "Detyx.",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
