@@ -397,7 +397,7 @@
   },
   {
     "_id": "RaizaTM",
-    "ATcount": 38,
+    "ATcount": 41,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -638,7 +638,7 @@
   {
     "_id": "Larstm",
     "ATcount": 66,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -1476,14 +1476,14 @@
     "Mapcount": 0
   },
   {
-    "_id": "craawl-",
-    "ATcount": 5,
-    "WRcount": 0,
+    "_id": "Fegir",
+    "ATcount": 4,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
-    "_id": "Fegir",
-    "ATcount": 4,
+    "_id": "craawl-",
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3829,8 +3829,8 @@
   },
   {
     "_id": "jujumasterr",
-    "ATcount": 10,
-    "WRcount": 2,
+    "ATcount": 11,
+    "WRcount": 3,
     "Mapcount": 0
   },
   {
@@ -10286,6 +10286,12 @@
   {
     "_id": "ertaqui",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "dreams.TM",
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -38580,6 +38586,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Heathcliff_Tm",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "TruthQG",
     "ATcount": 1,
     "WRcount": 0,
@@ -40615,6 +40627,12 @@
   },
   {
     "_id": "LifeCooled",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "zack12345678gsd",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -44862,7 +44880,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "s12k7",
+    "_id": "Fuzzatron1",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -58926,6 +58944,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "FuriaCerqueira",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "micp2k",
     "ATcount": 2,
     "WRcount": 0,
@@ -59005,6 +59029,12 @@
   },
   {
     "_id": "Ziegenfleisch",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "TheBaronBull",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -59832,6 +59862,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "zemiguelreis",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "AaronIsP1",
     "ATcount": 1,
     "WRcount": 0,
@@ -60055,6 +60091,12 @@
   },
   {
     "_id": "MenardTCT",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "A_Nameless_Hero",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61496,48 +61538,6 @@
   {
     "_id": "Classynd",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Llibraa",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "STORMSUPER1",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Fuinay",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "eddieinbound",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "hromadka",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TheLast-Guy",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "WyyvernXbox",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -64855,7 +64855,7 @@
   },
   {
     "_id": "dimastus_",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -66146,7 +66146,7 @@
   {
     "_id": "CALLGAGE-TTV",
     "ATcount": 3,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -69390,7 +69390,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "No4RioluFan",
+    "_id": "Korven.",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -70730,12 +70730,6 @@
   {
     "_id": "Lumby_",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Heathcliff_Tm",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -74329,12 +74323,6 @@
   },
   {
     "_id": "Fifaraffa",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "dreams.TM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -97771,6 +97759,12 @@
   },
   {
     "_id": "Omn1bear",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "WyyvernXbox",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
