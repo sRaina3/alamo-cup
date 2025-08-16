@@ -37,8 +37,8 @@
   },
   {
     "_id": "zRebell",
-    "ATcount": 43,
-    "WRcount": 1,
+    "ATcount": 45,
+    "WRcount": 2,
     "Mapcount": 11
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "_id": "Py0jun",
-    "ATcount": 202,
+    "ATcount": 203,
     "WRcount": 11,
     "Mapcount": 0
   },
@@ -64,6 +64,30 @@
     "ATcount": 22,
     "WRcount": 2,
     "Mapcount": 0
+  },
+  {
+    "_id": "Sqlc.",
+    "ATcount": 23,
+    "WRcount": 9,
+    "Mapcount": 1
+  },
+  {
+    "_id": "Glimse5678",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Krabbish_",
+    "ATcount": 20,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "noiszia",
+    "ATcount": 38,
+    "WRcount": 5,
+    "Mapcount": 3
   },
   {
     "_id": "FlimsyTM",
@@ -81,7 +105,7 @@
     "_id": "prowe.ss",
     "ATcount": 20,
     "WRcount": 0,
-    "Mapcount": 8
+    "Mapcount": 9
   },
   {
     "_id": "FetherOnSpotify",
@@ -97,7 +121,7 @@
   },
   {
     "_id": "Sully_TM",
-    "ATcount": 44,
+    "ATcount": 45,
     "WRcount": 0,
     "Mapcount": 10
   },
@@ -106,12 +130,6 @@
     "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 2
-  },
-  {
-    "_id": "Glimse5678",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
   },
   {
     "_id": "Lava1staff",
@@ -127,7 +145,7 @@
   },
   {
     "_id": "Weebowooo",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -333,7 +351,7 @@
     "_id": "zai-tm",
     "ATcount": 2,
     "WRcount": 0,
-    "Mapcount": 0
+    "Mapcount": 1
   },
   {
     "_id": "Petrus.TM",
@@ -369,7 +387,7 @@
     "_id": "bee_Rent",
     "ATcount": 32,
     "WRcount": 0,
-    "Mapcount": 14
+    "Mapcount": 15
   },
   {
     "_id": "BusGill",
@@ -465,7 +483,7 @@
     "_id": "Numberplay",
     "ATcount": 3,
     "WRcount": 0,
-    "Mapcount": 24
+    "Mapcount": 25
   },
   {
     "_id": "SunshineT.T",
@@ -505,7 +523,7 @@
   },
   {
     "_id": "That_Ski_Freak",
-    "ATcount": 18,
+    "ATcount": 19,
     "WRcount": 6,
     "Mapcount": 0
   },
@@ -548,6 +566,12 @@
   {
     "_id": "pedrobuddytm",
     "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "samz-bn",
+    "ATcount": 5,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -589,7 +613,7 @@
   },
   {
     "_id": "AmongUs777",
-    "ATcount": 43,
+    "ATcount": 44,
     "WRcount": 8,
     "Mapcount": 6
   },
@@ -730,6 +754,12 @@
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
+  },
+  {
+    "_id": "Hendo23_",
+    "ATcount": 24,
+    "WRcount": 1,
+    "Mapcount": 7
   },
   {
     "_id": "J_Swag",
@@ -1092,12 +1122,6 @@
     "Mapcount": 1
   },
   {
-    "_id": "noiszia",
-    "ATcount": 35,
-    "WRcount": 5,
-    "Mapcount": 3
-  },
-  {
     "_id": "Dirtyhardold44",
     "ATcount": 31,
     "WRcount": 0,
@@ -1458,12 +1482,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Sqlc.",
-    "ATcount": 22,
-    "WRcount": 8,
-    "Mapcount": 0
-  },
-  {
     "_id": "alxshaer",
     "ATcount": 6,
     "WRcount": 0,
@@ -1563,12 +1581,6 @@
     "_id": "RandomTM_",
     "ATcount": 190,
     "WRcount": 12,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Krabbish_",
-    "ATcount": 19,
-    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -1986,7 +1998,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Thombead",
+    "_id": "beadshaer",
     "ATcount": 27,
     "WRcount": 0,
     "Mapcount": 0
@@ -7598,12 +7610,6 @@
   {
     "_id": "ChewyScorpion11",
     "ATcount": 4,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "samz-bn",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -42990,7 +42996,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "WitherSixela",
+    "_id": "Paexy_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61782,12 +61788,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Hendo23_",
-    "ATcount": 23,
-    "WRcount": 0,
-    "Mapcount": 7
-  },
-  {
     "_id": "Otaaaq",
     "ATcount": 1,
     "WRcount": 1,
@@ -66949,7 +66949,7 @@
   },
   {
     "_id": "iocto._.",
-    "ATcount": 15,
+    "ATcount": 16,
     "WRcount": 2,
     "Mapcount": 0
   },
