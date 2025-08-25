@@ -7,7 +7,7 @@
   {
     "_id": "[AC] Not Quite RPG",
     "AT": 32365,
-    "ATcount": 4
+    "ATcount": 5
   },
   {
     "_id": "Chikage",
@@ -17,12 +17,12 @@
   {
     "_id": " [AC] - Industrial Passage",
     "AT": 42440,
-    "ATcount": 12
+    "ATcount": 15
   },
   {
     "_id": "Auburn Plaza",
     "AT": 49973,
-    "ATcount": 2
+    "ATcount": 6
   },
   {
     "_id": "bazo",
@@ -407,7 +407,7 @@
   {
     "_id": "la première map",
     "AT": 50414,
-    "ATcount": 35
+    "ATcount": 36
   },
   {
     "_id": "Teal Fusion (AC)",
@@ -952,7 +952,7 @@
   {
     "_id": "Violet Distortions",
     "AT": 45528,
-    "ATcount": 2018
+    "ATcount": 2019
   },
   {
     "_id": "unrestricted access",
