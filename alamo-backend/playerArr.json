@@ -50,7 +50,7 @@
   {
     "_id": "AmongUs777",
     "ATcount": 57,
-    "WRcount": 11,
+    "WRcount": 9,
     "Mapcount": 7
   },
   {
@@ -362,7 +362,7 @@
   {
     "_id": "archer-2",
     "ATcount": 33,
-    "WRcount": 4,
+    "WRcount": 3,
     "Mapcount": 7
   },
   {
@@ -469,7 +469,7 @@
   },
   {
     "_id": "RaizaTM",
-    "ATcount": 42,
+    "ATcount": 43,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1596,6 +1596,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "HeadMasterKill",
+    "ATcount": 117,
+    "WRcount": 12,
+    "Mapcount": 0
+  },
+  {
     "_id": "Heav.3Y",
     "ATcount": 35,
     "WRcount": 5,
@@ -1713,12 +1719,6 @@
     "_id": "ScrubbyRando",
     "ATcount": 3,
     "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "HeadMasterKill",
-    "ATcount": 114,
-    "WRcount": 9,
     "Mapcount": 0
   },
   {
@@ -5821,7 +5821,7 @@
   },
   {
     "_id": "Sanzhi.",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10675,7 +10675,7 @@
   },
   {
     "_id": "BRAKEL3SS",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12565,7 +12565,7 @@
   },
   {
     "_id": "l_JJ_l",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -26418,7 +26418,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Picklefish23",
+    "_id": "Uncle_Graham52",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -34933,6 +34933,12 @@
   },
   {
     "_id": "Louix2020",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ty101234",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61740,12 +61746,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Andraszodon",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -88044,7 +88044,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "P0larFr0st",
+    "_id": "P0LAR_TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -101713,6 +101713,12 @@
   },
   {
     "_id": "ShadowKiwi204",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "MauiMaui9",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
