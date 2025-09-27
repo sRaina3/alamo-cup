@@ -283,7 +283,7 @@
   },
   {
     "_id": "jack070807",
-    "ATcount": 4,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -656,6 +656,12 @@
   {
     "_id": "LunienTM",
     "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Ito3819",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1434,6 +1440,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Unrider",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "slump__",
     "ATcount": 5,
     "WRcount": 0,
@@ -1526,12 +1538,6 @@
   {
     "_id": "bullz1",
     "ATcount": 6,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Unrider",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1926,7 +1932,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "DMUC.",
+    "_id": "dmuc.",
     "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
@@ -2024,6 +2030,12 @@
   {
     "_id": "LANGEMANN-",
     "ATcount": 17,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "ProperPK",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2467,7 +2479,7 @@
   },
   {
     "_id": "GNR-HASKELL",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -3367,7 +3379,7 @@
   },
   {
     "_id": "Scrapie98",
-    "ATcount": 28,
+    "ATcount": 29,
     "WRcount": 3,
     "Mapcount": 0
   },
@@ -12163,7 +12175,7 @@
   },
   {
     "_id": "Tv_king",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -35664,6 +35676,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "winstonneke",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "MedaTeda",
     "ATcount": 2,
     "WRcount": 0,
@@ -37471,6 +37489,12 @@
   },
   {
     "_id": "Gatvol_",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Chacalou.",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -42013,7 +42037,7 @@
   },
   {
     "_id": "TRICKY_98",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -44947,6 +44971,12 @@
   },
   {
     "_id": "RyPantel",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "da_eMTy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61728,24 +61758,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Zogug",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "PtitPoulet_TM",
-    "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "pauhnen",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -64686,7 +64698,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Cuthalion_TM",
+    "_id": "Cuthalion._",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -66668,6 +66680,12 @@
   {
     "_id": "TotallyNotRobit",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "HaazzzaaH",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -72354,6 +72372,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "PtitPoulet_TM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Yanneman19",
     "ATcount": 1,
     "WRcount": 0,
@@ -74964,6 +74988,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ramy52342",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "MustardF1",
     "ATcount": 20,
     "WRcount": 1,
@@ -77556,7 +77586,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Asti...",
+    "_id": "Astra.kbm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -85362,6 +85392,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Zogug",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Tube_CZE",
     "ATcount": 1,
     "WRcount": 0,
@@ -87061,12 +87097,6 @@
   },
   {
     "_id": "Fol1n_",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "HaazzzaaH",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -101480,12 +101510,6 @@
   {
     "_id": "SnatiX.",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Chacalou.",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
