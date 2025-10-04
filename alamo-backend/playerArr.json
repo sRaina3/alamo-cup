@@ -283,7 +283,7 @@
   },
   {
     "_id": "jack070807",
-    "ATcount": 11,
+    "ATcount": 13,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -777,6 +777,12 @@
     "_id": "ZolloKaptain",
     "ATcount": 7,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "TeeRamp",
+    "ATcount": 9,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -1839,12 +1845,6 @@
     "_id": "Scorply_.",
     "ATcount": 3,
     "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TeeRamp",
-    "ATcount": 8,
-    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -3757,7 +3757,7 @@
   },
   {
     "_id": "Baupro32",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8652,7 +8652,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Levat1ion",
+    "_id": "YORID11",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -30714,7 +30714,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "MELTHEMNKY",
+    "_id": "Blitzz.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -40224,7 +40224,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TrueDavid",
+    "_id": "David.B3",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -46939,7 +46939,7 @@
   },
   {
     "_id": "Prajzak_TM",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -58320,6 +58320,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "DanielChips",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Monkushii",
     "ATcount": 1,
     "WRcount": 0,
@@ -61764,12 +61770,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "ZenterOfGravity",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -62814,7 +62814,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "OwlEye",
+    "_id": "TotallyNotOwl",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -87312,7 +87312,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Shyvlee",
+    "_id": "JojiShiburi",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
