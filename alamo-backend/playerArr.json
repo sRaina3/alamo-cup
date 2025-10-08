@@ -55,8 +55,8 @@
   },
   {
     "_id": "Kallaxtrom",
-    "ATcount": 128,
-    "WRcount": 12,
+    "ATcount": 129,
+    "WRcount": 13,
     "Mapcount": 21
   },
   {
@@ -158,7 +158,7 @@
   {
     "_id": "RiolusFemboy",
     "ATcount": 26,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 0
   },
   {
@@ -787,7 +787,7 @@
   },
   {
     "_id": "Creamytrees",
-    "ATcount": 8,
+    "ATcount": 9,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2610,6 +2610,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ThijnHD",
+    "ATcount": 8,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "vnxss.mtb",
     "ATcount": 2,
     "WRcount": 1,
@@ -3278,12 +3284,6 @@
   {
     "_id": "TonciTM",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "ThijnHD",
-    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7398,7 +7398,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Stealth.Cookies",
+    "_id": "Spooky.Cookies",
     "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
@@ -13969,6 +13969,12 @@
   },
   {
     "_id": "moayadj",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Percocet-Pete",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -20677,12 +20683,6 @@
   },
   {
     "_id": "TenMilSahket",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Percocet-Pete",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -34626,6 +34626,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Boris_TM",
+    "ATcount": 4,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "AkoraTM",
     "ATcount": 1,
     "WRcount": 0,
@@ -39732,6 +39738,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Dlaumro",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Mattizzey",
     "ATcount": 2,
     "WRcount": 0,
@@ -42091,7 +42103,7 @@
   },
   {
     "_id": "TRICKY_98",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -44929,7 +44941,7 @@
   },
   {
     "_id": "D7RL",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -47575,6 +47587,12 @@
   },
   {
     "_id": "dave224494",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "SomeGuy5432",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -53899,6 +53917,12 @@
   },
   {
     "_id": "harm_1994",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "MAXOU97435",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56844,7 +56868,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "sonosheesh",
+    "_id": "dj_p.drilla",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61752,30 +61776,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "beastwolverine7",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "cometonfire",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "N_X_X_R",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "sUxiii",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -63830,12 +63830,6 @@
   {
     "_id": "Temp-14",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Boris_TM",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -72463,12 +72457,6 @@
   },
   {
     "_id": "Dippedut",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Dlaumro",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -94626,6 +94614,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "sUxiii",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "LemonadeXDD",
     "ATcount": 1,
     "WRcount": 0,
@@ -96936,7 +96930,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Rijstevlaai",
+    "_id": "Admiraalex",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -100993,7 +100987,7 @@
   },
   {
     "_id": "apiaff",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
