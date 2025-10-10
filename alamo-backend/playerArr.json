@@ -498,6 +498,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Curry.TM",
+    "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Karlukki",
     "ATcount": 1,
     "WRcount": 1,
@@ -1165,7 +1171,7 @@
   },
   {
     "_id": "Larstm",
-    "ATcount": 66,
+    "ATcount": 67,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -3062,12 +3068,6 @@
   {
     "_id": "Erskii..",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Curry.TM",
-    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -21414,7 +21414,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ShelbongCooper",
+    "_id": "T1ckleM0nsta",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -52968,7 +52968,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "LilWarker",
+    "_id": "ALZAPET",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -58518,7 +58518,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "HeroSyzma.",
+    "_id": "justifiable",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61068,6 +61068,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Neaera9933",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Wolf_Erik",
     "ATcount": 1,
     "WRcount": 0,
@@ -61776,12 +61782,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "DeadlyTissues",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -62104,6 +62104,12 @@
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 1
+  },
+  {
+    "_id": "Sunrise_tm",
+    "ATcount": 8,
+    "WRcount": 0,
+    "Mapcount": 0
   },
   {
     "_id": "omay_",
@@ -63752,12 +63758,6 @@
   {
     "_id": "Faraazies",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Sunrise_tm",
-    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -66948,13 +66948,13 @@
     "Mapcount": 0
   },
   {
-    "_id": "ShibalaTM",
+    "_id": "Shipperino",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
   {
-    "_id": "Shipperino",
+    "_id": "ShibalaTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -96067,6 +96067,12 @@
   },
   {
     "_id": "MarcelloJose",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "JFBx199",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
