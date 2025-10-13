@@ -120,7 +120,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "RandomTM_",
+    "_id": "SoupIsGoodFood",
     "ATcount": 194,
     "WRcount": 12,
     "Mapcount": 0
@@ -414,6 +414,24 @@
     "Mapcount": 0
   },
   {
+    "_id": "Karlukki",
+    "ATcount": 2,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "pizza.TM",
+    "ATcount": 5,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Marchielli",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Sqlc.",
     "ATcount": 24,
     "WRcount": 10,
@@ -492,26 +510,8 @@
     "Mapcount": 0
   },
   {
-    "_id": "pizza.TM",
-    "ATcount": 4,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Curry.TM",
     "ATcount": 9,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Karlukki",
-    "ATcount": 1,
-    "WRcount": 1,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Marchielli",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1807,7 +1807,7 @@
   },
   {
     "_id": "Ljels23",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2857,7 +2857,7 @@
   },
   {
     "_id": "EULAsAreUnfair",
-    "ATcount": 27,
+    "ATcount": 28,
     "WRcount": 12,
     "Mapcount": 0
   },
@@ -3312,7 +3312,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "propanoia",
+    "_id": "valeriabounzze",
     "ATcount": 11,
     "WRcount": 0,
     "Mapcount": 0
@@ -36432,8 +36432,8 @@
     "Mapcount": 0
   },
   {
-    "_id": "Totima",
-    "ATcount": 1,
+    "_id": "CommunistWaffle",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -44893,7 +44893,7 @@
   },
   {
     "_id": "Nebelben",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -48787,6 +48787,12 @@
   },
   {
     "_id": "Naav38",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "RDB_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56064,7 +56070,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "NagyKaka_TM",
+    "_id": "mr_dog_food",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61783,12 +61789,6 @@
   },
   {
     "_id": "zippychippy",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Shepherdv1.101",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -78360,7 +78360,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "pReis.",
+    "_id": "PReisTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -82717,12 +82717,6 @@
   },
   {
     "_id": "Slayerdtls",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "CommunistWaffle",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
