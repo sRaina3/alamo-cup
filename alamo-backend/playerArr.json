@@ -73,7 +73,7 @@
   },
   {
     "_id": "Jxliano",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -91,7 +91,7 @@
   },
   {
     "_id": "Liquid.V2",
-    "ATcount": 69,
+    "ATcount": 70,
     "WRcount": 6,
     "Mapcount": 1
   },
@@ -1968,9 +1968,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "DexteR.771",
+    "ATcount": 5,
+    "WRcount": 4,
+    "Mapcount": 0
+  },
+  {
     "_id": "RelaxLadies.",
     "ATcount": 3,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -2262,6 +2268,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "AutizticPandaz",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "kobeph21",
     "ATcount": 2,
     "WRcount": 0,
@@ -2294,6 +2306,12 @@
   {
     "_id": "KaleTheNoise",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Steel.TM",
+    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4315,8 +4333,8 @@
   },
   {
     "_id": "jujumasterr",
-    "ATcount": 13,
-    "WRcount": 3,
+    "ATcount": 14,
+    "WRcount": 4,
     "Mapcount": 0
   },
   {
@@ -4375,7 +4393,7 @@
   },
   {
     "_id": "eLconn21",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -5269,7 +5287,7 @@
   },
   {
     "_id": "GreenLogos-",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7201,7 +7219,7 @@
   },
   {
     "_id": "XplosivTM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -7892,12 +7910,6 @@
   {
     "_id": "F1eX.TM",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Steel.TM",
-    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -16002,7 +16014,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "D0minik_2020",
+    "_id": "Niebianski",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -19962,7 +19974,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "sinuose",
+    "_id": "inkunuga",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -22453,7 +22465,7 @@
   },
   {
     "_id": "C_kwak",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -28626,7 +28638,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "PioMine",
+    "_id": "Sof.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -45108,6 +45120,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "roulyo_TM",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Linus_TM",
     "ATcount": 2,
     "WRcount": 0,
@@ -52908,7 +52926,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "twigsss",
+    "_id": "SESHxHESH",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -57552,7 +57570,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Imbouttobistm",
+    "_id": "CaptnHook2",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -60132,6 +60150,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "AnDy_power88",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "namtar55",
     "ATcount": 1,
     "WRcount": 0,
@@ -61836,18 +61860,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "TeamBrother711",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Herbelizer07",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -61911,6 +61923,12 @@
     "_id": "Atarexy",
     "ATcount": 2,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "ShcrTM",
+    "ATcount": 23,
+    "WRcount": 4,
     "Mapcount": 0
   },
   {
@@ -67267,7 +67285,7 @@
   },
   {
     "_id": "Zofaiiz",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -70044,12 +70062,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "ShcrTM",
-    "ATcount": 22,
-    "WRcount": 4,
-    "Mapcount": 0
-  },
-  {
     "_id": "JoueurROUND",
     "ATcount": 1,
     "WRcount": 0,
@@ -71023,7 +71035,7 @@
   },
   {
     "_id": "Nathan_....",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -74976,12 +74988,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "DexteR.771",
-    "ATcount": 4,
-    "WRcount": 3,
-    "Mapcount": 0
-  },
-  {
     "_id": "Epos.",
     "ATcount": 1,
     "WRcount": 0,
@@ -78314,7 +78320,7 @@
   {
     "_id": "jandro-._",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -92268,7 +92274,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "sole8r",
+    "_id": "Spoolzz",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -95322,7 +95328,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TXG_SACI",
+    "_id": "Maximo_Boxetti",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -96636,7 +96642,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "WittoTC",
+    "_id": "WittoB1x",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -101761,6 +101767,12 @@
   },
   {
     "_id": "Igleace",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "xJarvis911",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
