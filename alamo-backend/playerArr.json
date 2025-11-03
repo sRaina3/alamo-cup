@@ -180,9 +180,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "Sheinimi.",
+    "ATcount": 1,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
     "_id": "PurgeLaLegende",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -739,7 +745,7 @@
   },
   {
     "_id": "SliderMonkey",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -924,7 +930,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Qez._.",
+    "_id": "Qez.srg",
     "ATcount": 21,
     "WRcount": 0,
     "Mapcount": 1
@@ -1045,7 +1051,7 @@
   },
   {
     "_id": "BusGill",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -40536,7 +40542,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "David.B3",
+    "_id": "Davidonut3",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -67578,7 +67584,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Jumper.evo",
+    "_id": "Jump3r..",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -97284,6 +97290,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Neobeam",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Kchortu",
     "ATcount": 1,
     "WRcount": 0,
@@ -100794,7 +100806,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FlappyMcGee",
+    "_id": "Vrelduin",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
