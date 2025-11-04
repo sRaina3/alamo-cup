@@ -180,14 +180,14 @@
     "Mapcount": 0
   },
   {
-    "_id": "Sheinimi.",
-    "ATcount": 1,
+    "_id": "PurgeLaLegende",
+    "ATcount": 2,
     "WRcount": 1,
     "Mapcount": 0
   },
   {
-    "_id": "PurgeLaLegende",
-    "ATcount": 2,
+    "_id": "Sheinimi.",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -212,6 +212,12 @@
   {
     "_id": "ROtrex..",
     "ATcount": 7,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Hand__",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -8676,7 +8682,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "shortz._",
+    "_id": "short_tm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -19225,7 +19231,7 @@
   },
   {
     "_id": "Daysleeper_TM",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -39565,7 +39571,7 @@
   },
   {
     "_id": "ZdendaFTW",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -42998,6 +43004,12 @@
   {
     "_id": "HomemadeJAM",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "B0bbyTM",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -54312,7 +54324,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "d1mndnthr0ugh",
+    "_id": "Pneey_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -55105,12 +55117,6 @@
   },
   {
     "_id": "n1ght_end",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "B0bbyTM",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -62232,7 +62238,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "UKFlamez",
+    "_id": "Flamez.TM",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -62485,7 +62491,7 @@
   },
   {
     "_id": "Noam.TM",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -71280,7 +71286,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FireSkilz42",
+    "_id": "Nyquist..",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -79495,12 +79501,6 @@
   },
   {
     "_id": "C3rberus9",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Hand__",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -102372,7 +102372,7 @@
     "Mapcount": 1
   },
   {
-    "_id": "slowdodo",
+    "_id": "dodo.tm",
     "ATcount": 0,
     "WRcount": 0,
     "Mapcount": 5
