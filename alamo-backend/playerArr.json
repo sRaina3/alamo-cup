@@ -55,7 +55,7 @@
   },
   {
     "_id": "Kallaxtrom",
-    "ATcount": 130,
+    "ATcount": 134,
     "WRcount": 12,
     "Mapcount": 21
   },
@@ -180,9 +180,15 @@
     "Mapcount": 0
   },
   {
+    "_id": "FeedTM",
+    "ATcount": 7,
+    "WRcount": 2,
+    "Mapcount": 0
+  },
+  {
     "_id": "PurgeLaLegende",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -195,12 +201,6 @@
     "_id": "Roquete",
     "ATcount": 1,
     "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "FeedTM",
-    "ATcount": 7,
-    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -52218,7 +52218,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "JunesBonkBonkBo",
+    "_id": "TheRenoFeIIa",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -67704,7 +67704,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Rice.Shower",
+    "_id": "snow_white0108",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -80526,7 +80526,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "yanuzi.",
+    "_id": "Litro.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
