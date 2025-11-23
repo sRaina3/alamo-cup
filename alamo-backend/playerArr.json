@@ -2653,8 +2653,8 @@
   },
   {
     "_id": "r4diaxo",
-    "ATcount": 6,
-    "WRcount": 0,
+    "ATcount": 7,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -3961,7 +3961,7 @@
   },
   {
     "_id": "Puppy.Tay",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4374,7 +4374,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "RYCHLIK_07065",
+    "_id": "RYCHLIK_TM",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -5953,7 +5953,7 @@
   },
   {
     "_id": "DiceTM_",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10261,7 +10261,7 @@
   },
   {
     "_id": "lomasten",
-    "ATcount": 10,
+    "ATcount": 11,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -19147,7 +19147,7 @@
   },
   {
     "_id": "Ox4E6F596F75",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -19716,7 +19716,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Mobbier.de",
+    "_id": "Mobbi._.",
     "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
@@ -21588,7 +21588,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "VirtualDUST2",
+    "_id": "Virtual_Dust",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56346,7 +56346,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "darquesse.NVR",
+    "_id": "darquesse.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -62058,6 +62058,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Liv.2C",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "DanSchlue",
     "ATcount": 1,
     "WRcount": 0,
@@ -62138,7 +62144,7 @@
   {
     "_id": "Novastxr",
     "ATcount": 344,
-    "WRcount": 52,
+    "WRcount": 51,
     "Mapcount": 4
   },
   {
@@ -74353,12 +74359,6 @@
   },
   {
     "_id": "Lst.Whspr",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Liv.2C",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -101629,6 +101629,12 @@
   },
   {
     "_id": "molvansnoa",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Trazqed",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
