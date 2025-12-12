@@ -1261,7 +1261,7 @@
   },
   {
     "_id": "Nightroast",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 2,
     "Mapcount": 4
   },
@@ -1698,7 +1698,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "JOE_SANE.TM",
+    "_id": "SM.JOE_SANE",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -1890,7 +1890,7 @@
     "Mapcount": 5
   },
   {
-    "_id": "Chamow",
+    "_id": "chamow",
     "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
@@ -3198,7 +3198,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "oskarrr.",
+    "_id": "r3.oskar",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -15606,7 +15606,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Raway..",
+    "_id": "Raway.TV",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36565,7 +36565,7 @@
   },
   {
     "_id": "volte7",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -47814,7 +47814,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Orixx.",
+    "_id": "Dan.TMN",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -56490,6 +56490,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Overrated_Fate",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Lefouore",
     "ATcount": 4,
     "WRcount": 0,
@@ -61909,12 +61915,6 @@
   },
   {
     "_id": "Hiimzeka420",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "SammySaucea",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -79242,7 +79242,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "KiX.86",
+    "_id": "KiX-.",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
