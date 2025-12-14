@@ -193,7 +193,7 @@
   },
   {
     "_id": "Azion.",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -379,7 +379,7 @@
   },
   {
     "_id": "DrShnizzle",
-    "ATcount": 21,
+    "ATcount": 22,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1423,7 +1423,7 @@
   },
   {
     "_id": "Molle_.",
-    "ATcount": 10,
+    "ATcount": 12,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -1513,8 +1513,8 @@
   },
   {
     "_id": "HeadMasterKill",
-    "ATcount": 120,
-    "WRcount": 15,
+    "ATcount": 121,
+    "WRcount": 16,
     "Mapcount": 0
   },
   {
@@ -1789,7 +1789,7 @@
   },
   {
     "_id": "Heav.3Y",
-    "ATcount": 36,
+    "ATcount": 38,
     "WRcount": 4,
     "Mapcount": 0
   },
@@ -2791,7 +2791,7 @@
   },
   {
     "_id": "Toto-_---",
-    "ATcount": 49,
+    "ATcount": 51,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -3313,7 +3313,7 @@
   },
   {
     "_id": "zerbrezler2000",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -6066,7 +6066,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Airwam.",
+    "_id": "Awam.",
     "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
@@ -13500,7 +13500,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "JunseQuoi",
+    "_id": "JunerBonkAlot",
     "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
@@ -31368,7 +31368,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "CaptnTimmy",
+    "_id": "Tim0shy",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -52927,7 +52927,7 @@
   },
   {
     "_id": "Fraa.TM",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -56359,6 +56359,12 @@
   },
   {
     "_id": "Zeerkyy--",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Sissonsec",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61914,12 +61920,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Orgon",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NCLegionnaire",
     "ATcount": 2,
     "WRcount": 0,
@@ -62282,7 +62282,7 @@
   {
     "_id": "omay_",
     "ATcount": 4,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -63024,7 +63024,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TotallyNotOwl",
+    "_id": "OwlEye",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -73860,6 +73860,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "idc-_-",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "TecHaTM",
     "ATcount": 1,
     "WRcount": 0,
@@ -75318,6 +75324,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "A-----------ORS",
+    "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Silver.TM",
     "ATcount": 1,
     "WRcount": 0,
@@ -76398,12 +76410,6 @@
     "Mapcount": 4
   },
   {
-    "_id": "A-----------ORS",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "LEKAS95",
     "ATcount": 1,
     "WRcount": 0,
@@ -77060,12 +77066,6 @@
   {
     "_id": "Zartox.TM",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "idc-_-",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -77834,6 +77834,12 @@
   {
     "_id": "Sysnak",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "tpack34",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
