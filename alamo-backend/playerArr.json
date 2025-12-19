@@ -92,7 +92,7 @@
   {
     "_id": "noiszia",
     "ATcount": 41,
-    "WRcount": 5,
+    "WRcount": 3,
     "Mapcount": 3
   },
   {
@@ -1531,8 +1531,8 @@
   },
   {
     "_id": "HeadMasterKill",
-    "ATcount": 121,
-    "WRcount": 15,
+    "ATcount": 123,
+    "WRcount": 19,
     "Mapcount": 0
   },
   {
@@ -2930,7 +2930,7 @@
   {
     "_id": "MellowJA",
     "ATcount": 48,
-    "WRcount": 5,
+    "WRcount": 4,
     "Mapcount": 2
   },
   {
@@ -4304,7 +4304,7 @@
   {
     "_id": "DemirTM",
     "ATcount": 9,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -16819,7 +16819,7 @@
   },
   {
     "_id": "E1saku_",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -21025,7 +21025,7 @@
   },
   {
     "_id": "Arctikey",
-    "ATcount": 5,
+    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -41490,6 +41490,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "LukeMast3r__",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "monstro.leo",
     "ATcount": 1,
     "WRcount": 0,
@@ -54451,7 +54457,7 @@
   },
   {
     "_id": "floppydriver__",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -55399,7 +55405,7 @@
   },
   {
     "_id": "rnardy",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -61908,12 +61914,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Messilover449",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NikoTm",
     "ATcount": 7,
     "WRcount": 0,
@@ -68076,7 +68076,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "neriat",
+    "_id": "gtr-_-",
     "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
@@ -95868,7 +95868,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "c0nvulsive",
+    "_id": "Conceptee",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
