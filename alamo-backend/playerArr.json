@@ -942,6 +942,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Pepper_00",
+    "ATcount": 8,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Creamytrees",
     "ATcount": 10,
     "WRcount": 0,
@@ -1088,6 +1094,12 @@
   {
     "_id": "Hannoitwist",
     "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "moneyman0427",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -1429,7 +1441,7 @@
   },
   {
     "_id": "Never.95",
-    "ATcount": 12,
+    "ATcount": 13,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -2852,6 +2864,12 @@
   {
     "_id": "mt.ssenv",
     "ATcount": 2,
+    "WRcount": 1,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Roquett",
+    "ATcount": 7,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -6624,7 +6642,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FOREAAL_",
+    "_id": "Kymi_tm",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -10153,7 +10171,7 @@
   },
   {
     "_id": "solgaleo66",
-    "ATcount": 7,
+    "ATcount": 8,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -43188,6 +43206,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Slein825",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "FadeMTH",
     "ATcount": 1,
     "WRcount": 0,
@@ -44184,7 +44208,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "posik.ai",
+    "_id": "posik.kubica",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -58386,12 +58410,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Roquett",
-    "ATcount": 6,
-    "WRcount": 1,
-    "Mapcount": 0
-  },
-  {
     "_id": "AlienNeila75",
     "ATcount": 1,
     "WRcount": 0,
@@ -61904,12 +61922,6 @@
   {
     "_id": "Epodon11",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "onthew0rld",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -75325,7 +75337,7 @@
   },
   {
     "_id": "A-----------ORS",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -76310,12 +76322,6 @@
   {
     "_id": "nora.lama.owo",
     "ATcount": 3,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Pepper_00",
-    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -77582,12 +77588,6 @@
   {
     "_id": "Just1A1Duck",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "moneyman0427",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -97489,6 +97489,12 @@
   },
   {
     "_id": "Neobeam",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Hunger18",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
