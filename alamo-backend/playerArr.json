@@ -92,7 +92,7 @@
   {
     "_id": "noiszia",
     "ATcount": 41,
-    "WRcount": 3,
+    "WRcount": 2,
     "Mapcount": 3
   },
   {
@@ -572,7 +572,7 @@
   {
     "_id": "Sqlc.",
     "ATcount": 24,
-    "WRcount": 10,
+    "WRcount": 9,
     "Mapcount": 1
   },
   {
@@ -1567,8 +1567,8 @@
   },
   {
     "_id": "HeadMasterKill",
-    "ATcount": 123,
-    "WRcount": 19,
+    "ATcount": 124,
+    "WRcount": 22,
     "Mapcount": 0
   },
   {
@@ -25728,7 +25728,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "papygriffin",
+    "_id": "ZOO_papygriffin",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -28434,7 +28434,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "f9f9f",
+    "_id": "ff....",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -38160,6 +38160,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "MCBROOOOM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "ShinobeNinja",
     "ATcount": 1,
     "WRcount": 0,
@@ -39330,7 +39336,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Pixllez",
+    "_id": "OnionsAreGood",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61950,12 +61956,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Utilael",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NikoTm",
     "ATcount": 7,
     "WRcount": 0,
@@ -62054,7 +62054,7 @@
   {
     "_id": "peanutsjorker",
     "ATcount": 169,
-    "WRcount": 8,
+    "WRcount": 7,
     "Mapcount": 3
   },
   {
@@ -62197,7 +62197,7 @@
   },
   {
     "_id": "Lueces",
-    "ATcount": 11,
+    "ATcount": 12,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -64519,7 +64519,7 @@
   },
   {
     "_id": "DarkLight..",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -67514,6 +67514,12 @@
   {
     "_id": "iocto._.",
     "ATcount": 17,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Dingus_TM",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -95814,12 +95820,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Dingus_TM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "MetaSumeer_TM",
     "ATcount": 1,
     "WRcount": 0,
@@ -100567,12 +100567,6 @@
   },
   {
     "_id": "Blasterz61",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "MCBROOOOM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
