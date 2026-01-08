@@ -1573,8 +1573,8 @@
   },
   {
     "_id": "HeadMasterKill",
-    "ATcount": 131,
-    "WRcount": 34,
+    "ATcount": 133,
+    "WRcount": 35,
     "Mapcount": 0
   },
   {
@@ -55590,6 +55590,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "FOS_2000",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "JayVee_",
     "ATcount": 3,
     "WRcount": 0,
@@ -55908,7 +55914,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TM_Sensa",
+    "_id": "Sensa.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61950,12 +61956,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Zissler",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "NikoTm",
     "ATcount": 7,
     "WRcount": 0,
@@ -62222,7 +62222,7 @@
   {
     "_id": "Novastxr",
     "ATcount": 344,
-    "WRcount": 48,
+    "WRcount": 47,
     "Mapcount": 4
   },
   {
@@ -63180,7 +63180,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Quibz.LMN",
+    "_id": "Quibz.LIB",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -101430,7 +101430,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Art3misIOI",
+    "_id": "Almon.d",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
