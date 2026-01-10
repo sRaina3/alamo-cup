@@ -128,7 +128,7 @@
   {
     "_id": "SoupIsGoodFood",
     "ATcount": 194,
-    "WRcount": 10,
+    "WRcount": 9,
     "Mapcount": 0
   },
   {
@@ -942,6 +942,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Utenglutenguten",
+    "ATcount": 7,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Blavok",
     "ATcount": 4,
     "WRcount": 0,
@@ -1580,7 +1586,7 @@
   {
     "_id": "HeadMasterKill",
     "ATcount": 133,
-    "WRcount": 35,
+    "WRcount": 37,
     "Mapcount": 0
   },
   {
@@ -3896,12 +3902,6 @@
   {
     "_id": "henkisme",
     "ATcount": 7,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Utenglutenguten",
-    "ATcount": 6,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10603,7 +10603,7 @@
   },
   {
     "_id": "HRAND5",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -22064,7 +22064,7 @@
   {
     "_id": "Wouto1997",
     "ATcount": 2,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -25878,7 +25878,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "ErkDaJerk22",
+    "_id": "ungenerik",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -50659,7 +50659,7 @@
   },
   {
     "_id": "ppfuzzy",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -55417,6 +55417,12 @@
   },
   {
     "_id": "smistrato",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "xSrK-nZ",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -61952,12 +61958,6 @@
   {
     "_id": "D2C.TM",
     "ATcount": 5,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Shiroe_TV",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -69625,7 +69625,7 @@
   },
   {
     "_id": "antlrs",
-    "ATcount": 3,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -77234,6 +77234,12 @@
   {
     "_id": "Jadey-",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "antlers64",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -97327,6 +97333,12 @@
   },
   {
     "_id": "Stringfax",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "NxveenOP",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
