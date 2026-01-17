@@ -505,7 +505,7 @@
   },
   {
     "_id": "charles-..",
-    "ATcount": 27,
+    "ATcount": 28,
     "WRcount": 2,
     "Mapcount": 1
   },
@@ -3168,6 +3168,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Nalax_tm",
+    "ATcount": 9,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Dee.Bee",
     "ATcount": 1,
     "WRcount": 1,
@@ -5448,12 +5454,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Nalax_tm",
-    "ATcount": 8,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "Smokhe",
     "ATcount": 2,
     "WRcount": 0,
@@ -5863,7 +5863,7 @@
   },
   {
     "_id": "DevilDonut",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -18228,7 +18228,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "TheMattalan",
+    "_id": "Totally_Penguin",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -26496,6 +26496,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Young.Robot",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "vViper_",
     "ATcount": 2,
     "WRcount": 0,
@@ -27840,7 +27846,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "FeeOLimA",
+    "_id": "Maconhist4",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -33546,6 +33552,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "OBymS",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "VaTeipVaa",
     "ATcount": 1,
     "WRcount": 0,
@@ -36702,7 +36714,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "volte7",
+    "_id": "volte-.-",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -52321,7 +52333,7 @@
   },
   {
     "_id": "Takeooooo",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -61957,18 +61969,6 @@
   },
   {
     "_id": "RalphLaurensDj",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Ziegenfleisch",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "TheBaronBull",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -73285,7 +73285,7 @@
   },
   {
     "_id": "Dridrien24",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -79128,7 +79128,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "duch.tm",
+    "_id": "xduch.tm",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -100069,6 +100069,12 @@
   },
   {
     "_id": "Swaren_n",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Dutchzz_Climax",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
