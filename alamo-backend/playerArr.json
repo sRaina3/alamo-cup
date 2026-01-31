@@ -134,7 +134,7 @@
   {
     "_id": "SoupIsGoodFood",
     "ATcount": 194,
-    "WRcount": 8,
+    "WRcount": 7,
     "Mapcount": 0
   },
   {
@@ -1501,7 +1501,7 @@
   },
   {
     "_id": "Molle_.",
-    "ATcount": 12,
+    "ATcount": 13,
     "WRcount": 1,
     "Mapcount": 0
   },
@@ -4482,7 +4482,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "RDN.Razor",
+    "_id": "RazorTM_",
     "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
@@ -6655,8 +6655,8 @@
   },
   {
     "_id": "ITz.Shadow.",
-    "ATcount": 11,
-    "WRcount": 0,
+    "ATcount": 12,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -13219,7 +13219,7 @@
   },
   {
     "_id": "Sully..",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -22328,6 +22328,12 @@
   {
     "_id": "jchenry14",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "beni8en",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -36804,7 +36810,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "conical_ice.tm",
+    "_id": "angeltas",
     "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
@@ -43093,7 +43099,7 @@
   },
   {
     "_id": "Nombril_profond",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -46346,6 +46352,12 @@
   {
     "_id": "Yannou._",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "moktavarium",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -61566,6 +61578,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Fox22.",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Monty57ChemE",
     "ATcount": 1,
     "WRcount": 0,
@@ -61982,24 +62000,6 @@
   {
     "_id": "VDemainV",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Kayyy69420",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Sheiksss",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "fleche58",
-    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -71540,6 +71540,12 @@
   {
     "_id": "existenzverbot",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "fleche58",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
