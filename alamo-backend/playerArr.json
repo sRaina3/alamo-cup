@@ -222,6 +222,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Loso-",
+    "ATcount": 14,
+    "WRcount": 6,
+    "Mapcount": 0
+  },
+  {
     "_id": "Astronomia_",
     "ATcount": 1,
     "WRcount": 0,
@@ -290,6 +296,12 @@
   {
     "_id": "Hand__",
     "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "propanoia",
+    "ATcount": 13,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2232,7 +2244,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fredwolftm",
+    "_id": "only.for.genius",
     "ATcount": 16,
     "WRcount": 0,
     "Mapcount": 0
@@ -3696,12 +3708,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "propanoia",
-    "ATcount": 12,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
     "_id": "HusoTM",
     "ATcount": 4,
     "WRcount": 0,
@@ -4315,7 +4321,7 @@
   },
   {
     "_id": "BRand0M_TM",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 2,
     "Mapcount": 0
   },
@@ -9720,7 +9726,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "alerosa",
+    "_id": "Silent_TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -14076,7 +14082,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "lucy.tx",
+    "_id": "luctricks3d",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -15288,7 +15294,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Zen...z",
+    "_id": "floTM...",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -18108,7 +18114,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "oNowa",
+    "_id": "albinounicorn67",
     "ATcount": 5,
     "WRcount": 1,
     "Mapcount": 0
@@ -21612,7 +21618,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Rafiestal",
+    "_id": "Rafi.wav",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -27150,7 +27156,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Wynderyx",
+    "_id": "Winderix.AM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -36354,7 +36360,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Techno399",
+    "_id": "Rift3ch",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -40908,6 +40914,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "koen147",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "jamesphoenix",
     "ATcount": 1,
     "WRcount": 0,
@@ -43189,7 +43201,7 @@
   },
   {
     "_id": "Paynn_TM",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -60696,6 +60708,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "rgl--",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "DJGoofyWhitekid",
     "ATcount": 1,
     "WRcount": 0,
@@ -61993,18 +62011,6 @@
   },
   {
     "_id": "looploop-080980",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "ypresbm",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "gadgetgreen",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -65496,8 +65502,8 @@
     "Mapcount": 0
   },
   {
-    "_id": "zesttt-",
-    "ATcount": 1,
+    "_id": "af6c",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -66354,7 +66360,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Eoogybobz13",
+    "_id": "esoogybobz",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -68058,12 +68064,6 @@
     "Mapcount": 0
   },
   {
-    "_id": "Loso-",
-    "ATcount": 13,
-    "WRcount": 6,
-    "Mapcount": 0
-  },
-  {
     "_id": "Lolzor1995",
     "ATcount": 1,
     "WRcount": 0,
@@ -68364,7 +68364,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AHmeister",
+    "_id": "Entspanton",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -76141,7 +76141,7 @@
   },
   {
     "_id": "Mr.Snowdie",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -83400,7 +83400,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "jv_demon",
+    "_id": "chickenpiepop",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -88267,12 +88267,6 @@
   },
   {
     "_id": "DutchLibertyy",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "af6c",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
