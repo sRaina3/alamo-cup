@@ -1735,7 +1735,7 @@
   },
   {
     "_id": "H41F",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2192,6 +2192,18 @@
   {
     "_id": "Scorply_.",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "FrankTheHamster",
+    "ATcount": 8,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Doowie.",
+    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -4188,7 +4200,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "PuppyTay_",
+    "_id": "eepytay",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -4928,12 +4940,6 @@
   {
     "_id": "Hanky.TM",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "FrankTheHamster",
-    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -57660,6 +57666,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Usynligzombi",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "MCBBigRed2k11",
     "ATcount": 2,
     "WRcount": 0,
@@ -62017,12 +62029,6 @@
   },
   {
     "_id": "Clemensonge",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Cruci_fixion",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -74360,6 +74366,12 @@
   {
     "_id": "MrElectricNick",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "otavro",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -87534,6 +87546,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "fancygamer0",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Squashii-",
     "ATcount": 1,
     "WRcount": 0,
@@ -88813,12 +88831,6 @@
   },
   {
     "_id": "DaelinFox",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "otavro",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
