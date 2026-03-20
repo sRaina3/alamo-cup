@@ -342,6 +342,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "ShibalaTM",
+    "ATcount": 2,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Heathcliff_Tm",
     "ATcount": 6,
     "WRcount": 0,
@@ -368,6 +374,12 @@
   {
     "_id": "Ujimaa.",
     "ATcount": 3,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "th0m..",
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -10231,7 +10243,7 @@
   },
   {
     "_id": "ScaryGarageGary",
-    "ATcount": 1,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -45426,6 +45438,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "GingerJoe43",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Kinseshi",
     "ATcount": 3,
     "WRcount": 0,
@@ -46861,7 +46879,7 @@
   },
   {
     "_id": "WindTime",
-    "ATcount": 1,
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -51391,7 +51409,7 @@
   },
   {
     "_id": "YAAAZb",
-    "ATcount": 2,
+    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -60168,6 +60186,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "GeographyLights",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "RRLUCKYY",
     "ATcount": 1,
     "WRcount": 0,
@@ -60553,6 +60577,12 @@
   },
   {
     "_id": "CoreSurvivor",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "michaelreidd",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -62035,24 +62065,6 @@
   },
   {
     "_id": "Phoenix-196",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "qbxoo",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "ShamLV",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "PoptartJesus",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -65088,7 +65100,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "xXCarlesPuchiXx",
+    "_id": "ken_aboh",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -65648,12 +65660,6 @@
   {
     "_id": "trc0",
     "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "th0m..",
-    "ATcount": 3,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -67333,12 +67339,6 @@
   },
   {
     "_id": "kawitm",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "ShibalaTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
