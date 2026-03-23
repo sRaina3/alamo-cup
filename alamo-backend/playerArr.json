@@ -2017,7 +2017,7 @@
   },
   {
     "_id": "PebTM",
-    "ATcount": 6,
+    "ATcount": 7,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -9042,7 +9042,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "EntoTM-.-",
+    "_id": "LokiTM-.-",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -11484,7 +11484,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "fansolion",
+    "_id": "FANSOLEON",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -33156,6 +33156,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Ryobe.",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Neoterzial",
     "ATcount": 5,
     "WRcount": 0,
@@ -39726,7 +39732,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "haddockH.",
+    "_id": "isak.TM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -44162,6 +44168,12 @@
   {
     "_id": "Mehzera",
     "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "iour12",
+    "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -54564,7 +54576,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "AXxon_N",
+    "_id": "C.L.O.D",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -60762,6 +60774,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "Darksoll17",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "SorryNoobbb",
     "ATcount": 1,
     "WRcount": 0,
@@ -62054,24 +62072,6 @@
   {
     "_id": "qualig",
     "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "LeckSippi04",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Gabriel_Drake",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Keestonelite",
-    "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -66931,6 +66931,12 @@
   },
   {
     "_id": "Foxitosis",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Sephyra_",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -78744,7 +78750,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Anaheim..",
+    "_id": "Tatu27z",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -89995,12 +90001,6 @@
   },
   {
     "_id": "CoralFurlin",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "iour12",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -102457,6 +102457,12 @@
   },
   {
     "_id": "Bulgork",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "Lucas_Solera",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
