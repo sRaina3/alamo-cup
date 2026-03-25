@@ -385,7 +385,7 @@
   },
   {
     "_id": "th0m..",
-    "ATcount": 4,
+    "ATcount": 5,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -2030,7 +2030,7 @@
   {
     "_id": "Roifler.",
     "ATcount": 9,
-    "WRcount": 1,
+    "WRcount": 0,
     "Mapcount": 0
   },
   {
@@ -2749,7 +2749,7 @@
   },
   {
     "_id": "wrain_.",
-    "ATcount": 18,
+    "ATcount": 19,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -12612,7 +12612,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "johnisson",
+    "_id": "urbiTM",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -15420,7 +15420,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Fate_Namiele",
+    "_id": "Fate_Namii",
     "ATcount": 2,
     "WRcount": 0,
     "Mapcount": 0
@@ -34291,7 +34291,7 @@
   },
   {
     "_id": "samamuelas",
-    "ATcount": 3,
+    "ATcount": 4,
     "WRcount": 0,
     "Mapcount": 0
   },
@@ -56046,7 +56046,7 @@
     "Mapcount": 0
   },
   {
-    "_id": "Eagle.WFZ",
+    "_id": "Eagle.DR",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -56161,6 +56161,12 @@
   },
   {
     "_id": "EXP_Bwabwa",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "wiskyllers",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -59172,6 +59178,12 @@
     "Mapcount": 0
   },
   {
+    "_id": "awbie",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
     "_id": "Moi-Balalala",
     "ATcount": 2,
     "WRcount": 0,
@@ -62059,24 +62071,6 @@
   },
   {
     "_id": "barboozTM",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "Bab0wster",
-    "ATcount": 1,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "MylesTheGreat",
-    "ATcount": 2,
-    "WRcount": 0,
-    "Mapcount": 0
-  },
-  {
-    "_id": "AllSkillGaming",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
@@ -67677,6 +67671,12 @@
     "_id": "ElectricTiTi",
     "ATcount": 1,
     "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "GravelGuyTM",
+    "ATcount": 1,
+    "WRcount": 1,
     "Mapcount": 0
   },
   {
@@ -86155,6 +86155,12 @@
   },
   {
     "_id": "fholbech",
+    "ATcount": 1,
+    "WRcount": 0,
+    "Mapcount": 0
+  },
+  {
+    "_id": "MylesTheGreat",
     "ATcount": 1,
     "WRcount": 0,
     "Mapcount": 0
